@@ -30,7 +30,7 @@ This is what commonly called "resonance" though unfamiliar to me. Most people ev
 
 我说过我喜欢《呼啸山庄》。但是我对凯茜和希斯是理解而非代入。这种纯粹的情感其实相当好判断——作者都写出来了，又不需要我自己观察他们的表情动作什么的。虽然说也会有“换了我听到凯茜这么说，我也会让这两座山庄所有人包括我自己都别想好过”这种认同，但我不会像第一类那样情感上感到接下来不知道怎么做、接下来要做什么。我只是站在上帝视角磕 CP，看同样的灵魂迷路时在荒野上呼啸，以及误入其中被抽得找不着北的其他角色。
 
-## Reflect as if I mirrored it
+## Reflect as if I would have been
 
 啊，我当然没有浮士德那样的野心，至少我比他怠惰多了，不会如此富有行动力地研究到老。
 
