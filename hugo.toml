@@ -5,10 +5,6 @@ theme = 'PaperMod'
 defaultContentLanguage = "zh"  # 设定中文为默认
 defaultContentLanguageInSubdir = false # 关键！设为 false，则中文路径为 / 而非 /zh/
 
-[params]
-    # 允许出现在首页的分区列表
-    mainSections = ["literature", "essay", "review", "flash"]
-
 [taxonomies]
     category = "categories"
     tag = "tags"
@@ -28,6 +24,9 @@ defaultContentLanguageInSubdir = false # 关键！设为 false，则中文路径
     contentDir = "content/zh"
     weight = 1
     title = "Xeyus Archive"
+
+    [languages.zh.params]
+    mainSections = ["literature", "essay", "review", "flash"]
     
     [[languages.zh.menu.main]]
       name = "创作"
@@ -59,6 +58,9 @@ defaultContentLanguageInSubdir = false # 关键！设为 false，则中文路径
     contentDir = "content/en"
     weight = 2
     title = "Xeyus Archive"
+
+    [languages.en.params]
+    mainSections = ["literature", "essay", "review", "flash"]
 
     [[languages.en.menu.main]]
       name = "Literature"
