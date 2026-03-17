@@ -1,8 +1,8 @@
 ---
 title: {{ .Name }}
 date: {{ .Date }}
-draft: true
-type: "idea"
+draft: false
+type: "flash"
 series: []
 tags: []
 ---

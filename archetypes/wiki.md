@@ -1,7 +1,7 @@
 ---
 title: {{ .Name }}
 date: {{ .Date }}
-draft: true
+draft: false
 type: "wiki"
 series: []
 tags: []

@@ -3,6 +3,10 @@ languageCode = 'zh-CN'
 title = 'Xeyus Archive'
 theme = 'PaperMod'
 
+[params]
+    # 允许出现在首页的分区列表
+    mainSections = ["literature", "essay", "review", "flash"]
+
 [taxonomies]
     category = "categories"
     tag = "tags"
@@ -12,39 +16,45 @@ theme = 'PaperMod'
     literature = "/lit/:contentbasename/"
     review  = "/review/:contentbasename/"
     essay   = "/essays/:contentbasename/"
-    cut    = "/cut/:contentbasename/"
+    flash    = "/flash/:contentbasename/"
     log      = "/log/:contentbasename/"
     wiki     = "/wiki/:contentbasename/"
 
-[menu]
-    # 顶部导航栏配置
-    [[menu.main]]
-        identifier = "literature"
-        name = "创作"
-        url = "/lit/"
-        weight = 10
-    [[menu.main]]
-        identifier = "review"
-        name = "回响"
-        url = "/review/"
-        weight = 20
-    [[menu.main]]
-        identifier = "essay"
-        name = "思辨"
-        url = "/essay/"
-        weight = 30
-    [[menu.main]]
-        identifier = "cut"
-        name = "瞬念"
-        url = "/cut/"
-        weight = 40
-    [[menu.main]]
-        identifier = "wiki"
-        name = "馆藏"
-        url = "/wiki/"
-        weight = 50
-    [[menu.main]]
-        identifier = "log"
-        name = "时轴"
-        url = "/log/"
-        weight = 60
+[languages]
+  [languages.zh]
+    languageName = "简体中文"
+    contentDir = "content/zh"
+    weight = 1
+    title = "Xeyus Archive"
+    
+    [[languages.zh.menu.main]]
+      name = "创作"; url = "/lit/"; weight = 10
+    [[languages.zh.menu.main]]
+      name = "回响"; url = "/review/"; weight = 20
+    [[languages.zh.menu.main]]
+      name = "思辨"; url = "/essay/"; weight = 30
+    [[languages.zh.menu.main]]
+      name = "瞬念"; url = "/flash/"; weight = 40
+    [[languages.zh.menu.main]]
+      name = "馆藏"; url = "/wiki/"; weight = 50
+    [[languages.zh.menu.main]]
+      name = "时轴"; url = "/log/"; weight = 60
+
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+    title = "Xeyus Archive (EN)"
+
+    [[languages.en.menu.main]]
+      name = "Literature"; url = "/lit/"; weight = 10
+    [[languages.en.menu.main]]
+      name = "Review"; url = "/review/"; weight = 20
+    [[languages.en.menu.main]]
+      name = "Essay"; url = "/essay/"; weight = 30
+    [[languages.en.menu.main]]
+      name = "Flash"; url = "/flash/"; weight = 40
+    [[languages.en.menu.main]]
+      name = "Wiki"; url = "/wiki/"; weight = 50
+    [[languages.en.menu.main]]
+      name = "Log"; url = "/log/"; weight = 60
