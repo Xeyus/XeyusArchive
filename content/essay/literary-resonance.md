@@ -1,7 +1,7 @@
 ---
 title: literary-resonance
 date: 2025-07-11T21:25:40+08:00
-draft: true
+draft: false
 type: "work"
 series: []
 tags: ["literature/critique"]
