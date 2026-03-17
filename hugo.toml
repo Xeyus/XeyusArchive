@@ -2,3 +2,51 @@ baseURL = 'https://xeyusarchive.onrender.com'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'PaperMod'
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series" # 开启系列文章功能
+
+[permalinks]
+    # URL 重写：让访问路径更优雅，不暴露你的本地文件夹数字
+    # 比如 content/creative/my-story.md 会变成 /creative/my-story/
+    literature = "/lit/:filename/"
+    review  = "/review/:filename/"
+    essay   = "/essays/:filename/"
+    cut    = "/cut/:filename/"
+    log      = "/log/:filename/"
+    wiki     = "/wiki/:filename/"
+
+[menu]
+    # 顶部导航栏配置
+    [[menu.main]]
+        identifier = "literature"
+        name = "创作"
+        url = "/lit/"
+        weight = 10
+    [[menu.main]]
+        identifier = "review"
+        name = "回响"
+        url = "/review/"
+        weight = 20
+    [[menu.main]]
+        identifier = "essay"
+        name = "思辨"
+        url = "/essay/"
+        weight = 30
+    [[menu.main]]
+        identifier = "cut"
+        name = "瞬念"
+        url = "/cut/"
+        weight = 40
+    [[menu.main]]
+        identifier = "wiki"
+        name = "馆藏"
+        url = "/wiki/"
+        weight = 50
+    [[menu.main]]
+        identifier = "log"
+        name = "时轴"
+        url = "/log/"
+        weight = 60
