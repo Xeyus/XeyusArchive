@@ -28,33 +28,57 @@ theme = 'PaperMod'
     title = "Xeyus Archive"
     
     [[languages.zh.menu.main]]
-      name = "创作"; url = "/lit/"; weight = 10
+      name = "创作"
+      url = "/lit/"
+      weight = 10
     [[languages.zh.menu.main]]
-      name = "回响"; url = "/review/"; weight = 20
+      name = "回响"
+      url = "/review/"
+      weight = 20
     [[languages.zh.menu.main]]
-      name = "思辨"; url = "/essay/"; weight = 30
+      name = "思辨"
+      url = "/essay/"
+      weight = 30
     [[languages.zh.menu.main]]
-      name = "瞬念"; url = "/flash/"; weight = 40
+      name = "瞬念"
+      url = "/flash/"
+      weight = 40
     [[languages.zh.menu.main]]
-      name = "馆藏"; url = "/wiki/"; weight = 50
+      name = "馆藏"
+      url = "/wiki/" 
+      weight = 50
     [[languages.zh.menu.main]]
-      name = "时轴"; url = "/log/"; weight = 60
+      name = "时轴"
+      url = "/log/"
+      weight = 60
 
   [languages.en]
     languageName = "English"
     contentDir = "content/en"
     weight = 2
-    title = "Xeyus Archive (EN)"
+    title = "Xeyus Archive"
 
     [[languages.en.menu.main]]
-      name = "Literature"; url = "/lit/"; weight = 10
+      name = "Literature"
+      url = "/lit/"
+      weight = 10
     [[languages.en.menu.main]]
-      name = "Review"; url = "/review/"; weight = 20
+      name = "Review"
+      url = "/review/"
+      weight = 20
     [[languages.en.menu.main]]
-      name = "Essay"; url = "/essay/"; weight = 30
+      name = "Essay"
+      url = "/essay/"
+      weight = 30
     [[languages.en.menu.main]]
-      name = "Flash"; url = "/flash/"; weight = 40
+      name = "Flash"
+      url = "/flash/"
+      weight = 40
     [[languages.en.menu.main]]
-      name = "Wiki"; url = "/wiki/"; weight = 50
+      name = "Wiki"
+      url = "/wiki/"
+      weight = 50
     [[languages.en.menu.main]]
-      name = "Log"; url = "/log/"; weight = 60
+      name = "Log"
+      url = "/log/"
+      weight = 60
