@@ -1,6 +1,6 @@
 baseURL = 'https://xeyusarchive.onrender.com'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
+languageCode = 'zh-CN'
+title = 'Xeyus Archive'
 theme = 'PaperMod'
 
 [taxonomies]
@@ -9,14 +9,12 @@ theme = 'PaperMod'
     series = "series" # 开启系列文章功能
 
 [permalinks]
-    # URL 重写：让访问路径更优雅，不暴露你的本地文件夹数字
-    # 比如 content/creative/my-story.md 会变成 /creative/my-story/
-    literature = "/lit/:filename/"
-    review  = "/review/:filename/"
-    essay   = "/essays/:filename/"
-    cut    = "/cut/:filename/"
-    log      = "/log/:filename/"
-    wiki     = "/wiki/:filename/"
+    literature = "/lit/:contentbasename/"
+    review  = "/review/:contentbasename/"
+    essay   = "/essays/:contentbasename/"
+    cut    = "/cut/:contentbasename/"
+    log      = "/log/:contentbasename/"
+    wiki     = "/wiki/:contentbasename/"
 
 [menu]
     # 顶部导航栏配置
