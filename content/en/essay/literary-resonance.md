@@ -10,9 +10,11 @@ tags: ["literature/critique"]
 
 This is what commonly called "resonance" though unfamiliar to me. Most people evaluate whether they like a literary work or resonate with it, they base their judgment on "feeling the same way as the characters", unconsciously identifying with a certain role or comparing themselves to the characters in the story. This sense of empathy leads to (a feeling of) identification,  so I consider it the "commonly" definition of resonance.
 
-局外人很简单，读了两页就因为思维方式和写作风格认为我=默尔索。人家和自己妈妈都过上了自己的生活（话说默尔索他妈妈的生活方式也容易被指责），结果被别人指指点点的；还有阳光太强，这点我深有体会，尤其是多云甚至阴天时那种极强、极白的阳光，特别容易让我精神恍惚、瞬间作出决定。从头到尾我就没觉得默尔索不正常或者是生活的局外人，他甚至还在比较正常地参与社会生活（谈恋爱、交友、工作等），根据写作时间当时社会上青年出现“不思进取”情况（不想升职、怀疑社会仪式必要性）也相当可以理解。所以，不仅刚看完书，随着时间推移，我越来越觉得自己遇到了默尔索的问题，甚至也有着类似他的反应。我已经正常地、按自己的节奏遵守学校的规则了，我也开始走出自己的世界和别人交朋友了，为什么？不同的是没有一个神父冠冕堂皇地过来“我宽恕你的罪孽”，只有一帮自顾自下达舆论审判的同学和班主任，所以我当时没有真正发出我的观点和想法。
+It's easy for me to resonate *L'Étranger*  in this way, after simply two pages I consider myself a Meursault due to similar way of thinking and writing style. He and his own mother have both moved on with their lives (though Meursault's mother's lifestyle is also easily criticized), yet they end up being judged by others; and then there's the overly strong sunlight—I deeply relate to that, especially the intense, glaring white sunlight on cloudy or even overcast days, which easily makes me feel mentally dazed and leads me to make snap decisions. From beginning to end, I never felt that Meursault was abnormal or an outsider to life; he was even participating in social life in a relatively normal way (dating, making friends, working, etc.). Given the time when the book was written, it's quite understandable that young people in society were showing signs of  "lack of ambition" (not wanting promotions, doubting the necessity of social rituals). So, not only right after finishing the book, but as time has passed, I've increasingly felt that I've encountered Meursault's issues and even had reactions similar to his.I have been following the school rules normally and at my own pace, and I have started to step out of my own world to make friends with others. Why? The difference is that no priest grandly came over saying, "I forgive your sins." Instead, there were only a bunch of classmates and the homeroom teacher who self-righteously delivered public opinion judgments. That's why I didn't truly express my views and thoughts at the time. After all it was not me that had been given the share of politics in that environment, but I misunderstood that it encouraged democracy though maybe capitalism-style.
 
 提安哥的小说就是“如果我是另一个人，比如一个非洲的孩子，我可能会怎么样，可能会写什么”。我终于看到一个和我一样，像粪海狂蛆一样在高中图书馆里蛄蛹的人了！而且他也觉得《呼啸山庄》写得好，对这个小说的写作手法的理解也和我一样。而且作者是个……“正常人”，相比国内某些不知哪里来的传统和套路入脑的家伙，或者“粪海”中某些东西的作者，看到一个正常人（甚至于普通人）让我非常开心，就像了解到李娟的文字那样开心（但李娟的风格实在和我不搭，就没怎么看）。殖民体系下，正常孩子正常行动得出逆天结论（“写小说会进监狱”）或遇到逆天事这种比较顺其自然的写法和我写日常的方法类似；他的其他小说也对我口味。
+
+I read Ngugi Wa Thiong'O as "what if I'm another person". Finally another true civilized human that digged books in horrible library and shit books in high school instead of praising the library and everything in it.
 
 《罪与罚》。共情主要角色们所以读陀思妥耶夫斯基的书非常累。放下书时感觉自己被西伯利亚（或莫斯科某条满是酒味和脏物的街道）的风刮晕了。
 
@@ -60,4 +62,4 @@ This is what commonly called "resonance" though unfamiliar to me. Most people ev
 
 ## Others
 
-并非写得不好，只是这类确实没有共鸣。没有合口味的文风、合逻辑或真实的主题、某个角色、某种触动的主题……那就只是一篇写得不错，但是让我第一遍看时就能说出来哪里不错可能会怎么样的小说。比如《盲视》，虽然主角的工作，罗夏，四合体这些我都很喜欢，但……产生共鸣才是少数，局外观赏才是多数。
+Not bad, even perfect, yet no resonance. Just enjoy (or not) reading. One enjoyed one is *Blindsight*. It has everything I like, singularly, I merely evaluated it. Maybe it was because I resonated with the first-person.

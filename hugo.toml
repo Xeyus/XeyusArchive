@@ -86,3 +86,37 @@ defaultContentLanguageInSubdir = false # 关键！设为 false，则中文路径
       name = "Log"
       url = "/log/"
       weight = 60
+
+  [languages.de]
+    languageName = "Deutsch"
+    contentDir = "content/de"
+    weight = 3
+    title = "Xeyus Archiv"
+
+    [languages.de.params]
+    mainSections = ["literature", "essay", "review", "flash"]
+
+    [[languages.de.menu.main]]
+      name = "Literatur"
+      url = "/lit/"
+      weight = 10
+    [[languages.de.menu.main]]
+      name = "Rezension"
+      url = "/review/"
+      weight = 20
+    [[languages.de.menu.main]]
+      name = "Aufsatz"
+      url = "/essay/"
+      weight = 30
+    [[languages.de.menu.main]]
+      name = "Notizen"
+      url = "/flash/"
+      weight = 40
+    [[languages.de.menu.main]]
+      name = "Wiki"
+      url = "/wiki/"
+      weight = 50
+    [[languages.de.menu.main]]
+      name = "Protokoll"
+      url = "/log/"
+      weight = 60
