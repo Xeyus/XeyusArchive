@@ -1,0 +1,59 @@
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ if $related }}
+<aside class="related-posts" style="
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--color-border);
+">
+  <h3 style="
+    font-family: var(--font-ui);
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1.5rem;
+  ">
+    {{ i18n "related_posts" | default "Related Posts" }}
+  </h3>
+  
+  <div style="display: flex; flex-direction: column; gap: 1rem;">
+    {{ range $related }}
+    <article style="
+      padding: 1rem;
+      border: 1px solid var(--color-border);
+      background: rgba(255, 255, 255, 0.2);
+      transition: all 0.2s ease;
+    ">
+      <div style="
+        font-family: var(--font-ui);
+        font-size: 0.8rem;
+        color: #666;
+        margin-bottom: 0.5rem;
+        text-transform: uppercase;
+      ">
+        {{ .Date.Format "2006.01.02" }}
+      </div>
+      
+      <h4 style="
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+      ">
+        <a href="{{ .Permalink }}" style="
+          color: var(--color-text);
+          text-decoration: none;
+        ">
+          {{ .Title }}
+        </a>
+      </h4>
+      
+      <p style="
+        font-size: 0.9rem;
+        color: #555;
+        margin-bottom: 0;
+      ">
+        {{ .Summary | truncate 120 }}
+      </p>
+    </article>
+    {{ end }}
+  </div>
+</aside>
+{{ end }}

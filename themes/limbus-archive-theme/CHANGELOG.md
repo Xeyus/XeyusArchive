@@ -5,6 +5,44 @@ All notable changes to the Limbus Archive theme will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2025-03-19
+
+### Added - i18n Support 🌍
+- **Full internationalization (i18n) support** with 7 languages
+- Translation files for:
+  - English (en) - Default
+  - 简体中文 (zh-cn) - Simplified Chinese
+  - 日本語 (ja) - Japanese  
+  - Deutsch (de) - German
+  - Français (fr) - French
+  - Español (es) - Spanish
+  - 한국어 (ko) - Korean
+- Language switcher component in sidebar
+- Multilingual configuration example
+- Complete i18n documentation (I18N.md)
+- Per-language menu configuration
+- Automatic hreflang tags for SEO
+
+### Added - New Components
+- Breadcrumb navigation partial
+- Social media links component (GitHub, Twitter, Mastodon, LinkedIn, Email)
+- Related posts component (shows 3 related articles)
+- Enhanced SEO meta tags partial
+- Open Graph and Twitter Card support
+
+### Enhanced
+- Improved language switcher with better visual feedback
+- Enhanced pagination with i18n support
+- Better SEO with multilingual support
+- Social links now use embossed button style
+- Related posts styled to match theme aesthetic
+
+### Documentation
+- I18N.md - Complete internationalization guide
+- I18N-QUICKSTART.md - Quick start for multilingual sites
+- Updated README with i18n information
+- Added language-specific configuration examples
+
 ## [1.1.0] - 2025-03-18
 
 ### Added

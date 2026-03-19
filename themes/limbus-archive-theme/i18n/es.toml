@@ -1,0 +1,143 @@
+# Traducciones en español - Tema Limbus Archive
+
+# Navegación
+[home]
+other = "Inicio"
+
+[posts]
+other = "Artículos"
+
+[archive]
+other = "Archivo"
+
+[tags]
+other = "Etiquetas"
+
+[categories]
+other = "Categorías"
+
+[about]
+other = "Acerca de"
+
+[rss_feed]
+other = "[Feed RSS]"
+
+# Contenido
+[read_more]
+other = "Leer más →"
+
+[min_read]
+other = "min de lectura"
+
+[posted_on]
+other = "Publicado el"
+
+[in]
+other = "en"
+
+[tagged_with]
+other = "Etiquetado con"
+
+# Paginación
+[previous]
+other = "← Anterior"
+
+[next]
+other = "Siguiente →"
+
+[page_of]
+other = "Página {{ .Current }} de {{ .Total }}"
+
+# Tabla de contenidos
+[toc_title]
+other = "Tabla de contenidos"
+
+[contents]
+other = "Contenido"
+
+# Página de archivo
+[posts_in_year]
+other = "Artículos en {{ .Year }}"
+
+[all_posts]
+other = "Todos los artículos"
+
+# Página de etiquetas
+[all_tags]
+other = "Todas las etiquetas"
+
+[posts_tagged]
+other = "{{ .Count }} artículos etiquetados"
+
+[tag]
+other = "Etiqueta"
+
+# Página 404
+[not_found_title]
+other = "404"
+
+[not_found_subtitle]
+other = "ENTRADA DE ARCHIVO NO ENCONTRADA"
+
+[not_found_message]
+other = "La entrada de archivo solicitada no existe en la base de datos del sistema."
+
+[return_home]
+other = "Volver al índice principal"
+
+# Pie de página
+[powered_by]
+other = "Construido con Hugo y el tema Limbus Archive"
+
+[all_rights_reserved]
+other = "Todos los derechos reservados"
+
+# Metadatos
+[published]
+other = "Publicado"
+
+[updated]
+other = "Actualizado"
+
+[author]
+other = "Autor"
+
+[reading_time]
+other = "Tiempo de lectura"
+
+# Búsqueda
+[search]
+other = "Buscar"
+
+[search_placeholder]
+other = "Buscar artículos..."
+
+# Comentarios
+[comments]
+other = "Comentarios"
+
+[no_comments]
+other = "Aún no hay comentarios"
+
+# Artículos relacionados
+[related_posts]
+other = "Artículos relacionados"
+
+[see_also]
+other = "Ver también"
+
+# Accesibilidad
+[skip_to_content]
+other = "Saltar al contenido"
+
+[skip_to_navigation]
+other = "Saltar a la navegación"
+
+[menu]
+other = "Menú"
+
+[open_menu]
+other = "Abrir menú"
+
+[close_menu]
+other = "Cerrar menú"

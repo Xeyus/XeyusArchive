@@ -1,0 +1,143 @@
+# Traductions françaises - Thème Limbus Archive
+
+# Navigation
+[home]
+other = "Accueil"
+
+[posts]
+other = "Articles"
+
+[archive]
+other = "Archives"
+
+[tags]
+other = "Étiquettes"
+
+[categories]
+other = "Catégories"
+
+[about]
+other = "À propos"
+
+[rss_feed]
+other = "[Flux RSS]"
+
+# Contenu
+[read_more]
+other = "Lire la suite →"
+
+[min_read]
+other = "min de lecture"
+
+[posted_on]
+other = "Publié le"
+
+[in]
+other = "dans"
+
+[tagged_with]
+other = "Étiqueté avec"
+
+# Pagination
+[previous]
+other = "← Précédent"
+
+[next]
+other = "Suivant →"
+
+[page_of]
+other = "Page {{ .Current }} sur {{ .Total }}"
+
+# Table des matières
+[toc_title]
+other = "Table des matières"
+
+[contents]
+other = "Contenu"
+
+# Page d'archives
+[posts_in_year]
+other = "Articles en {{ .Year }}"
+
+[all_posts]
+other = "Tous les articles"
+
+# Page des étiquettes
+[all_tags]
+other = "Toutes les étiquettes"
+
+[posts_tagged]
+other = "{{ .Count }} articles étiquetés"
+
+[tag]
+other = "Étiquette"
+
+# Page 404
+[not_found_title]
+other = "404"
+
+[not_found_subtitle]
+other = "ENTRÉE D'ARCHIVE NON TROUVÉE"
+
+[not_found_message]
+other = "L'entrée d'archive demandée n'existe pas dans la base de données système."
+
+[return_home]
+other = "Retour à l'index principal"
+
+# Pied de page
+[powered_by]
+other = "Construit avec Hugo & le thème Limbus Archive"
+
+[all_rights_reserved]
+other = "Tous droits réservés"
+
+# Métadonnées
+[published]
+other = "Publié"
+
+[updated]
+other = "Mis à jour"
+
+[author]
+other = "Auteur"
+
+[reading_time]
+other = "Temps de lecture"
+
+# Recherche
+[search]
+other = "Recherche"
+
+[search_placeholder]
+other = "Rechercher des articles..."
+
+# Commentaires
+[comments]
+other = "Commentaires"
+
+[no_comments]
+other = "Pas encore de commentaires"
+
+# Articles connexes
+[related_posts]
+other = "Articles connexes"
+
+[see_also]
+other = "Voir aussi"
+
+# Accessibilité
+[skip_to_content]
+other = "Aller au contenu"
+
+[skip_to_navigation]
+other = "Aller à la navigation"
+
+[menu]
+other = "Menu"
+
+[open_menu]
+other = "Ouvrir le menu"
+
+[close_menu]
+other = "Fermer le menu"

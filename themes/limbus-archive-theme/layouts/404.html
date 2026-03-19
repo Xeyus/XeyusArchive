@@ -1,10 +1,10 @@
 {{ define "main" }}
 <article class="article-container" style="text-align: center; padding: 4rem 2rem;">
-  <h1 style="font-size: 4rem; margin-bottom: 1rem;">404</h1>
-  <p style="font-size: 1.5rem; margin-bottom: 2rem;">ARCHIVE ENTRY NOT FOUND</p>
+  <h1 style="font-size: 4rem; margin-bottom: 1rem;">{{ i18n "not_found_title" }}</h1>
+  <p style="font-size: 1.5rem; margin-bottom: 2rem;">{{ i18n "not_found_subtitle" }}</p>
   
   <p style="margin-bottom: 2rem;">
-    The requested archive entry does not exist in the system database.
+    {{ i18n "not_found_message" }}
   </p>
   
   <a href="{{ .Site.BaseURL }}" style="
@@ -18,7 +18,7 @@
       inset -1px -1px 0 rgba(0, 0, 0, 0.05),
       inset 1px 1px 0 rgba(255, 255, 255, 0.3);
   ">
-    Return to Main Index
+    {{ i18n "return_home" }}
   </a>
 </article>
 {{ end }}

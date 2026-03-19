@@ -1,8 +1,8 @@
-{{ define "title" }}Archive | {{ .Site.Title }}{{ end }}
+{{ define "title" }}{{ i18n "archive" }} | {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
 <article class="article-container">
-  <h1 class="article-title">Archive</h1>
+  <h1 class="article-title">{{ i18n "archive" }}</h1>
   
   <div class="archive-content">
     {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections).GroupByDate "2006" }}

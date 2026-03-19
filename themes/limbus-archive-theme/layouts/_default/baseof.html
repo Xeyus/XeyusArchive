@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ .Site.Params.description | default .Summary }}">
+  
+  {{ partial "seo.html" . }}
   
   <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
   
@@ -47,9 +48,12 @@
       
       <div class="rss-section">
         {{ with .OutputFormats.Get "rss" -}}
-        <a href="{{ .Permalink }}" class="rss-link">[RSS_FEED]</a>
+        <a href="{{ .Permalink }}" class="rss-link">{{ i18n "rss_feed" }}</a>
         {{ end }}
       </div>
+      
+      {{ partial "social-links.html" . }}
+      {{ partial "language-switcher.html" . }}
     </aside>
     
     <!-- 中间：内容流水线 -->

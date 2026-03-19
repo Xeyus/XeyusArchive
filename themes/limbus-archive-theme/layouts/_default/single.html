@@ -11,7 +11,7 @@
     {{ end }}
     {{ end }}
     {{ if .ReadingTime }}
-    <span> / {{ .ReadingTime }} min read</span>
+    <span> / {{ .ReadingTime }} {{ i18n "min_read" }}</span>
     {{ end }}
   </div>
   
@@ -20,6 +20,8 @@
   <div class="article-content">
     {{ .Content }}
   </div>
+  
+  {{ partial "related-posts.html" . }}
   
   {{ if or .PrevInSection .NextInSection }}
   <nav class="pagination" style="margin-top: 3rem; justify-content: space-between;">
@@ -43,7 +45,7 @@
 {{ if .TableOfContents }}
 <aside class="toc-sidebar">
   <div class="toc-container">
-    <h3 class="toc-title">Table of Contents</h3>
+    <h3 class="toc-title">{{ i18n "toc_title" }}</h3>
     {{ .TableOfContents }}
   </div>
 </aside>

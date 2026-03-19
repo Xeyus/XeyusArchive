@@ -33,7 +33,7 @@
     margin-bottom: 2rem;
     text-transform: uppercase;
   ">
-    {{ .Pages | len }} posts tagged with "{{ .Title }}"
+    {{ i18n "posts_tagged" (dict "Count" (.Pages | len)) }} "{{ .Title }}"
   </div>
   
   <div class="tagged-posts">

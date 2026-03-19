@@ -1,0 +1,105 @@
+{{ if or .Site.Params.github .Site.Params.twitter .Site.Params.email .Site.Params.mastodon .Site.Params.linkedin }}
+<div class="social-links" style="
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+">
+  <div style="
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+    color: #666;
+    letter-spacing: 0.05em;
+  ">
+    Links
+  </div>
+  
+  <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+    {{ with .Site.Params.github }}
+    <a href="https://github.com/{{ . }}" target="_blank" rel="noopener noreferrer" style="
+      display: inline-block;
+      padding: 0.4rem 0.7rem;
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+      border: 1px solid var(--color-border);
+      box-shadow: 
+        2px 2px 0 rgba(0, 0, 0, 0.1),
+        inset -1px -1px 0 rgba(0, 0, 0, 0.05),
+        inset 1px 1px 0 rgba(255, 255, 255, 0.3);
+      transition: all 0.1s ease;
+    ">
+      GitHub
+    </a>
+    {{ end }}
+    
+    {{ with .Site.Params.twitter }}
+    <a href="https://twitter.com/{{ . }}" target="_blank" rel="noopener noreferrer" style="
+      display: inline-block;
+      padding: 0.4rem 0.7rem;
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+      border: 1px solid var(--color-border);
+      box-shadow: 
+        2px 2px 0 rgba(0, 0, 0, 0.1),
+        inset -1px -1px 0 rgba(0, 0, 0, 0.05),
+        inset 1px 1px 0 rgba(255, 255, 255, 0.3);
+      transition: all 0.1s ease;
+    ">
+      Twitter
+    </a>
+    {{ end }}
+    
+    {{ with .Site.Params.mastodon }}
+    <a href="{{ . }}" target="_blank" rel="me noopener noreferrer" style="
+      display: inline-block;
+      padding: 0.4rem 0.7rem;
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+      border: 1px solid var(--color-border);
+      box-shadow: 
+        2px 2px 0 rgba(0, 0, 0, 0.1),
+        inset -1px -1px 0 rgba(0, 0, 0, 0.05),
+        inset 1px 1px 0 rgba(255, 255, 255, 0.3);
+      transition: all 0.1s ease;
+    ">
+      Mastodon
+    </a>
+    {{ end }}
+    
+    {{ with .Site.Params.linkedin }}
+    <a href="https://linkedin.com/in/{{ . }}" target="_blank" rel="noopener noreferrer" style="
+      display: inline-block;
+      padding: 0.4rem 0.7rem;
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+      border: 1px solid var(--color-border);
+      box-shadow: 
+        2px 2px 0 rgba(0, 0, 0, 0.1),
+        inset -1px -1px 0 rgba(0, 0, 0, 0.05),
+        inset 1px 1px 0 rgba(255, 255, 255, 0.3);
+      transition: all 0.1s ease;
+    ">
+      LinkedIn
+    </a>
+    {{ end }}
+    
+    {{ with .Site.Params.email }}
+    <a href="mailto:{{ . }}" style="
+      display: inline-block;
+      padding: 0.4rem 0.7rem;
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+      border: 1px solid var(--color-border);
+      box-shadow: 
+        2px 2px 0 rgba(0, 0, 0, 0.1),
+        inset -1px -1px 0 rgba(0, 0, 0, 0.05),
+        inset 1px 1px 0 rgba(255, 255, 255, 0.3);
+      transition: all 0.1s ease;
+    ">
+      Email
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

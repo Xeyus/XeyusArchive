@@ -1,0 +1,143 @@
+# Deutsch Übersetzungen - Limbus Archive Theme
+
+# Navigation
+[home]
+other = "Startseite"
+
+[posts]
+other = "Beiträge"
+
+[archive]
+other = "Archiv"
+
+[tags]
+other = "Schlagwörter"
+
+[categories]
+other = "Kategorien"
+
+[about]
+other = "Über"
+
+[rss_feed]
+other = "[RSS-Feed]"
+
+# Content
+[read_more]
+other = "Weiterlesen →"
+
+[min_read]
+other = "Min. Lesezeit"
+
+[posted_on]
+other = "Veröffentlicht am"
+
+[in]
+other = "in"
+
+[tagged_with]
+other = "Verschlagwortet mit"
+
+# Pagination
+[previous]
+other = "← Zurück"
+
+[next]
+other = "Weiter →"
+
+[page_of]
+other = "Seite {{ .Current }} von {{ .Total }}"
+
+# Table of Contents
+[toc_title]
+other = "Inhaltsverzeichnis"
+
+[contents]
+other = "Inhalt"
+
+# Archive page
+[posts_in_year]
+other = "Beiträge in {{ .Year }}"
+
+[all_posts]
+other = "Alle Beiträge"
+
+# Tags page
+[all_tags]
+other = "Alle Schlagwörter"
+
+[posts_tagged]
+other = "{{ .Count }} Beiträge mit"
+
+[tag]
+other = "Schlagwort"
+
+# 404 page
+[not_found_title]
+other = "404"
+
+[not_found_subtitle]
+other = "ARCHIVEINTRAG NICHT GEFUNDEN"
+
+[not_found_message]
+other = "Der angeforderte Archiveintrag existiert nicht in der Systemdatenbank."
+
+[return_home]
+other = "Zurück zum Hauptindex"
+
+# Footer
+[powered_by]
+other = "Erstellt mit Hugo & Limbus Archive Theme"
+
+[all_rights_reserved]
+other = "Alle Rechte vorbehalten"
+
+# Metadata
+[published]
+other = "Veröffentlicht"
+
+[updated]
+other = "Aktualisiert"
+
+[author]
+other = "Autor"
+
+[reading_time]
+other = "Lesezeit"
+
+# Search
+[search]
+other = "Suche"
+
+[search_placeholder]
+other = "Artikel durchsuchen..."
+
+# Comments
+[comments]
+other = "Kommentare"
+
+[no_comments]
+other = "Noch keine Kommentare"
+
+# Related posts
+[related_posts]
+other = "Verwandte Beiträge"
+
+[see_also]
+other = "Siehe auch"
+
+# Accessibility
+[skip_to_content]
+other = "Zum Inhalt springen"
+
+[skip_to_navigation]
+other = "Zur Navigation springen"
+
+[menu]
+other = "Menü"
+
+[open_menu]
+other = "Menü öffnen"
+
+[close_menu]
+other = "Menü schließen"

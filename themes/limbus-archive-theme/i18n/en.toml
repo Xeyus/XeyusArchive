@@ -1,0 +1,143 @@
+# English translations for Limbus Archive theme
+
+# Navigation
+[home]
+other = "Home"
+
+[posts]
+other = "Posts"
+
+[archive]
+other = "Archive"
+
+[tags]
+other = "Tags"
+
+[categories]
+other = "Categories"
+
+[about]
+other = "About"
+
+[rss_feed]
+other = "[RSS_FEED]"
+
+# Content
+[read_more]
+other = "Read More →"
+
+[min_read]
+other = "min read"
+
+[posted_on]
+other = "Posted on"
+
+[in]
+other = "in"
+
+[tagged_with]
+other = "Tagged with"
+
+# Pagination
+[previous]
+other = "← Previous"
+
+[next]
+other = "Next →"
+
+[page_of]
+other = "Page {{ .Current }} of {{ .Total }}"
+
+# Table of Contents
+[toc_title]
+other = "Table of Contents"
+
+[contents]
+other = "Contents"
+
+# Archive page
+[posts_in_year]
+other = "Posts in {{ .Year }}"
+
+[all_posts]
+other = "All Posts"
+
+# Tags page
+[all_tags]
+other = "All Tags"
+
+[posts_tagged]
+other = "{{ .Count }} posts tagged with"
+
+[tag]
+other = "Tag"
+
+# 404 page
+[not_found_title]
+other = "404"
+
+[not_found_subtitle]
+other = "ARCHIVE ENTRY NOT FOUND"
+
+[not_found_message]
+other = "The requested archive entry does not exist in the system database."
+
+[return_home]
+other = "Return to Main Index"
+
+# Footer
+[powered_by]
+other = "Built with Hugo & Limbus Archive Theme"
+
+[all_rights_reserved]
+other = "All rights reserved"
+
+# Metadata
+[published]
+other = "Published"
+
+[updated]
+other = "Updated"
+
+[author]
+other = "Author"
+
+[reading_time]
+other = "Reading time"
+
+# Search (if implemented)
+[search]
+other = "Search"
+
+[search_placeholder]
+other = "Search articles..."
+
+# Comments (if implemented)
+[comments]
+other = "Comments"
+
+[no_comments]
+other = "No comments yet"
+
+# Related posts
+[related_posts]
+other = "Related Posts"
+
+[see_also]
+other = "See also"
+
+# Accessibility
+[skip_to_content]
+other = "Skip to content"
+
+[skip_to_navigation]
+other = "Skip to navigation"
+
+[menu]
+other = "Menu"
+
+[open_menu]
+other = "Open menu"
+
+[close_menu]
+other = "Close menu"

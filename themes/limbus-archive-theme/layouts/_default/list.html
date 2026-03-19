@@ -22,7 +22,7 @@
     </div>
     
     {{ if .Truncated }}
-    <a href="{{ .Permalink }}" class="read-more">Read More →</a>
+    <a href="{{ .Permalink }}" class="read-more">{{ i18n "read_more" }}</a>
     {{ end }}
   </article>
   {{ end }}
