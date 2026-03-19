@@ -1,0 +1,12 @@
+name = "Limbus Archive"
+license = "MIT"
+licenselink = "https://github.com/yourusername/limbus-archive/blob/main/LICENSE"
+description = "A CRT terminal-inspired Hugo theme with brutalist aesthetics and accessibility focus"
+homepage = "https://github.com/yourusername/limbus-archive"
+tags = ["blog", "terminal", "brutalist", "accessible", "minimal"]
+features = ["responsive", "accessibility", "no-javascript"]
+min_version = "0.120.0"
+
+[author]
+  name = "Your Name"
+  homepage = "https://yourwebsite.com"

@@ -206,15 +206,15 @@
     border-radius: 2px;
 }
 
-.post-content pre code {
-    display: grid;
-    margin: auto 0;
-    padding: 10px;
-    color: rgb(213, 213, 214);
+.article-content pre code {
+    display: block;  /* 改用 block，更符合语义 */
+    padding: 1rem;   /* 使用 rem 单位更好 */
+    color: #D5D5D6;
     background: var(--code-block-bg) !important;
-    border-radius: var(--radius);
-    overflow-x: auto;
-    word-break: break-all;
+    border-radius: 0 !important;  /* 保持硬核直角 */
+    overflow-x: auto;  /* 保留横向滚动 */
+    word-break: normal; /* 移除强制换行 */
+    white-space: pre;  /* 保持代码格式 */
 }
 
 .post-content blockquote {

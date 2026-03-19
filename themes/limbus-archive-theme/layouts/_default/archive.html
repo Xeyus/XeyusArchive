@@ -1,0 +1,65 @@
+{{ define "title" }}Archive | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<article class="article-container">
+  <h1 class="article-title">Archive</h1>
+  
+  <div class="archive-content">
+    {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections).GroupByDate "2006" }}
+    <section class="archive-year">
+      <h2 style="
+        font-family: var(--font-ui);
+        font-size: 1.25rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin: 2rem 0 1rem 0;
+        padding-bottom: 0.5rem;
+        border-bottom: 1px solid var(--color-border);
+      ">{{ .Key }}</h2>
+      
+      <ul class="archive-list" style="list-style: none; margin-left: 0;">
+        {{ range .Pages }}
+        <li style="
+          margin-bottom: 1rem;
+          padding-bottom: 1rem;
+          border-bottom: 1px solid rgba(161, 156, 140, 0.3);
+        ">
+          <div style="
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 1rem;
+          ">
+            <a href="{{ .Permalink }}" style="flex: 1;">
+              {{ .Title }}
+            </a>
+            <time datetime="{{ .Date.Format "2006-01-02" }}" style="
+              font-family: var(--font-ui);
+              font-size: 0.85rem;
+              color: #666;
+              white-space: nowrap;
+            ">
+              {{ .Date.Format "01.02" }}
+            </time>
+          </div>
+          {{ if .Params.categories }}
+          <div style="
+            font-family: var(--font-ui);
+            font-size: 0.8rem;
+            color: #888;
+            margin-top: 0.25rem;
+            text-transform: uppercase;
+          ">
+            {{ range .Params.categories }}
+            <span>{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

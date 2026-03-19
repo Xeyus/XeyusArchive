@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ .Site.Params.description | default .Summary }}">
+  
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  
+  <!-- RSS -->
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+  
+  <!-- Accessibility -->
+  <meta name="theme-color" content="#DEDAC8">
+  
+  {{ block "head" . }}{{ end }}
+</head>
+<body>
+  <div class="site-container">
+    <!-- 左侧：导航终端 -->
+    <aside class="nav-console">
+      <h1 class="site-title">
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      </h1>
+      
+      <nav>
+        <ul class="nav-menu">
+          {{ range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </nav>
+      
+      <div class="rss-section">
+        {{ with .OutputFormats.Get "rss" -}}
+        <a href="{{ .Permalink }}" class="rss-link">[RSS_FEED]</a>
+        {{ end }}
+      </div>
+    </aside>
+    
+    <!-- 中间：内容流水线 -->
+    <main class="main-feed">
+      {{ block "main" . }}{{ end }}
+    </main>
+    
+    <!-- 右侧：索引与导录 -->
+    {{ block "sidebar" . }}{{ end }}
+  </div>
+  
+  <footer class="site-footer">
+    {{ .Site.Params.footer | default "© 2025 Limbus Archive. All rights reserved." | markdownify }}
+  </footer>
+  
+  {{ block "scripts" . }}{{ end }}
+</body>
+</html>

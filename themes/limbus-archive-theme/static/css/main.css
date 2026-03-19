@@ -1,0 +1,438 @@
+/* ================================================
+   Limbus Archive Theme v1.1
+   CRT Terminal Aesthetics with Accessibility Focus
+   ================================================ */
+
+/* === CSS Variables === */
+:root {
+  --color-background: #DEDAC8;
+  --color-text: #2B2B2B;
+  --color-border: #A19C8C;
+  --color-accent: #802020;
+  --font-ui: 'JetBrains Mono', 'Roboto Mono', 'Courier New', monospace;
+  --font-body: 'Source Serif Pro', Georgia, serif;
+  --line-height: 1.8;
+  --letter-spacing: 0.02em;
+}
+
+/* === Global Reset === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border-radius: 0 !important; /* 硬核直角：全站禁止圆角 */
+}
+
+/* === Body & Scanline Effect === */
+body {
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: var(--line-height);
+  letter-spacing: var(--letter-spacing);
+  color: var(--color-text);
+  background-color: var(--color-background);
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* 扫描线纹理层 */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 1px,
+    rgba(0, 0, 0, 0.03) 1px,
+    rgba(0, 0, 0, 0.03) 2px
+  );
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* === Typography === */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 1rem;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; font-weight: 600; }
+h3 { font-size: 1.25rem; font-weight: 600; }
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--color-text);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+/* === Layout Container === */
+.site-container {
+  display: grid;
+  grid-template-columns: 280px 1fr 280px;
+  gap: 0;
+  max-width: 1400px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+/* === 左侧：导航终端 (Navigation Console) === */
+.nav-console {
+  border-right: 1px solid var(--color-border);
+  padding: 2rem 1.5rem;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  /* 平面文字，无浮雕 */
+}
+
+.nav-menu {
+  list-style: none;
+  flex-grow: 1;
+}
+
+.nav-menu li {
+  margin-bottom: 0.75rem;
+}
+
+.nav-menu a,
+.rss-link {
+  display: inline-block;
+  padding: 0.5rem 0.75rem;
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 1px solid var(--color-border);
+  
+  /* 外浮雕效果 (Raised) */
+  box-shadow: 
+    2px 2px 0 rgba(0, 0, 0, 0.1),
+    inset -1px -1px 0 rgba(0, 0, 0, 0.05),
+    inset 1px 1px 0 rgba(255, 255, 255, 0.3);
+  
+  transition: all 0.1s ease;
+}
+
+.nav-menu a:hover,
+.rss-link:hover {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+.nav-menu a:active,
+.rss-link:active,
+.nav-menu a.active {
+  /* 内浮雕效果 (Pressed) */
+  box-shadow: 
+    inset 2px 2px 3px rgba(0, 0, 0, 0.15),
+    inset -1px -1px 0 rgba(255, 255, 255, 0.2);
+  transform: translateY(1px);
+}
+
+.rss-section {
+  margin-top: auto;
+  padding-top: 2rem;
+}
+
+.rss-link {
+  display: block;
+  text-align: center;
+  font-weight: 700;
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+/* === 中间：内容流水线 (Main Feed) === */
+.main-feed {
+  padding: 2rem;
+  border-right: 1px solid var(--color-border);
+}
+
+.article-container {
+  border: 1px solid var(--color-border);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.article-container + .article-container {
+  border-top: 1px solid var(--color-border);
+}
+
+.article-meta {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.article-title {
+  margin-bottom: 1.5rem;
+}
+
+.article-title a {
+  /* 标题为纯阅读文字，保持平面 */
+  display: block;
+}
+
+.article-title a:hover {
+  color: var(--color-accent);
+}
+
+.article-summary {
+  margin-bottom: 1rem;
+}
+
+.read-more {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  border-bottom: 1px solid var(--color-accent);
+  padding-bottom: 2px;
+}
+
+.read-more:hover {
+  border-bottom: 2px solid var(--color-accent);
+}
+
+/* 文章内容样式 */
+.article-content {
+  /* 正文纯阅读，平面无浮雕 */
+}
+
+.article-content img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--color-border);
+  margin: 1.5rem 0;
+}
+
+.article-content pre {
+  background: rgba(0, 0, 0, 0.05);
+  border: 1px solid var(--color-border);
+  padding: 1rem;
+  overflow-x: auto;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  margin: 1rem 0;
+}
+
+.article-content code {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 0.2rem 0.4rem;
+}
+
+.article-content pre code {
+  background: none;
+  padding: 0;
+}
+
+.article-content blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #555;
+}
+
+.article-content ul,
+.article-content ol {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.article-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* 分页导航 */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 3rem;
+  font-family: var(--font-ui);
+}
+
+.pagination a,
+.pagination span {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--color-border);
+  
+  /* 外浮雕 */
+  box-shadow: 
+    2px 2px 0 rgba(0, 0, 0, 0.1),
+    inset -1px -1px 0 rgba(0, 0, 0, 0.05),
+    inset 1px 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.pagination a:active {
+  /* 内浮雕 */
+  box-shadow: 
+    inset 2px 2px 3px rgba(0, 0, 0, 0.15);
+  transform: translateY(1px);
+}
+
+.pagination .current {
+  background: rgba(0, 0, 0, 0.05);
+  font-weight: 700;
+}
+
+/* === 右侧：索引与导录 (TOC) === */
+.toc-sidebar {
+  padding: 2rem 1.5rem;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.toc-container {
+  border: 1px solid var(--color-border);
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.toc-title {
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.5rem;
+}
+
+.toc-list {
+  list-style: none;
+}
+
+.toc-list li {
+  margin-bottom: 0.5rem;
+}
+
+.toc-list a {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  display: block;
+  padding: 0.25rem 0;
+  border-left: 2px solid transparent;
+  padding-left: 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.toc-list a:hover,
+.toc-list a.active {
+  border-left-color: var(--color-accent);
+  color: var(--color-accent);
+  padding-left: 1rem;
+}
+
+/* H3 缩进 */
+.toc-list .toc-h3 {
+  padding-left: 1.5rem;
+}
+
+.toc-list .toc-h3:hover,
+.toc-list .toc-h3.active {
+  padding-left: 1.75rem;
+}
+
+/* === 响应式设计 === */
+@media (max-width: 1200px) {
+  .site-container {
+    grid-template-columns: 240px 1fr;
+  }
+  
+  .toc-sidebar {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .site-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .nav-console {
+    position: relative;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--color-border);
+  }
+  
+  .main-feed {
+    border-right: none;
+  }
+  
+  .article-container {
+    padding: 1.5rem;
+  }
+}
+
+/* === Footer === */
+.site-footer {
+  grid-column: 1 / -1;
+  border-top: 1px solid var(--color-border);
+  padding: 2rem;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: #666;
+}
+
+/* === 无障碍增强 === */
+*:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  :root {
+    --color-background: #F5F5F5;
+    --color-text: #000000;
+    --color-border: #666666;
+  }
+}
+
+/* 减少动画模式支持 */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
