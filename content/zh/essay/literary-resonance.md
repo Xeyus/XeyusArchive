@@ -2,7 +2,6 @@
 title: 文学共鸣
 date: 2025-07-11T21:25:40+08:00
 draft: false
-type: "work"
 series: []
 tags: ["literature/critique"]
 ---
