@@ -1,6 +1,5 @@
 # 忽略 Hugo 自动生成的文件夹
 public/
-resources/
 .hugo_build.lock
 
 # 忽略系统文件
