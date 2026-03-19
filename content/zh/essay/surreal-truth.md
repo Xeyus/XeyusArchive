@@ -1,7 +1,7 @@
 ---
 title: 只有自动写作能让我说出真话
 series: []
-date: 2024-07-28T01:50:50+8:00
+date: 2024-07-28T01:50:50+08:00
 draft: false
 tags:
   - literature/theory

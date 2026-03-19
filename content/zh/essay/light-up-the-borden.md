@@ -1,7 +1,7 @@
 ---
 title: 通过点灯塑造围栏
 series: []
-date: 2024-11-25T20:25:29+8:00
+date: 2024-11-25T20:25:29+08:00
 tags:
   - philosophy/epistemology
 ---

@@ -1,6 +1,6 @@
 ---
 title: 情绪价值
-date: 2025-08-09T0:32:22+8:00
+date: 2025-08-09T0:32:22+08:00
 series: []
 tags:
   - psychology/social

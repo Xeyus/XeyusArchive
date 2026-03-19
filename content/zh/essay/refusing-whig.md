@@ -1,6 +1,6 @@
 ---
 title: "驳斥辉格史观"
-date: 2025-02-07T16:21:00+8:00
+date: 2025-02-07T16:21:00+08:00
 series: []
 tags:
   - history/thematic

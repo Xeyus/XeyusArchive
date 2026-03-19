@@ -1,7 +1,7 @@
 ---
 title: 为什么艺术在被杀死
 series: []
-date: 2024-11-03T18:39:05+8:00
+date: 2024-11-03T18:39:05+08:00
 draft: false
 tags:
   - philosophy/aesthetics

@@ -1,6 +1,6 @@
 ---
 title: 后发的构建
-date: 2024-12-07T16:16:52+8:00
+date: 2024-12-07T16:16:52+08:00
 series: []
 tags:
   - social-science/politics

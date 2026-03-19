@@ -2,7 +2,7 @@
 title: 自设与作者
 draft: false
 series: []
-date: 2024-12-01T23:59:24+8:00
+date: 2024-12-01T23:59:24+08:00
 tags:
   - literature/theory
 ---
