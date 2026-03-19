@@ -61,6 +61,6 @@ tags: ["literature/critique"]
 
 并非写得不好，只是这类确实没有共鸣。没有合口味的文风、合逻辑或真实的主题、某个角色、某种触动的主题……那就只是一篇写得不错，但是让我第一遍看时就能说出来哪里不错可能会怎么样的小说。比如《盲视》，虽然主角的工作，罗夏，四合体这些我都很喜欢，但……产生共鸣才是少数，局外观赏才是多数。
 
-![test](/static/images/essay/literary-resonance/PixPin_2026-03-19_15-59-56.jpg)
+![test](/images/essay/literary-resonance/PixPin_2026-03-19_15-59-56.jpg)
 
-![test2](/static/PixPin_2026-03-19_15-59-56.jpg)
+![test2](/PixPin_2026-03-19_15-59-56.jpg)
