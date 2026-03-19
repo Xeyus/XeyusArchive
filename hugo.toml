@@ -1,7 +1,7 @@
 baseURL = 'https://geistlicht.work'
 languageCode = 'zh-CN'
-title = 'PaperMod'
-theme = 'limbus-archive-theme'
+title = 'Xeyus Archive'
+theme = 'PaperMod'
 defaultContentLanguage = "zh"  # 设定中文为默认
 defaultContentLanguageInSubdir = false # 关键！设为 false，则中文路径为 / 而非 /zh/
 
