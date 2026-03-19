@@ -1,8 +1,8 @@
 ---
-状态:
-  - Done
-topic:
-type: works
+title: "2025-09-05教师节征文"
+date: 2025-09-05T09:38:57+08:00
+draft: false
+series: []
 tags:
   - social-science/education
 ---

@@ -1,17 +1,10 @@
 ---
 title: 穿过文字瀑布流
-layout: page
-mathjax: true
-created: 2024-12-03 23:25:02
-categories: 杂谈
-topic:
-wiki:
-description: 但是后面没有水帘洞。
+date: 2024-12-03T23:25:02+8:00
+series: []
 tags:
   - life/pkm
-type: works
 ---
-
 前天，我感受到了写作的乐趣和推演并观察某情况发展的乐趣。
 
 昨天，我只想保持现有状态不变。
@@ -87,4 +80,3 @@ type: works
 或者做完某事后必须写——这个好，顺便绑定一些其他需要但总不做的事。
 
 这也符合我“一切荒诞必须为我的理想服务”的“结局”。
-
