@@ -1,5 +1,5 @@
 ---
-tags: literature/fantasy
+tags: ["literature/fantasy"]
 type: flash
 title: 武僧法师
 date: 2025-08-07T14:20:00+08:00

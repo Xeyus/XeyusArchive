@@ -1,8 +1,7 @@
 ---
 type:
 - note
-tags:
-- life/pkm
+tags: ["life/pkm"]
 reference: null
 状态:
 - Done

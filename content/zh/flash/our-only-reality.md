@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-24 02:15 '
-tags: philosophy/metaphysics
+tags: ["philosophy/metaphysics"]
 type:
 - flash
 状态: null

@@ -3,8 +3,7 @@ created:
   - " 2026-03-18 11:34 "
 type:
   - flash
-tags:
-  - psychoanalysis
+tags: ["psychoanalysis"]
 状态:
   - Done
 ---

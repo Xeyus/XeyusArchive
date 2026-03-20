@@ -2,7 +2,7 @@
 date: 2026-03-14T20:57:00+08:00
 type:
   - flash
-tags: "philosophy/mind/bodily-will"
+tags: ["philosophy/mind/bodily-will"]
 ---
 因为生病所以下午睡觉时我有打开电热毯的冲动，但是头脑的困倦反而让我清醒地不去行动，我的肢体有自己的、保持不动的意志。
 

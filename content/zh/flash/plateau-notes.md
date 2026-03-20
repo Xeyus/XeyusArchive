@@ -1,5 +1,5 @@
 ---
-tags: life/travel
+tags: ["life/travel"]
 type: flash
 ---
 

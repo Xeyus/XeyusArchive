@@ -3,8 +3,7 @@ title: 自设与作者
 draft: false
 series: []
 date: 2024-12-01T23:59:24+08:00
-tags:
-  - literature/theory
+tags: ["literature/theory"]
 ---
 写作时难免让角色顺着自己而非故事和角色的心意行动。
 

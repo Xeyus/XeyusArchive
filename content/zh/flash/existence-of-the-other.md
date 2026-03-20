@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-24 02:28 '
-tags: psychoanalysis/lacanian
+tags: ["psychoanalysis/lacanian"]
 type:
 - flash
 状态: null

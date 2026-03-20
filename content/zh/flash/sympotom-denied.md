@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-23 23:31 '
-tags: social-science/critique
+tags: ["social-science/critique"]
 type:
 - flash
 ---

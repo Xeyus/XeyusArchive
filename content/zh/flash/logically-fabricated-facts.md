@@ -1,6 +1,5 @@
 ---
-tags:
-  - literature/narrative
+tags: ["literature/narrative"]
 type:
   - flash
 created:

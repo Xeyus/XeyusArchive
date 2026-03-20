@@ -2,8 +2,7 @@
 状态:
 - Done
 topic: null
-tags:
-- formal-science/mathematics
+tags: ["formal-science/mathematics"]
 type: note
 title: 复变函数笔记
 series: []

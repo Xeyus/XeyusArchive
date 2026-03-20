@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-26 02:11 '
-tags: psychology/social
+tags: ["psychology/social"]
 type:
 - flash
 ---

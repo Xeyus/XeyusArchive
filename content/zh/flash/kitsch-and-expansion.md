@@ -3,8 +3,7 @@ created:
   - " 2026-02-08 03:12 "
 type:
   - flash
-tags:
-  - social-science/politics
+tags: ["social-science/politics"]
 状态:
 ---
 在意识形态的战场上，**“扩大化”** 与 **“刻奇”** 并非偶然的逻辑谬误，而是一套精密的权力装置。

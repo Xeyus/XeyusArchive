@@ -2,8 +2,7 @@
 状态:
 - Done
 topic: null
-tags:
-- formal-science/statistics
+tags: ["formal-science/statistics"]
 type: note
 title: 概率论笔记
 series: []

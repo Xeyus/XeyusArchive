@@ -3,8 +3,7 @@ title: 线性代数题解
 layout: page
 mathjax: true
 categories: 学习
-tags:
-- formal-science/mathematics
+tags: ["formal-science/mathematics"]
 topic: null
 wiki: null
 description: 线性代数题型解答。不是线性代数的原理。

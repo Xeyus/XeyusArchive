@@ -2,8 +2,7 @@
 title: 通过点灯塑造围栏
 series: []
 date: 2024-11-25T20:25:29+08:00
-tags:
-  - philosophy/epistemology
+tags: ["philosophy/epistemology"]
 ---
 1. 我们倾向于默认背景信息为真。
 

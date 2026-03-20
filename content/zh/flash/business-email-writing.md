@@ -1,5 +1,5 @@
 ---
-tags: life/professional
+tags: ["life/professional"]
 type: flash
 date: 2025-09-27T14:00:00T+08:00
 title: 商务邮件写作

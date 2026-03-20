@@ -1,6 +1,6 @@
 ---
 date: 2024-08-05T01:10:04+08:00
-tags: psychology/phobias
+tags: ["psychology/phobias"]
 title: 物象恐惧症
 ---
 一类：

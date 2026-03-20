@@ -1,5 +1,5 @@
 ---
-tags: social-science/religion
+tags: ["social-science/religion"]
 type: flash
 ---
 

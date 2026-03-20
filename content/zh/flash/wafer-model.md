@@ -3,7 +3,7 @@ categories: 研究
 created: 2024-11-18 23:28:34
 layout: page
 mathjax: true
-tags: philosophy/model
+tags: ["philosophy/model"]
 title: 威化饼干模型
 topic: null
 type: flash

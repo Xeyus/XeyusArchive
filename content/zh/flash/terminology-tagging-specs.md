@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-22 23:03 '
-tags: linguistics/terminology
+tags: ["linguistics/terminology"]
 type:
 - flash
 ---

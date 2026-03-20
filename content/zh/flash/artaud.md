@@ -1,6 +1,6 @@
 ---
 date: 2024-09-12T22:42:41+8:00
-tags: literature/drama
+tags: ["literature/drama"]
 title: 阿尔托的文字-1
 ---
 （部长）

@@ -1,6 +1,6 @@
 ---
 created: 2023-12-17
-tags: social-science/management
+tags: ["social-science/management"]
 type:
 - flash
 ---

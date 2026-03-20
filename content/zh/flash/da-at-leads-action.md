@@ -2,9 +2,7 @@
 date: 2026-02-02T00:14:00+08:00
 type:
   - flash
-tags:
-  - occultism/kabala
-  - philosophy/epistemology
+tags: ["occultism/kabala", "philosophy/epistemology"]
 title: 真知必导致行动
 ---
 真知必导致行动。

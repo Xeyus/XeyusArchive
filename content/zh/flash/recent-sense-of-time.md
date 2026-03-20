@@ -1,6 +1,6 @@
 ---
 created: 2026-01-13
-tags: psychology/time-perception
+tags: ["psychology/time-perception"]
 type: flash
 ---
 

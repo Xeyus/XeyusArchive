@@ -1,5 +1,5 @@
 ---
-tags: social-science/sociology
+tags: ["social-science/sociology"]
 type: flash
 状态:
 - Done

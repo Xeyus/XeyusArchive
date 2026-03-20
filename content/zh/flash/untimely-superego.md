@@ -3,9 +3,7 @@ created:
   - " 2026-02-01 22:53 "
 type:
   - flash
-tags:
-  - psychoanalysis/freudian
-  - psychoanalysis/lacanian
+tags: ["psychoanalysis/freudian", "psychoanalysis/lacanian"]
 状态:
   - Done
 ---

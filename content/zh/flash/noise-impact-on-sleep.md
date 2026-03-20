@@ -1,5 +1,5 @@
 ---
-tags: psychology/sleep
+tags: ["psychology/sleep"]
 type:
 - flash
 ---

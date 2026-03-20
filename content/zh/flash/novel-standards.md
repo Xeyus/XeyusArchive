@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-22 16:26 '
-tags: literature/fiction
+tags: ["literature/fiction"]
 type:
 - flash
 ---

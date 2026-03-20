@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-23 23:59 '
-tags: philosophy/political
+tags: ["philosophy/political"]
 type:
 - flash
 ---

@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-24 00:57 '
-tags: literature/surrealism
+tags: ["literature/surrealism"]
 type:
 - flash
 状态: null

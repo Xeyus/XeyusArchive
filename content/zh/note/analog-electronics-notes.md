@@ -2,8 +2,7 @@
 状态:
 - Done
 topic: null
-tags:
-- engineering/electrical
+tags: ["engineering/electrical"]
 type: note
 title: 模电笔记
 series: []

@@ -1,5 +1,5 @@
 ---
-tags: linguistics/historical
+tags: ["linguistics/historical"]
 title: 道
 date: 2026-01-29T19:52:00+8:00
 type: flash

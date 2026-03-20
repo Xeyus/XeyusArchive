@@ -7,9 +7,7 @@ description: Hierarchical tag system based on library classification principles 
   existing tags, or improve tag organization.
 type:
 - note
-tags:
-- life/pkm
-- formal-science/logic
+tags: ["life/pkm", "formal-science/logic"]
 状态: null
 date: '2026-01-28T23:53:00+08:00'
 title: 打tag标准

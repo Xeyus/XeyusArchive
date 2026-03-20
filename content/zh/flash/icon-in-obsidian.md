@@ -1,5 +1,5 @@
 ---
-tags: engineering/software
+tags: ["engineering/software"]
 type:
 - flash
 ---

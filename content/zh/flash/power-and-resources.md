@@ -1,5 +1,5 @@
 ---
-tags: social-science/power
+tags: ["social-science/power"]
 type:
 - flash
 ---

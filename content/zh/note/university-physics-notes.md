@@ -2,8 +2,7 @@
 状态:
 - Done
 topic: null
-tags:
-- natural-science/physics
+tags: ["natural-science/physics"]
 type: works
 title: 大学物理笔记
 series: []

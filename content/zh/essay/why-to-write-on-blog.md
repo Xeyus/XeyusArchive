@@ -2,8 +2,7 @@
 title: 为什么要写博客
 date: 2024-08-05T01:09:41+08:00
 series: []
-tags:
-  - life/pkm
+tags: ["life/pkm"]
 ---
 ### 展示
 

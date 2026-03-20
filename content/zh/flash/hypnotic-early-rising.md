@@ -1,6 +1,5 @@
 ---
-tags:
-- psychology/self-help
+tags: ["psychology/self-help"]
 type: flash
 ---
 

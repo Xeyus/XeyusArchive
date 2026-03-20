@@ -1,8 +1,7 @@
 ---
 状态: Done
 type: note
-tags:
-- literature/theory
+tags: ["literature/theory"]
 title: 写作指导
 series: []
 ---

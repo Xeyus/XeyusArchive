@@ -1,5 +1,5 @@
 ---
-tags: engineering/artificial-intelligence
+tags: ["engineering/artificial-intelligence"]
 title: 成为AI专家
 date: 2026-01-29T19:52:01+08:00
 ---

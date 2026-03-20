@@ -1,5 +1,5 @@
 ---
-tags: philosophy/dialectics
+tags: ["philosophy/dialectics"]
 title: 矛盾论，理想符号，和矛盾
 date: 2026-01-29T19:52:02+08:00
 type:

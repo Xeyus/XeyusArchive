@@ -1,5 +1,5 @@
 ---
-tags: occultism/magic
+tags: ["occultism/magic"]
 type:
 - flash
 ---

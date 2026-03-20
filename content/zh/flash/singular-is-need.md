@@ -1,5 +1,5 @@
 ---
-tags: engineering/artificial-intelligence
+tags: ["engineering/artificial-intelligence"]
 type: flash
 ---
 

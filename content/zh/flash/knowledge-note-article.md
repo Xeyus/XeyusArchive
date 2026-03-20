@@ -1,5 +1,5 @@
 ---
-tags: philosophy/epistemology
+tags: ["philosophy/epistemology"]
 type: note
 状态:
 - Done

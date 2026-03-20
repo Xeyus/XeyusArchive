@@ -2,8 +2,7 @@
 title: 聊天耗费精力，但
 date: 2024-07-25T00:36:31+08:00
 series: []
-tags:
-  - psychology/social
+tags: ["psychology/social"]
 ---
 对我来说，聊天耗费精力。
 

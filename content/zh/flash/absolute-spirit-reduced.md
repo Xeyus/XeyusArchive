@@ -1,6 +1,6 @@
 ---
 date: 2026-01-23T23:40:00+8:00
-tags: philosophy/epistemology
+tags: ["philosophy/epistemology"]
 title: 不可自以为是地简化理性
 type:
 - flash

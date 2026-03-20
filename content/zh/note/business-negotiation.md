@@ -1,8 +1,7 @@
 ---
 状态:
 - Done
-tags:
-- social-science/economics
+tags: ["social-science/economics"]
 cssclasses: null
 type: note
 title: 2025-09-25-商务谈判笔记

@@ -3,10 +3,7 @@ created:
   - " 2026-01-30 01:20 "
 type:
   - flash
-tags:
-  - literature
-  - formal-science/logic
-  - philosophy/epistemology
+tags: ["literature", "formal-science/logic", "philosophy/epistemology"]
 状态:
   - Done
 ---

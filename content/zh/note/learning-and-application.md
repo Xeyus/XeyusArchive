@@ -2,8 +2,7 @@
 状态:
 - Done
 type: note
-tags:
-- philosophy/epistemology
+tags: ["philosophy/epistemology"]
 title: 学习与应用
 series: []
 ---

@@ -1,7 +1,6 @@
 ---
 type: note
-tags:
-- life/pkm
+tags: ["life/pkm"]
 title: 信息处理
 series: []
 ---

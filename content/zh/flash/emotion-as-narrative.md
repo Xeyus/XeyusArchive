@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-23 23:32 '
-tags: fine-arts/aesthetics
+tags: ["fine-arts/aesthetics"]
 type:
 - flash
 ---

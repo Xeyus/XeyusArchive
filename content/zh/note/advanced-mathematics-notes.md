@@ -2,8 +2,7 @@
 title: 高等数学笔记
 layout: page
 categories: 学习
-tags:
-- formal-science/mathematics
+tags: ["formal-science/mathematics"]
 topic: null
 wiki: null
 description: 总结高等数学题型和思路，以方便考试。

@@ -1,5 +1,5 @@
 ---
-tags: philosophy/metaphysics
+tags: ["philosophy/metaphysics"]
 type: note
 状态: Done
 ---

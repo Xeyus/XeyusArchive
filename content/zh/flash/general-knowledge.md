@@ -3,7 +3,7 @@ categories: 杂谈
 created: 2024-08-10 14:55:26
 description: 改变错误认知并不容易，也并不必要
 layout: page
-tags: life/education
+tags: ["life/education"]
 title: 普及知识
 topic:
   - 灵光

@@ -1,5 +1,5 @@
 ---
-tags: social-science/politics
+tags: ["social-science/politics"]
 title: 2025年全球军事冲突与地缘安全报告
 date: 2026-02-07T09:41:29+8:00
 ---

@@ -1,7 +1,7 @@
 ---
 created:
 - ' 2026-01-18 01:06 '
-tags: literature/narratology
+tags: ["literature/narratology"]
 type:
 - flash
 ---

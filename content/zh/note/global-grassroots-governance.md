@@ -1,7 +1,5 @@
 ---
-tags:
-- social-science/politics
-- social-science/economics
+tags: ["social-science/politics", "social-science/economics"]
 type:
 - note
 reference: null
