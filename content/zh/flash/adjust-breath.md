@@ -1,6 +1,6 @@
 ---
 title: 调整呼吸
-date: 2023-11-29T09:43:21+8:00
+date: 2023-11-29T09:43:21+08:00
 type: note
 tags: ["life/health"]
 ---
