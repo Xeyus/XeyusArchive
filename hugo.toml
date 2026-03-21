@@ -2,8 +2,11 @@ baseURL = 'https://geistlicht.work'
 languageCode = 'zh-CN'
 title = 'Xeyus Archive'
 theme = 'Paper'
-defaultContentLanguage = "zh"  # 设定中文为默认
-defaultContentLanguageInSubdir = false # 关键！设为 false，则中文路径为 / 而非 /zh/
+defaultContentLanguage = "zh"  
+defaultContentLanguageInSubdir = false 
+
+[params]
+    defaultTheme = "dark"
 
 [taxonomies]
     category = "categories"
