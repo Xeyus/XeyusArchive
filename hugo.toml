@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
     series = "series" # 开启系列文章功能
 
 [permalinks]
-    literature = "/lit/:contentbasename/"
+    literature = "/literature/:contentbasename/"
     review  = "/review/:contentbasename/"
     essay   = "/essays/:contentbasename/"
     flash    = "/flash/:contentbasename/"
@@ -33,7 +33,7 @@ defaultContentLanguageInSubdir = false
     
     [[languages.zh.menu.main]]
       name = "创作"
-      url = "/lit/"
+      url = "/literature/"
       weight = 10
     [[languages.zh.menu.main]]
       name = "回响"
@@ -67,7 +67,7 @@ defaultContentLanguageInSubdir = false
 
     [[languages.en.menu.main]]
       name = "Literature"
-      url = "/lit/"
+      url = "/literature/"
       weight = 10
     [[languages.en.menu.main]]
       name = "Review"
@@ -101,7 +101,7 @@ defaultContentLanguageInSubdir = false
 
     [[languages.de.menu.main]]
       name = "Literatur"
-      url = "/lit/"
+      url = "/literature/"
       weight = 10
     [[languages.de.menu.main]]
       name = "Rezension"
