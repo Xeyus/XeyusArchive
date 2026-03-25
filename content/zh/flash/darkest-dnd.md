@@ -1,11 +1,10 @@
 ---
-title: darkest-dnd
+title: 暗黑地牢DNDpa
 date: 2026-03-25T15:01:45+08:00
 draft: false
 series: [暗黑地牢碎碎念]
 tags: [applied-arts/game]
 ---
-
 看够了 COC 风格，我们来看看 DND 风格的暗黑地牢角色吧。
 
 * 朱妮娅（修女）：牧师。被圣光直接选中的牧师，有治疗有神术还能近战，经典牧师。

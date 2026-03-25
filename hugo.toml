@@ -19,7 +19,6 @@ defaultContentLanguageInSubdir = false
     essay   = "/essays/:contentbasename/"
     flash    = "/flash/:contentbasename/"
     log      = "/log/:contentbasename/"
-    wiki     = "/wiki/:contentbasename/"
 
 [languages]
   [languages.zh]
@@ -47,10 +46,6 @@ defaultContentLanguageInSubdir = false
       name = "瞬念"
       url = "/flash/"
       weight = 40
-    [[languages.zh.menu.main]]
-      name = "馆藏"
-      url = "/wiki/" 
-      weight = 50
     [[languages.zh.menu.main]]
       name = "时轴"
       url = "/log/"
@@ -82,10 +77,6 @@ defaultContentLanguageInSubdir = false
       url = "/flash/"
       weight = 40
     [[languages.en.menu.main]]
-      name = "Wiki"
-      url = "/wiki/"
-      weight = 50
-    [[languages.en.menu.main]]
       name = "Log"
       url = "/log/"
       weight = 60
@@ -115,10 +106,6 @@ defaultContentLanguageInSubdir = false
       name = "Notizen"
       url = "/flash/"
       weight = 40
-    [[languages.de.menu.main]]
-      name = "Wiki"
-      url = "/wiki/"
-      weight = 50
     [[languages.de.menu.main]]
       name = "Protokoll"
       url = "/log/"
