@@ -1,5 +1,5 @@
 ---
-title: empathy
+title: Empathy
 date: 2026-04-01T11:44:52+08:00
 draft: false
 series: []
