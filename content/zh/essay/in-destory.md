@@ -1,11 +1,10 @@
 ---
-title: in-destory
+title: 事物为什么在毁灭时才能发挥超越性
 date: 2026-04-01T22:06:58+08:00
 draft: false
 series: []
 tags: ["philosophy/metaphysics","religion/christianity","philosophy/aesthetics"]
 ---
-
 可能是平常的秩序正在失效，我们才能向其出现的空隙填充超越性，并且更加注意到可能存在但平时被遮蔽的超越性吧。加上毁灭带来的强烈体验（恐慌、焦虑、平静），就很容易把超越性发扬了。
 
 911 有超越性吗？
