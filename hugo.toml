@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
     title = "Xeyus Archive"
 
     [languages.zh.params]
-    mainSections = ["literature", "essay", "review", "flash"]
+    mainSections = ["literature", "essay", "review", "flash", "log"]
     
     [[languages.zh.menu.main]]
       name = "创作"
