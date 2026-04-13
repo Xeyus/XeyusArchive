@@ -5,24 +5,19 @@ draft: false
 series: []
 tags: []
 ---
-
 ## 概述
 
 任务管理软件。https://app.amazingmarvin.com/
 
 ## 优点
 
-简洁，只包括任务管理
-
-有快速捕捉系统，好用
-
-包括自定义 Strategy
-
-按照要做的和暂时不需要做的分类
-
-Area of Life 和 Project 归类任务
-
-确实相当适合 ADHD
+* 简洁，只包括任务管理
+* 有快速捕捉系统，好用，直接在 Braindump 里按行输入就可以了
+* 包括自定义 Strategy
+* 按照要做的和暂时不需要做的分类
+* Area of Life 和 Project 归类任务
+  * 而且像是树状展开，可以添加多层子项目、子任务，管理项目和任务一目了然
+* 确实相当适合 ADHD
 
 ## 缺点
 
