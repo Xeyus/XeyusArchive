@@ -1,7 +1,7 @@
 ---
 title: forever-my-hero
 date: 2026-04-14T23:18:13+08:00
-draft: false
+draft: true
 series: []
 tags: []
 ---
@@ -141,7 +141,6 @@ tags: []
 似乎有人在阻止她这么预防。她看不清那到底是谁，不过发现自己没能成功掐死自己后向那人，或那些人，送上了一句：“Pity the Great Denier... chained by his own command!”
 
 ### Seething Sigh
-
 
 现在她通过排除法看清了到底是谁在愚蠢地多管闲事。鲍德温还在按着雷纳德，挡在他和其他人之间，迪斯马和朱妮娅在做着她暂时无法判断是祈祷还是 PTSD 发作的事。
 
