@@ -1,5 +1,5 @@
 ---
-title: pointing-out
+title: 指点江山
 date: 2026-07-16T21:23:41+08:00
 draft: false
 series: []
