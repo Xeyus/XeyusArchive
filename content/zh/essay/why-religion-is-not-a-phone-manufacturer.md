@@ -5,6 +5,7 @@ draft: false
 series: []
 tags: ["religion/theology","history/medieval"]
 ---
+![1784327603529](image/why-religion-is-not-a-phone-manufacturer/1784327603529.webp)
 
 0\. “宗教的核心就是创造一组在某层面上优于其他的概念对立，并以此形成其理论、文化，通过这种高级的认同凝聚并管理信徒，它的合法性来自共同体本身”，刚发现我是在中间才想起来总结下图中观点严谨表述后应该是在说什么。
 
