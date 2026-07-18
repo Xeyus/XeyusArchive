@@ -1,3 +1,5 @@
+pc
+
 ---
 title: forever-my-hero
 date: 2026-04-14T23:18:13+08:00
