@@ -1,5 +1,5 @@
 ---
-title: passio-passionis
+title: 引发痛苦的看起来是同样被引发的痛苦，那么被引发的痛苦是痛苦的来源
 date: 2026-08-02T03:20:10+08:00
 draft: false
 series: []
