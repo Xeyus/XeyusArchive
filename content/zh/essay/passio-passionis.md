@@ -1,5 +1,5 @@
 ---
-title: 引发痛苦的看起来是同样被引发的痛苦，那么被引发的痛苦是痛苦的来源
+title: passio-passionis
 date: 2026-08-02T03:20:10+08:00
 draft: false
 series: []
@@ -56,3 +56,5 @@ tags: ["philosophy/ethics","psychoanalysis/lacanian"]
 ## Passio passionis
 
 如果需要一个更“恰当”的标题的话，这就是。
+
+“passio”这个词在现代语言看不出什么崇高。法语/英语的“passion”几乎只剩“激情、爱好”的意思，西班牙语“pasión”也差不多。可它古典和中世纪的核心含义是“被动性”：在亚里士多德那里，passio是与actio相对的一极，指“被作用、承受、接受形式”。比如被切割是passio，被爱也是passio。在基督教神学里，Passio专指基督受难。
