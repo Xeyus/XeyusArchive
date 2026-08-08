@@ -3,9 +3,8 @@ title: 2026-08-08 拉丁语练习特辑：废墟图书馆的性、数、格
 date: 2026-08-08T16:23:50+08:00
 draft: false
 series: []
-tags: ["language/latin"]
+tags: ["linguistics/morphology"]
 ---
-
 > Salvete, hospites. Haec est Bibliotheca. Ego sum Angela, rectrix et bibliothecaria. Hīc omnia, quae cupitis, obtinēbitis; sed rem pretiōsissimam āmittere potestis.
 > Ergo, liber tuus inveniatur.
 
