@@ -5,6 +5,8 @@ draft: false
 series: []
 tags: ["religion/theology","history/medieval"]
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=300 height=52 src="https://music.163.com/outchain/player?type=2&id=2151515528&auto=1&height=32"></iframe>
+
 ![](https://raw.githubusercontent.com/Xeyus/Blog-Pic/master/1784327603529.webp)
 
 0\. “宗教的核心就是创造一组在某层面上优于其他的概念对立，并以此形成其理论、文化，通过这种高级的认同凝聚并管理信徒，它的合法性来自共同体本身”，刚发现我是在中间才想起来总结下图中观点严谨表述后应该是在说什么。
@@ -112,6 +114,6 @@ tags: ["religion/theology","history/medieval"]
 后记：
 
 - 为什么 2.3.1.2 那么详细？我最近恰好在研究彼得·达米安。而且我写上就睡不着了，失眠患者的主保圣人通过制造失眠患者干活是吧，那我可得好好写写了。
-- 推荐配合音乐 _4nim0sity|99.999999999%_ 阅读（我好像说晚了，那就改成单纯推荐音乐吧），因为我就是单曲循环这首写的这篇。
+- 推荐配合音乐 _4nim0sity|99.999999999%_ 阅读（我好像说晚了，那就改成单纯推荐音乐吧），因为我就是单曲循环这首写的这篇。2026-08-08补充：我会插入iframe了，所以，这是网易云音乐的iframe。
 - 还有为什么在note分类时不显示，得移到flash里？一会儿看看怎么处理。啊不对，应该是essay分类。
 - 好了，现在我得另找个图床了，sm.ms不能用了。
