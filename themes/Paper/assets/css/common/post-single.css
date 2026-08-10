@@ -52,28 +52,28 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 40px;
+    font-size: 1.618em;
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: 32px;
+    font-size: 1.462em;
 }
 
 .post-content h3 {
-    font-size: 24px;
+    font-size: 1.318em;
 }
 
 .post-content h4 {
-    font-size: 16px;
+    font-size: 1.188em;
 }
 
 .post-content h5 {
-    font-size: 14px;
+    font-size: 1.076em;
 }
 
 .post-content h6 {
-    font-size: 12px;
+    font-size: 1em;
 }
 
 .post-content a,
