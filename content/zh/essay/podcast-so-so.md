@@ -3,7 +3,7 @@ title: 播客不过如此？
 date: 2026-08-16T18:56:26+08:00
 draft: false
 series: []
-tags: []
+tags: ["philosophy/ethics","social-science/communication"]
 ---
 
 ## 前言
