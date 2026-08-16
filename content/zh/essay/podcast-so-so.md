@@ -1,5 +1,5 @@
 ---
-title: 播客不过如此？
+title: 所以这就是播客？
 date: 2026-08-16T18:56:26+08:00
 draft: false
 series: []
