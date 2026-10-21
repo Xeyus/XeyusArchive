@@ -1,5 +1,5 @@
 ---
-title: 前言-A与B部分
+title: 前言-仅D部分未完工
 date: 2026-10-13T23:17:08+08:00
 draft: false
 series: ["Damian"]
@@ -24,6 +24,11 @@ A. 这谁啊？（这个就不用解释了吧）
 B. 我记得 CK3 里 Camaldolese 修会的会长好像是他？但？（你好像在哪里见过这个人）
 C. 我记得暗黑地牢里那个苦修者好像也叫 Damian？（你好像知道这个人有什么特别的点）
 D. 哦对了，《神曲》里提到过这个隐修士/在格里高利改革介绍里见过他/那个觉得上帝的全能连矛盾律都能违反的神人/《蛾摩拉之书》他写的是吧。（你知道这个人的一些基本情况）
+
+> 作者吐槽：
+> “我知道我写太长了，但你们可以跳着看啊。”  
+> ——_Petrus peccator monachus_, 大概在什么地方说过类似的话。反正我说过。
+> 各位想看什么自己跳着看就是了。反正我给了标题。
 
 ### Ad fontes
 
@@ -218,7 +223,28 @@ D. 哦对了，《神曲》里提到过这个隐修士/在格里高利改革介�
 
 在这个阶段，首先我要注明，他有政治能力，能优秀地完成任务，不代表对政治的价值认识同样优秀，如承认政治具有独立于宗教目的之外的正当性，以及不把这种价值排序贯彻到相当具体的个人生活层面。他更推崇默观生活，把政治当服从权威、履行不得不承担的职责。这是以防大家看了他后来的信觉得他左右脑互搏。
 
-其次，我要声明，他的书信风格，尤其是在不受具体公务目的严格约束（如代表枢机团或教廷声明政治立场、神学观点）时，是独树一帜的繁复、好用生僻词以及例证过度、连自己为什么例证过度都有例证，同时常有生动、连续的修辞与尖酸刻薄甚至恶毒的用语，说好听一些就是把拉丁语用活了；说难听一些就是……所以这里只记述书信大致内容和写作目的，不展开他的修辞内容。同时我需要声明，这不影响在大部分书信内，他的思想和实践是平衡而不像言辞那样尖刻的。
+其次，我要声明，他的书信风格，尤其是在不受具体公务目的严格约束（如代表枢机团或教廷声明政治立场、神学观点）时，是独树一帜的繁复、好用生僻词以及例证过度、连自己为什么例证过度都有例证，同时常有生动、连续的修辞与尖酸刻薄甚至恶毒的用语，说好听一些就是把拉丁语用活了；说难听一些就是……所以这里只记述书信大致内容和写作目的，不展开他的修辞内容。同时我需要声明，这不影响在大部分书信内，他的思想和实践是平衡而不像言辞那样尖刻的。并且，就我个人的初步统计，他从 30 岁到 60 多岁，写作风格一直相当稳定，句长也很稳定，比喻和有标记例证的频率也相当稳定，用词中身体相关、暴力相关词频也稳定地比较高（拉丁原文 9.86/百句）；至于例证、引证方面的材料，因为他不常使用例子标记词，还需进一步判断（如古典拉丁文学内容、寓言或故事、圣经内容、动物象征，目前我的初步统计中只有后两者能被稳定检索，而前两者难以被检索出来），各位亲自去看他的信件时注意自己的状态。
+
+我将摘录英译者的怨念，即使这会显得我的文风被 Damian 本人带跑偏，甚至附身了：
+
+> “My colleagues on the faculty, especially Professor Hermigild Dressler, O.F.M., were always ready to lend their help in many an encounter with the **medieval eccentricities of Damian‘s Latin style** and with the **frequent hapax legomena to which he was addicted**.”
+> 我的同事们随时准备帮我应对达米安拉丁风格的**中世纪怪癖**，以及他**上瘾般频繁使用的 hapax legomena**（仅出现一次的词）。
+> 
+> “It is interesting to note that from time to time Damian was aware that he had **exceeded the norms of epistolary brevity**, for which he begged pardon of the addressee. Also, **contrary to the rules of letter writing**, he occasionally inserted titles ’to relieve the double tedium of my unpolished and verbose style.'”
+> 有趣的是，达米安时不时意识到自己**超出了书信简洁的规范**，为此他向收信人请求原谅。而且，**违反书信写作规则**，他偶尔插入标题“以缓解我那未加修饰且冗长风格的加倍乏味”。
+> 
+> “Yet one can only wonder, as he takes note of the variety of his personal interests and of the self-imposed limits of the genre he had chosen, at the **absence of Damian’s reference to outstanding contemporary events** of which he must certainly have been aware.”
+> 然而，当人们注意到他个人兴趣的多样性以及他所选体裁的自我限制时，不禁要问：达米安**为什么对某些他肯定知道的当代重大事件只字不提**。
+> 接下来 Blum 列举了诸多他本该提及但并未提及的内容，如在诺曼人在意大利中南部，1054 年 Humbert 出使君士坦丁堡、东西方教会大分裂，诺曼征服英格兰，1066 年哈雷彗星，西班牙收复失地运动。即使Damian 在 1062 年还写信给君士坦丁堡牧首康斯坦丁三世·莱库德斯讨论“和子句”问题，他从未在信里提及过分裂。即使他是个教宗特使，不可能不知道这些事多重要。
+> 
+> Blum 在列举完达米安所有“应该提但没提”的事之后，总结为：
+> His letters are silent on the diplomatic relations between the Holy See, the imperial court of Henry III, and the attempt to enlist assistance from the Byzantine Emperor, Constantine IX, in fighting the Normans, and the mission of Cardinal Humbert to Constantinople in 1054 to further this alliance.…Another blind spot for him was the Christian cause in Spain, where the Reconquista began during the last decade of Damian‘s life.
+> 他的信对圣座、亨利三世宫廷、以及试图争取拜占庭皇帝君士坦丁九世援助以对抗诺曼人之间的外交关系，全部保持沉默。……他的另一个盲点是西班牙的基督教事业，收复失地运动正是在达米安生命的最后十年开始的。
+
+一个方济各会修士，发过服从、贫穷、谦卑三愿的人，在正式出版物里用“上瘾”“盲点”“违反规则”这种词去描述一位教会圣师。即使抛开那些现代研究者对当时人记录的期待，只看学术和文风，Damian 的写作也给 Blum 折磨得不轻。这也会是我只会在该部分概括个别书信的某些内容，以及所有书信的主题，而非概括所有书信的整体内容的原因。
+
+> 作者吐槽：
+> 想象你去看现任奥斯蒂亚枢机主教的公文，发现 2025 年他除了 Luce，什么都没提。而且他写 Luce 用的还是各个文化的二次元黑话翻译到拉丁语的生造词。
 
 - 1057 年秋：受任奥斯蒂亚主教，进入枢机主教团。
     - Stephen IX 任命 Damian 为奥斯蒂亚主教；他在给同僚的信里说明自己并非主动求取此职，同时要求枢机主教以自身生活为其他主教作表率。
@@ -226,16 +252,28 @@ D. 哦对了，《神曲》里提到过这个隐修士/在格里高利改革介�
     - 相关书信：
         - Letter 48（1057 年秋，致枢机主教同僚）：叙述接受任命的经过，劝勉同僚以个人操守推动教会改革。
 - 1058年夏-年末：患病后首次请求辞去主教职务，并表态支持 Nicholas II。
-    - 一场持续多周的重病强化了 Damian 重返 Fonte Avellana 的愿望。Stephen IX 去世后，教宗继承引发争议；Damian 支持原为佛罗伦萨主教的 Gerard（Nicholas II），反对 Benedict X。
+    - 一场持续多周的重病强化了 Damian 重返 Fonte Avellana 的愿望。Stephen IX 去世后，教宗继承引发争议；Damian 作为为教宗祝圣的枢机主教，以及改革派一方成员，因贵族扶持 Benedict X 、占据罗马指挥权暂时离开政治中心，等待 Hildebrand 返回。此处应提及，他等待 Hildebrand 返回是因为，Stephen IX 生前曾规定：如果自己在希尔德布兰德从皇后宫廷返回前去世，就不得选举新教宗，宗座必须保持空缺。他支持原为佛罗伦萨主教的 Gerard（Nicholas II），反对 Benedict X，在 Letter 57 中请求解除自己的主教职务，同时表示愿意先协助改革派确立新教宗，待政治斗争结束后再返回隐修生活，并在 Letter 58 中公开为 Gerard 的合法性辩护
         - 按照他的描述，他最初卧床发热七周，起床活动后，仅有三四天似乎康复，随后复发，连续约二十天再次遭受折磨，症状包括发热、血痰等，医生几乎放弃希望。以及并非修辞意义的他要死了，他已接受临终傅油，穿着麻衣躺在灰烬上，葬礼准备也开始了。至于他在信里开头说“我曾经多次祈求上帝用严重疾病惩戒自己身体的傲慢……上帝答应了我的请求，而且还附带利息。”中间论证了为什么自己不能吃肉。（康复后，兄弟们发现他虚弱得吃不下东西，而且没有鱼，于是请求他至少吃三天肉来恢复体力。同时，根据会规，理论上这种时候硬给他灌肉汤也是被允许的。）这些就是后话了。
+    - H. E. J. Cowdrey 的 Pope Gregory VII, 1073–1085 指出，1058年夏秋，Damian 在佛罗伦萨附近的 Gamugno 修道院长期养病，因此处于政治事件的边缘；同时，Hildebrand 正在积极组织对 Benedict X 的反对。
+    - 综合 Letter 55 所记载的病程、1058年的礼仪历，以及当年的教宗继承危机，可以提出一条尚待进一步校勘的时间线：Stephen IX 于3月29日去世、Benedict X 于4月初被扶立后，Damian 可能在4月中旬前后患病，经过七周高热、短暂康复及约二十天的复发，至6月下旬或7月初才真正恢复健康。
+		- 这一推测能够解释 Letter 55 中的五旬节意象，并与该信被编定于 1058 年夏季的时间范围相容。不过，信中 Quinquagesima 的具体含义及其与 Pentecost 的关系仍需核对拉丁原文和编者注释。（我还在苏黎世大学的文档里找呢。）
+		- 具体依据参考下文 Letter 55。
     - 相关人物：Gerard、Hildebrand、Benedict X、拉文纳总主教 Henry。
     - 相关书信：
         - Letter 55（1058 年夏，致 Rodulfus 与 Ariprandus）：记述长时间发热、濒死及康复的经过。
-        - Letter 57（1058 年 6—12 月，致当选教宗 Gerard 与 Hildebrand）：以身体衰弱和向往隐修为由，请求卸去奥斯蒂亚与古比奥的职责；将自己的擢升归咎于 Hildebrand。对于喜欢八卦的人，他在这里先是在题头致辞中称 Hildbrand 为 virga Assur Hildebrando（亚述之杖 Hildebrand），后是称他为 sancto Satanae meo（我的圣撒旦）。虽然我也不知道他和 Hildebrand 多熟悉了就这么叫。此时他的例证里还包括奇闻轶事或证据不足的内容，而后续 Letter 72 中有所改善。
+	        - 第2段写的是“For he gave me a sorrowful Pentecost, not a Paschal one”，第3段又说，他在一个星期日病倒，七周后也在星期日起床，并出现“on Quinquagesima, the Sunday before Lent”。按照1058年的儒略历计算，复活节是4月19日，圣神降临节约为6月7日；四旬期前的 Quinquagesima 则在2月底。如果他病倒后七周在某个星期日起身，然后复发二十天，他应该在春季就康复了。那为什么说“悲伤的圣灵降临节”？
+	        - 如果是修辞性的圣灵降临节，即形容他病倒期间都像“悲伤的圣灵降临节”，这种用法不太常见，所以我倾向于：
+	        - 他病倒的时间比我们想的晚。如果他在复活节前后（4月中）病倒，七周后约6月初起身，那正好在圣灵降临节前后。然后复发二十天，到6月底才真正康复。这个时间线与“悲伤的圣灵降临节”完全吻合。但这不能解释 Cowdrey 的文本中为什么形容他养病的时间是“夏秋”。
+	        - 除非他病倒的时间比我们刚刚想象的还要晚，即圣灵降临节病倒，但这又与其他描述有所矛盾。或者他康复后仍然需要养病。
+	        - 更麻烦的是 Quinquagesima ，这个我不知道怎么处理。也许他病了快半年？也许他之前还生过一次病？也许他只是病好后身体一直没恢复到能正常工作的程度，直到 6 月才勉强可以，但夏秋时期仍需继续养病？我目前还是采用了前文提到的时间线作为我的认识。
+        - Letter 57（1058 年 6—12 月，致当选教宗 Gerard 与 Hildebrand）：以身体衰弱和向往隐修为由，请求卸去奥斯蒂亚与古比奥的职责；将自己的擢升归咎于 Hildebrand。Damian 提出辞职时，Gerard 已经被称为罗马宗座的 bishop elect，但教宗继承争议尚未解决。 他甚至表示愿意先陪同 Hildebrand 完成这场斗争，等基督一方获胜后再退休。对于喜欢八卦的人，他在这里先是在题头致辞中称 Hildbrand 为 virga Assur Hildebrando（亚述之杖 Hildebrand），后是称他为 sancto Satanae meo（我的圣撒旦）。虽然我也不知道他和 Hildebrand 多熟悉了就这么叫。此时他的例证里还包括奇闻轶事或证据不足的内容，而后续 Letter 72 中有所改善。
             - 不止我不知道。
-            - 首先，正经的研究者也是主要靠书信重建他们的关系的。他们看到的也是这家伙突然就这么称呼 Hildebrand。比如 H. E. J. Cowdrey 的 Pope Gregory VII, 1073–1085 中有一节 “Peter Damiani and Hildebrand”，但是他好像也不知道这俩人到底什么时候认识的。
+            - 首先，正经的研究者也是主要靠书信重建他们的关系的。他们看到的也是这家伙突然就这么称呼 Hildebrand。比如 H. E. J. Cowdrey 的 Pope Gregory VII, 1073–1085 中有一节 “Peter Damiani and Hildebrand”，但是他好像也不知道这俩人到底什么时候认识的，不过他把它称为写给教宗当选人 Gerard 和 Hildebrand 的信件草稿。
             - 其次，1057年的主教任命应该是关键节点。Blum 在 Letter 156 的编者导言里谨慎地提出：可能正是 Hildebrand 建议 Stephen IX 任命 Damian。
             - 第三，Letter 63 涉及 Damian 的隐修院土地遭到争议，而他责备 Hildebrand 听信不利于自己的说法。信的开头却又感谢 Hildebrand 在宫廷活动期间对自己的关照。这意味着，至少到1059年，两人的关系已经同时包含实际支持、私人信任和具体摩擦。
+            - 同时对于喜欢八卦的人，这里还提到他严厉训斥了 Gerard 下棋不像个主教。还记得之前提过他们支持的教宗人选是佛罗伦萨主教吧？Letter 57 里，他没点这位主教的名字，不过我们都知道，那就是 Gerard。Gerard 试图以“教会法禁止的是骰子，不是国际象棋”辩护。在此省略过程，结果就是，Gerard 接受了 Damian 因他下棋指派的补赎：诵念三遍《圣咏集》、为十二名穷人洗脚并施舍钱财。此处前文是 Damian 抱怨自己一旦与他们这些人见面，就会开始讲笑话、插科打诨，甚至笑得不像个神职人员。他认为这种社交环境损害了自己的灵性纪律，遂举例论证这帮人制造的社交环境确实不严肃。
+	            - 作者吐槽：哈哈哈哈我就说写信总能这么幽默的人，不可能平时真的一句话不说，就板着个脸+闭嘴，搞得真是“枢机主教应该有让所有人闭嘴的气场”那样（参见 Letter 48）。他本人相当擅长修辞和幽默才会觉得这会是个影响纪律的问题——他平时总是忍不住在书写，可能还有私下发言时犯，即使他本人的隐修院在言语上的纪律相当严格（参见 Letter 18 和 Letter 50）。
+            - 更多八卦请自行查阅 Letter 57。
         - Letter 58（1058 年下半年，致拉文纳总主教 Henry）：公开反对 Benedict X，支持 Gerard；虽被要求保密，仍希望这封表态信广为人知。
 - 1059年3月：就安科纳民众遭绝罚一事劝谏 Nicholas II。
     - Damian 区分少数领导人的政治抗拒与普通民众的处境，反对不加区分地使用绝罚，并建议教宗征询教廷同僚。
@@ -244,6 +282,7 @@ D. 哦对了，《神曲》里提到过这个隐修士/在格里高利改革介�
         - Letter 60（1059 年 3 月，致 Nicholas II）：请求重新考虑针对安科纳人的处分，强调不应让无辜者与有责者一同承受属灵惩罚。
 - 1059 年 4 月：参与教宗选举制度改革。
 	- Nicholas II 在拉特朗会议上颁布 _In nomine Domini_，重新规定教宗选举程序。法令要求枢机主教首先商议人选，再召集其他枢机神职人员，随后由罗马其余神职人员及民众表示认可。这一安排旨在减少罗马贵族派系及世俗势力对教宗选举的操纵，加强教会内部对选举程序的控制。法令仍保留了涉及德意志国王 Henry IV 及其继承者的权利条款。
+		- 参考之前教宗换届的速度，以及他本人惊险的上位过程，这很有必要。
 	- Damian 以奥斯蒂亚主教身份列于法令署名者之中。详见 A 部分注释-枢机主教。
 	- 该法令此后成为教宗选举合法性争议的重要依据。尤其在1061年 Alexander II 与对立教宗 Honorius II（Cadalus）的冲突中，教宗选举程序、王权介入及宗座合法性的问题进一步激化。
 - 1059 年上半年—年末：推动神职纪律改革，并赴米兰执行使节任务。
@@ -271,6 +310,7 @@ D. 哦对了，《神曲》里提到过这个隐修士/在格里高利改革介�
     - 相关书信：
         - Letter 71（1060年初，以枢机主教们名义致 Agnes）：解释领取披带的罗马惯例，并答复宫廷方面的请求。
 - 1061年10月：Alexander II 当选后，代其向米兰教会发出劝诫。
+	- 尼各老二世 1061 年去世，改革派推举安瑟伦（亚历山大二世），伦巴底主教们不服，推举卡达洛（对立教宗何诺二世）。之前的教宗选举法案迎来了压力测试。
     - Damian 继续介入米兰的神职改革，但这封信以教宗名义发出，使用时应区分起草者与发信人。
     - 相关人物：Alexander II、米兰神职人员及民众。
     - 相关书信：
@@ -394,7 +434,7 @@ Damian 多次请求卸任，逐步摆脱奥斯蒂亚教区的日常管理，却�
 - 1065—1067年：继续介入米兰、佛罗伦萨等地的改革冲突，尤其在佛罗伦萨事件中强调调查程序和圣事有效性。
 - 1067年：获准回归隐修生活。
 
-> 作者彩蛋：*Ita, Pater!*（是，神父！） 剧本节选：
+> 作者剧场：*Ita, Pater!*（是，神父！） 剧本节选：
 > 
 > （1059年4月，拉特朗会议）
 > Nicholas II：我们需要重新规范教宗选举，避免罗马贵族操纵。
@@ -495,7 +535,12 @@ Damian 多次请求卸任，逐步摆脱奥斯蒂亚教区的日常管理，却�
 - 1071 年：前往卡西诺山，参加修院教堂祝圣。这次行程见于后来的生平叙述。
     - 相关人物：卡西诺山院长 Desiderius。
 - 1072 年初：赴拉文纳调停，返程中在 Faenza 去世。
-    - 后来的生平叙述称，他前往拉文纳恢复当地教会与罗马的关系，返程患病并在 Faenza 的修院去世。常用卒年为 1072 年，但 [John Howe 提出1073年的修订意见](https://doi.org/10.1484/J.ABOL.5.102054)。
+    - 后来的生平叙述称，他前往拉文纳恢复当地教会与罗马的关系，返程患病并在 Faenza 的修院去世。常用卒年为 1072 年，但 [John Howe 提出1073年的修订意见](https://doi.org/10.1484/J.ABOL.5.102054)。证据包括：
+        - 11世纪的意大利中部，很多书记员使用的是“道成肉身纪年法”（Incarnational years），即新的一年从 3月25日（天使报喜节） 开始。如果按这个历法，史料里记载的“1072年2月22日”，换算成我们今天的公元纪年，其实是 1073 年 2 月 22 日。
+        - 1072 年 7 月 7 日 Damianus prior eremi Sancte Crucis 去开会了。托斯卡纳女伯爵玛蒂尔达和她母亲贝亚特丽斯在场。因为 Damian 生前一直和他们家族关系极好，这场集会很可能就是靠他的面子才开成的。至于他侄子，当时资历不够，而且也没用过这个头衔，所以 Howe 认为开会的就是我们这位 Peter Damian 本人。
+        - 在佛罗伦萨附近的 Citille 有一座教堂，其石碑铭文写着：1072年10月21日，由“罗马教会枢机主教彼得”（Petrus episcopus Romane aecclesiae cardinalis）祝圣。按时间看这个枢机主教有可能是 Peter Damian，不一定是 Pietro Igneo。
+        - 他最后一次出使拉文纳，是因为拉文纳大主教和对立教宗都死了，教廷需要去收拾残局。如果是我们通常用的 1072 年出发，时间太紧了。
+        - 这仍然不影响他没见到自己的圣撒旦当上教宗。
     - 相关人物：Alexander II、拉文纳教会、Faenza 修院团体。
 
 ##### Damian 的核心关系网（约1067—1072年）
@@ -563,3 +608,914 @@ Damian 多次请求卸任，逐步摆脱奥斯蒂亚教区的日常管理，却�
 ……以及什么叫有些人的教宗特使可以白干活，不要工资不要待遇（笑） 
 
 而且连职位都不想要。虽然我也想不明白就算他想要，他都是Cardinal bishop of Ostia了，而且同时已经是特使了，还能怎么给他升职。他确实能再多接点活或者多来点权限，但是再升职？呃……
+
+### Corpus et disciplina
+
+没错，我们完全无法忽视他最显眼的标签以及灵修行为：自我鞭笞，flagello, aut disciplina（鞭笞，或称“纪律”）。
+
+早在他成为枢机主教之前（见 Howe 的论文 Voluntary Ascetic Flagellation: From Local to Learned Traditions），他就在大力宣传自我鞭笞作为灵修方式，并且被同时代人认为这是一种危险的创新。
+
+是的，苦修狂热就这哥们带起来的，从枢机主教（他自己）到普通修士，从贵族到平信徒，不论性别出身，都可以抽自己一顿，多少鞭子配多少诗篇折算多少补赎。
+
+#### 简介：Vita beati Romualdi
+
+此文档并未包含在英译本的书信集中。此处我使用 Colin Ralph Phipps 1988 年的博士论文，Saint Peter Damian's Vita beati Romualdi: Introduction, Translation and Analysis ，以及 Documenta Catholica Omnia 的拉丁语文件作为原文参考（写这个时我还没去苏黎世大学的 Corpus Corporum 找.epub 版），后者为主要参考，因为前者有快 500 多页，愿意欣赏论文的人请自行阅读和正规引用。
+
+> Damian 的鞭笞见闻与 Fonte Avellana 平信徒群体有关这一认识于 Howe 的论文内有详述。
+
+由于本人拉丁语水平也就是认字，我暂时只能先引用下 Howe 的原文，等到我差不多通过机器翻译和英文翻译看明白 Vita beati Romualdi 再介绍这里说了些什么。
+
+> Perhaps scholars should pay more attention to the non-elite holy men who surrounded Peter Damian. Peter never claimed to have invented voluntary self-flagellation, which he assumed was an ancient tradition. So when did he first encounter it? Peter’s vita, written between l076 and 1084 by his disciple John of Lodi (d. 1106), does not include self-imposed flagellation in the long list of private ascetic practices it attributes to Peter before he became a hermit, and it gives an ambiguous possible reference in a list of the ascetic practices of the young hermit. It offers a clear description of ascetical flagellation only in a final inventory of spiritual practices presented in conjunction with events that occurred after 1060.47 The practice is also not emphasized in Peter Damian’s most important early writing, begun around 1042, his hagiograph- ical life of Romuald (d. c. 1027), a nobleman from Ravenna who came to be honored as the founder of the Camaldolese order. Peter wrote the Vita Romualdi at the urging of Romuald’s well-informed followers at San Vincenzo di Petra Pertusa (near Furlo, in the province of Pesaro in the Marches). He turned this biography into a virtual encyclopedia of early Camaldolese ascetical practices, adding for good measure many parallels from the lives of the desert fathers. If voluntary flagellation had been part of Romuald’s spirituality, Peter ought to have described it. But he only mentions self-imposed flagellation in a somewhat ambiguous passage at the very end, and only in a marginally monastic context: ‘But why do I speak of monks’, asks Peter, ‘when even their humble servants [famuli], those who are the guardians of their flocks, fast, keep silence, and perform acts of discipline in turn among themselves [disciplinas inter se invicem facerent] and for any idle words whatsoever require penance [penitentiam flagitarent]’. While one might speculate that the practices of the swineherds reflect those of their masters, Peter does not state this. Thus the first people reported as ‘doing the discipline’ are not the aristocratic Romuald and his friends but their servants.
+> 
+> 也许学者们应更加注意 Peter Damian 身边的非精英信徒。Peter 从未声称他发明了自愿的自我鞭笞苦修，他认为这是一种古老的传统。所以他在什么时候首次接触到它？他的学生 John of Lodi 于 1076 至 1084 年间为他写的传记中，并未提及自我鞭笞是 Peter 成为隐士之前所进行的众多私人苦修之一，并在他还是年轻隐士时的苦修践列表中模棱两可地提及了它。它仅在对1060年之后发生的事件所作的灵修实践的最终盘点中，才对自我鞭笞进行了清晰的描述。这种实践在 Peter Damian 最重要的早期著作中也没有得到强调，该著作始于1042年左右，是他为拉文纳贵族 Romuald（卒于约1027年）所作的圣徒传记，Romuald 后来被尊为卡马尔多利修会的创始人。……他将这部传记变成了一部早期卡马尔多利苦修实践的百科全书，并补充了许多沙漠教父生平的相似之处。如果自愿鞭笞是 Romuald 灵修的一部分，Peter 本应加以描述。但他只在结尾处一段语焉不详的文字中提到了自我鞭笞，而且语境也与修道院略有关联：“但我为何要谈论僧侣呢？”他问道，“就连他们卑微的仆人[famuli]，那些守护羊群的人，也会斋戒、保持沉默，并且彼此之间轮流进行纪律约束[disciplinas inter se invicem facerent]，任何闲言碎语都需要忏悔[penitentiam flagitarentl]。”虽然人们可能会推测牧猪人的做法反映了他们主人的做法，但 Peter 并没有这样说。因此，最早被记载为“进行纪律约束”的人并非贵族 Romuald 和他的朋友们，而是他们的仆人。
+
+我已启动！里面主要介绍 Romuald 的生平和奇迹，想看的可以自己去我提到的来源看。同时，的确没有提到 Romuald 使用鞭笞苦修。Howe 引用的内容位于位于第 64 章（共 72 章）末尾，标题是 “De districta vita quae tunc in Sytria ducebatur”。在此引用该内容所在句，及其后面对 Damian 的苦修观有所暗示的句子。
+
+> Sed cur ego de monachis loquor, cum et ipsi monachorum famuli, ipsi quoque custodes pecorum jejunarent, silentium tenerent, **disciplinas inter se invicem facerent**, et de quibuslibet verbis poenitentiam flagitarent? O aureum Romualdi saeculum quod, etsi tormenta persecutorum non noverat, spontaneo tamen martyrio non carebat!
+> 
+> 但是不仅修士如此，服侍他们的人和牧人也禁食、守静默、彼此施行苦修，因言语方面的过失要求补赎。Romuald 的时代何其像黄金时代！虽未遭迫害者的酷刑，却并不缺自愿承担的殉道！
+
+另外，Phipps 的论文中提及，在 Fonte Avellana，famuli 也可指修院中的预备平信徒（类似后来的助理修士），所以这些人未必只是单纯的仆人。而 Howe 把 famuli 理解为“看管畜群的仆人”（并称之为 “swineherds”），但原文说的是 “custodes pecorum”（牲畜看守者）。不过这不影响 Howe 主要观点，即不应忽略修道共同体中非精英成员在相关苦修实践史上的作用。
+
+此外，Damian 紧接着赞叹 Romuald 时代虽然没有迫害者施加的酷刑，却不缺少自愿的殉道（spontaneo martyrio）。这一评价表明，他对上述严格苦修生活持明确的肯定态度，也与他后来在 Letter 45 中为自愿鞭笞所作的辩护相呼应。
+
+#### 简介：Vita Sancti Dominici Loricati，或者说 Letter 109
+
+正如 B 部分提过的那样，他应教宗要求撰写苦修者传记。教宗最初没问 Dominic。他问的是 Rodulphus（Gubbio 主教），命令 Damian 写他的生平。Damian 是因为暂时找不到送信的人，认为这是神意，自己决定把 Dominic 加进来的，写得比写 Rodulphus 的部分长多了，连生平带哀悼全写了。全文一共 38 节，1-2 节信件标准礼貌致辞，3-8 节写 Rodulphus，后续都是 Dominic。
+
+> 作者吐槽：Alexander II 约稿，圈内知名太太写完后看不着急交就自由发挥了一大堆私货。至于写这么老些，送信的人到底是一直没来，还是来了之后 Damian 写嗨了让他等等，没有任何判断可能了。
+> 
+> 这就像是介绍一个哲学家，我明明自己研究过斯宾诺莎，很熟悉德勒兹，早就读过康德，天天 rp 胡塞尔/阿伦特/列维纳斯/萨特/梅洛庞蒂和海德格尔对骂……
+> 最后：你们知不知道彼得·达米安？哦你们应该有人在经院哲学部分哲学史介绍里看过他……
+
+[[Letter 109]] 的全文我会附上链接——说实在的各位还是去 Z-Library 或什么地方下载吧，我不确定怎么搞下载链接更好一点。接下来只引用英文译本中涉及自我鞭笞的部分内，需要作为原文佐证的地方，剩余内容会概括处理。
+
+首先，是第六节。Rodulphus 也实践自我鞭笞：
+
+> （前文描述了他的禁食苦修，他吃的是用麸皮制成的面包，且认为自己食用至规定的分量就有放纵的可能）……He always wore an iron band round his waist, but took care to hide it under the folds of his stomach when he divested himself before the brothers. He never confessed his faults at a chapter in which he would not receive the discipline, and then was most happy when ordered to be scourged, not only by one, but by two of his confreres. He often took on himself a penance of one hundred years, which he fulfilled in twenty days by lashing himself and applying other penitential remedies. When unable to finish two, he never failed daily to recite at least one psalter. Since he did this while in his cell, he normally said the whole psalter while taking the discipline, which he applied with both hands.
+
+在这里，“百年补赎在 20 天内通过自我鞭笞和其他补赎方法完成”。
+
+接下来，Damian 才正式转向他真正想大书特书的人：
+
+> I come to that man of God, Dominic, my father and master.
+
+他还大量重引自己此前写过的 Dominic 事迹，包括写给 Teuzo、Blanche 等人的材料。到了第 25 节，他甚至表示，自己可能还在别的作品里写过 Dominic，只是那些作品不在手边，或者暂时想不起来，所以不再重复。
+
+先看第 14 段。Damian 不仅记录 Dominic 平时每天诵念两部《诗篇集》并鞭笞自己、斋期至少三部，还详细说明了补赎的换算方法：
+
+> While three thousand blows regularly count as one year of penance here, chanting ten psalms accounts for a thousand blows, as we have often proven. 
+
+按照这套规则，三千鞭相当于一年补赎；诵念十篇诗篇并同时施鞭，相当于一千鞭。一部完整的《诗篇集》包含一百五十篇，因此对应五年补赎，也就是一万五千鞭。完成二十部，就相当于完成百年补赎。
+
+而 Dominic 显然不满足于普通标准。Damian 在第 15 节记述，他双手同时施鞭，六天就能完成百年补赎，甚至曾在一个大斋期内完成接近千年的补赎。
+
+第 17 段则记录了他向 Damian 报告个人纪录的场景：
+
+> One day after Vespers he came into my cell. “Master,” he said ... “today I did something I do not remember doing until now: I completed eight psalters in the usual way during the course of a day and a night.” 
+
+Damian 随后形容 Dominic 身上布满鞭痕，仿佛在臼中被捣过的大麦。至于他为何能如此迅速地完成诵念，Dominic 自己的解释是：他并非逐字背诵，而是在心中迅速默想诗篇的意义。
+
+除此之外，Damian 还记述了他年老体弱时仍坚持站立祈祷、穿戴铁制苦修衣物、双臂伸展成十字架形状长时间祈祷等事迹。第 27 段尤其提到，他发现鞭子比原先使用的树枝更疼痛，便改用鞭子，并在离开隐修院时随身携带，以免中断苦修。他同时强调，快速诵念诗篇必须以精神上的专注和理解为前提。Howe 的论文中也提及，“He became amous for his extensive practice of ‘the discipline’, using a new type of whip made of leather thongs rather than bundles of twigs.”
+
+> (27) Some years before his death, moreover, he discovered a new kind of torture, changing from green branches to a whip for beating himself, and after once trying it, because it inflicted greater pain he adopted this scourge as his discipline. 
+
+按照 Damian 自己给出的换算规则，一部《诗篇集》对应 15,000鞭。Letter 44 的第 22 段记载了 Dominic 某一天完成八部诗篇的纪录。即使按照他 24 小时都在自我鞭笞算，他也需要做到每秒 1.39 鞭。Letter 66 提及了更为惊人的记录。
+
+> 作者吐槽：
+> 
+> Dominic Loricatus：额定转速 83.33 rpm，工作频率 1.389 Hz，连续运行时间 24 h，累计动作次数 120,000。
+> 
+> 他比 78 转的老式虫胶唱片还快一点，可以粗略等效他的工程效率为一台播放《诗篇集》的留声机。
+
+在此我们或许只能认为，Damian 允许分期付款。
+
+不管 Dominic 是不是真的这么能抽，Damian 认为这些指标足以构成一位模范隐修士的卓越成就，并且在教宗要求他写的传记内重新引述、整理这些指标，且将这些指标量化，就已经说明了，他并不只是将鞭笞视为个人悔罪或克制肉体欲望的手段，更将其纳入了一套可以衡量、比较，并用以展示隐修生活卓越性的灵修实践体系。与写给 Blanche 的 Letter 66 相比，Letter 109 不仅记述了具体人物的苦修纪录，还详细解释了诗篇、鞭数与补赎年限之间的折算关系。
+
+Damian 对 Dominic 的赞美也并未只停留在这些数字上：他同样强调 Dominic 在年老体弱时仍坚持祈祷、对诵念内容保持精神上的专注，以及面对长上时表现出的谦逊。换言之，量化的苦修成就并非他所推崇的全部德性，却构成了他塑造模范隐修士形象时极为醒目的一部分。
+
+这种书写也具有超出个人修行的意义。Damian 不仅亲自赞赏 Dominic，还不断在写给其他人的书信中引用他的事迹，将一位隐修士的生活转化为可以被讲述、传播和效仿的典范。尤其当这些事迹出现在一封呈交教宗的书信中时，原本发生在隐修院内部的苦修实践便进入了更广泛的教会交流之中。借此我们至少可以确定，他希望自己所推崇的隐修生活及其价值获得教会高层的重视与赞赏。
+
+而在这一切之外，也不能忽略 Damian 与 Dominic 本人的关系。作为隐修团体的 prior，Damian 接受 Dominic 的请示，听他报告自己的修行经历，也亲眼见过长期苦修在他身体上留下的痕迹；叙述这些经历时，他也不断流露出对 Dominic 的由衷敬佩。
+
+> 作者吐槽：
+> 
+> 正如 Letter 109 的编者前言，“The author is obviously overawed by the ascetical virtuosity of Dominicus.”甚至于这都给他留面子了。obsessed，enraptured，fascinated，devoted。这些词都可以替换那个 overawed。
+
+#### 例零：Letter 18 与 Letter 50——数量与共同体为什么重要
+
+[[Letter 18]] 和 [[Letter 50]] 是他的 Fonte Avellana 日常事务相关书信。之前的 B 节我们提到过，Vita beati Romualdi 写于约 1042-1043 年，而 Letter 18 与 Letter 50 分别写于约 1045-1050 年，和 1057 年初稿、1065 年第二版。正如前文结合 Howe 的研究所讨论的，Damian 在担任 Fonte Avellana 的 prior 之前，便已接触到自我鞭笞相关苦修形式。
+
+Letter 18 里，他为了激励后来的修士，记录了当时的规章制度，与他主持的设施修缮，包括图书馆藏书扩充。其中，我们可以在第 16 段看到他治下的补赎与弥撒安排：
+
+> This too I should not pass over in silence, that when one of our brothers dies, everyone fasts seven days for him, takes the discipline seven times, each with a thousand blows, performs seven hundred prostrations, chants thirty psalters in the usual manner, and celebrates Mass for him in particular for thirty days running. This regulation of our hermitage is never subject to any suggested variation, and this custom for the dead is always strictly observed as something that cannot be changed. Moreover, if any novice is perhaps prevented by death from completing a penance howsoever enjoined, as soon as this comes to the attention of the brothers, with great fervor they accept the whole penance and equally divide it among themselves, and no matter how large it may be, gladly finish it in a short time, using various methods of mortification. Blessed, indeed, are the riches of charity which they freely offer not only for the living, but which they also expend for the dead. Blessed, I say, are the deeds by which we are here assisted through the bountiful generosity of others when our own efforts are insufficient; and when we are strictly required to discharge a debt without the means of doing so, the balance is paid from the abundance of fraternal charity.
+> 我也不应对这一安排保持沉默：当我们一位弟兄去世时，每人为他守斋七天，行七次纪律鞭打，每次一千下，行七百次跪拜，按常规诵三十篇圣咏集，并连续三十天特别为他举行弥撒。我们隐修院的这规定从不接受任何建议的变动，这为亡者的习俗总是作为不可更改之事严格遵守。此外，若任何初学生或许因死亡而未能完成所规定的任何补赎，一旦弟兄们得知，他们便以极大热忱接受全部补赎，平均分担，无论多大，都乐于在短时间内以各种克苦方法完成。蒙福的确实是爱德的财富，他们不仅为生者自由献出，也为亡者花费。我说，蒙福的是这样的行为：当我们自身努力不足时，我们通过他人丰厚的慷慨在此得到帮助；当我们被严格要求偿还债务却无力偿还时，余额便由兄弟爱德的丰盛来支付。
+
+最后那句“the balance is paid from the abundance of fraternal charity”将补赎的计算语言与弟兄爱德的神学语言完全结合起来了。对一个认为一个人祷告时也能用复数（参见 Letter 28 与 Saraceno 的 2021 年论文）的司铎而言，这完全合乎情理。
+
+> 作者注释：
+> 
+> 根据朋友反馈，有人怀疑鞭刑 100 次就够受的了，鞭打 7000 次人就变成铁饼了。另一朋友用比 Damian 还优秀的修辞反馈“铁饼也是要赎罪的，去给我背诗篇集”。在此给出为什么抽 $1000\times 7$ 次仍然没有和死去的兄弟一起进棺材的解释。
+> 
+> 正如 Letter 109 中 Dominic 提及的那样，以及 Howe 的论文中提及的那样，他们并不是一开始、一直使用我们熟悉的那种鞭子，而是可能使用树枝等物品进行抽打。此外，鞭笞次数本身并不是衡量身体损伤程度的标准化单位。击打力度、部位、动作幅度以及各次苦修之间的间隔，都可能影响实际后果。
+
+Letter 50 基本上就是将 Letter 18 中的内容展开讲解，Letter 18 更像对既有共同体生活的回顾与呈现；Letter 50 则在更系统地说明规章的同时，进一步讨论不同修士的能力差异、例外与裁量。其中平信徒修士、守斋、缄默相关内容很有价值，只不过我会先跳过以防此处过于冗长。Letter 50 几乎重复了 Letter 18 中的补赎与弥撒安排，只是仪式细节叙述上有所不同，且 Damian 在 Letter 50 中直接将其当作代表性范例。
+
+那么，结合它们和刚刚提到的 Letter 109，我们可能会提出疑问：痛苦程度和数量对补赎有何效果？为什么原有的苦修已经够严厉了，Dominic 还会主动更换更疼的工具？
+
+在开始这点前，我需要声明，补赎的效用，在当时已经充分讨论过了。Damian 的时代，宗教实践被赋予的补赎价值究竟意味着什么的探讨，一般都会承认这类实践行为本身的作用。可参考 _Penitents and Their Proxies Penance for Others in Early Medieval Europe_ 中的论述。对这类行为的进一步怀疑取得优势，那要等到赎罪券满天飞，有人给自己抽个半死除了疼什么都没感觉到时，所以我们回到 Damian 遇到的问题这里。在此，我们接受“当时，共同体内分担补赎有效”的前提，只看这里的数量和痛苦为什么重要。
+
+> 作者注释：
+> 
+> 补赎（penance）：罪过之后需要履行的补赎实践，以及它如何被规定、计算、折抵和分担。
+>     
+> 功德（merit）：苦修实践在属灵价值上的意义，尤其是为什么规定数量不必直接决定个人功德。
+>     
+> 德性与操练：修士如何通过持续实践约束欲望、塑造习惯，以及如何根据自身能力调整操练。
+>     
+> 恩典（grace）：上述实践最终指向的神学关系。本文只讨论 Damian 如何在具体的灵修论述中理解苦修与恩典的关系。恩典神学的具体含义、内容对我而言超纲了，请自己去看神学家们吵架。注意这不是把鞭笞数量直接换算成恩典数量。
+
+##### 其一 ，数量为什么重要？ 
+
+它如何使补赎成为能够计算、安排、累积与共同承担的实践？
+
+首先，我将引用 Ranft 于 _The theology of Peter Damian let your life always serve as a witness_ 的观点：达米安把修道生活看作一种“劳动”和“技艺”（ars）。而鞭笞是这套技艺中最具标志性的“工具”。
+
+> (31) For while some easily spend the whole week in fasting, others find it difficult to fast for two days, but in so doing each gains equal merit.
+> 有些人轻易便能守斋一周，有些人守斋两天就十分困难，但只要各尽所能，便能获得同等功德。
+
+他并不要求数量越多越好，他要求各尽所能。
+
+但量化是为了什么？如果功德并不严格随数量增长，为什么数量仍然在制度上如此重要？回到本段开头问题，为什么要使用数量安排、计算这类补赎？
+
+第一，数量使不同形式的补赎能够换算。 Letter 18 第 9 段给出的比率是：一年补赎，约三千下鞭笞，或二十五部圣咏集，或二十五台弥撒。不同形式的补赎有了共同的量级，才能安排和折抵。而这里的数字是补赎安排的计量工具，而非身体损伤程度的统一单位。
+
+第二，数量使补赎能够由共同体承担。 Letter 18 第 16 段与 Letter 50 的 28–29 段中提及，未完成的补赎可以被其他弟兄平均分担。第 16 段在叙述“余额由兄弟爱德的丰盛来支付”之前，先于第 15 段写了弟兄之间“每个人都认为自己生来是为服事所有人”，一人生病，所有人立刻前来探问，提供分担的伦理基础，而没有确定的义务总量，就很难谈得上这种分配和履行。Letter 18 第 4 段说当时这里约有二十位修士，加上平信徒和仆人约三十五人，这样的规模也使平均分担在操作上可行。
+
+第三，数量使修道生活获得可以传承的标准。 Letter 18 的目的不仅是赞美现有修士，也在于防止后来者降低标准。数量让未来的修士知道前人具体做了什么。
+
+第四，数量使个人进步有了参照，但不决定个人功德。 如 Letter 50 第 31 段使用画家临摹范本的比喻说明修士应根据上帝赋予自己的能力，判断应该减少还是增加操练；第 32 段进一步说，不能用同一条严格规则限制强者，也不能让弱者失去进步的可能；第 41 段则把病弱者的照顾交给院长，并说 Romuald 自己也曾隔周调整弟兄们的斋戒强度。
+
+综上，数量在制度中规定的是可以履行的补赎义务，在个人灵修中提供的则是衡量进步的参照。两者并不要求相同数量的苦修必然具有相同的属灵价值。
+
+##### 其二 ，痛苦为什么重要？ 
+
+如果完成规定数量已经足够，为什么苦修者还要主动增加痛苦？这种增加究竟被理解为更大的补赎价值、更卓越的德行，还是更彻底的自我克己？
+
+第一，痛苦的形式可以压缩时间，增加痛苦，最基础的理由之一就是这意味着更多的补赎价值。Letter 18 第 9 段说，当忏悔者因担心不久于人世而被要求以鞭笞、跪拜这类方式补赎时，他能在很短时间内完成一份长期补赎，条件是若他活了下来，不得放弃斋戒。第 16 段与 Letter 50 第 29 段同样强调，弟兄们接手未完成的补赎后，“在短时间内”以各种克苦方式完成。时间不够，就只能提高单位时间内的操练量。鞭笞、跪拜、诵经可以被压缩，而守斋很难，一周的斋戒就要占一周的日子。这就解释了为什么这些形式承担了“还债”的功能，更多的痛苦可以抵消更长的现实时间，提高补赎效率。
+
+第二，同样的内容，承受方式不同，效果也就不同。Letter 50 第 35 段里，一位老修士独自用餐时，一次一粒地把面包屑放进口里，让进食本身成为折磨，Damian 说他的食物“不是使他放松，反而成为折磨”。面包的总量没有变，但是这位修士通过改变进食方式，提高了一般的定量进食与斋戒的效果。
+
+第三，习惯会磨平强度，加码是在对抗习惯，这是增加痛苦的克己性质。如 Letter 50 第 56 段：赤脚、粗毛衣、硬床这些东西，初学时令人畏惧，久而久之觉得容易忍受，因为频繁的使用使严酷变得柔和。第 33 段则展示了这种适应的结果：有人觉得最粗的苦衣已经算柔软，改穿铁制胸甲；睡草席嫌软，换成纸莎草叶，最后连稻草都不碰。第 67 段还给出了反向的用法：暂时少食、忍渴，等回到常规时，常规会显得像一种宽容的舒缓。也就是说，痛苦在这里起的是调节基准线的作用。身体的“标尺”会随习惯移动，要让它保持敏锐，就得有人主动把标尺往上推。
+
+第四，至少在理想状态下，加码是自愿的卓越。第 33–37 段把铁胸甲、铁链、每周只吃两顿、Dominic 一边诵九部圣咏集一边几乎不停地用双手鞭打自己，都放在“更完美的兄弟”之下，语气也很克制：第 22 段说自己害怕写这些，免得显得是在夸耀；第 37 段干脆承认读者可能不信；第 38 段说这些该留给强壮、更完美的人。第 48 段不愿立法，第 84 段则用奶与固体食物的比喻收束：弱者喝奶，强者也不被拦着去吃更重的食物。Dominic 对 Damian 说自己常常做不完第十部（第 37 段），说明他衡量自己的是个人极限，不是规定的数字。之前我们谈论过数量如何划定底线，而这里我们看到疼痛的增加属于底线之上的个人空间。
+
+第五，痛苦有边界。它是工具，防止享受、克制欲望和改变自身状态才是目的。 Damian 自己在第 65 段将苦修的目的说得更清楚：真正想要的是眼泪与默观，当爱取代恐惧，一切严厉都会变为甘甜。正面例子是第 31–32 段要求各人诚实衡量自己，不自欺，也不假装软弱；第 34 段中，一位弟兄腰间常年系着铁链，目的是让自己不超过规定的少量饮食。痛苦在这里是自我约束的工具，让他用身体强制执行自己立下的誓愿。反面例子参考第 55 段，这里批评一种人，借口“以后会多斋戒”而放纵饮食，结果祈祷与诵经都做不好。
+
+主动增加痛苦，就像主动更换更好的工具、增加作业时间，好把“自己”打造得更适合接受恩典。
+
+##### 下一步
+
+由此可见，在 Damian 的理解中，苦修的价值并不能完全通过数量加以说明。相同数量的祈祷或补赎行为，可以因身体承受的负担、修士自身的能力以及实践时的精神状态而具有不同的意义。对于追求更严格生活的修士而言，增加痛苦不仅意味着承担更艰难的操练，也可能使身体成为集中注意力、克服自身欲望与效法基督受难的工具。
+
+然而，承认身体痛苦具有这样的宗教价值，仍然不能直接回答另一个问题：修士究竟可以通过什么方式使自己承受痛苦？如果古代圣徒是在迫害者手中受鞭笞，那么没有迫害者的当代修士，能否主动以自己的双手重现这一行为？
+
+这正是 Damian 在 Letter 44、45 中需要面对的争论。此前我们讨论的是补赎如何被计算、承担，以及身体为什么值得接受更严厉的操练；接下来则要讨论，这种操练的具体形式如何获得神学上的正当性。
+
+#### 例一：Letter 44 与 Letter 45
+
+[[Letter 44]] 和 [[Letter 45]] 可以算是 Dominic 的首秀，以及 Damian 第一次将它作为一个值得被关注的灵修方式展示在更广泛的群体面前，并因它被那个群体传播与质疑，而不得不公开为这种实践辩护。例如，别人质疑“古代圣徒是被别人鞭打，又不是自己抽自己”，他就反过来论证“既然基督徒可以自愿禁食、背负十字架，为什么不能自愿接受鞭笞？”这类“事情就是你们想的那样，但觉得它有问题的你们才有问题”的思路在后续的 Letter 161 中为裸体受鞭辩护也有体现。
+
+Letter 45 可以简单理解为：
+
+对方：你们这是前所未有的创新！
+Damian：你们竟然把效法基督和圣徒的行为称为创新？
+对方：圣徒又没有自己抽自己！
+Damian：照你这么说，难道我们必须等迫害者来钉十字架，才能真正背负十字架？
+对方：……
+Damian：况且你们允许以施舍折抵补赎年限，那没有钱的修士为什么不能以身体的苦修代替？
+
+在此引用 Letter 45 第 5 段与第 8 段。
+
+> But perhaps someone will object, that because it is known from the evidence of Scripture that the saints were flogged by others and did not flog themselves, we should not in violation of the norm that applied to them chastise ourselves with our own hands. But what now comes to mind, makes it easy to reply to their objection. Since the Lord commanded us to take up the cross by following him, we thus carry the cross in vain by our voluntary mortification unless, in keeping with his example, we are nailed to the wood of the cross by the persecutors. But since the time of persecution has passed, and there is no one to be found who would crucify us, it would now be useless to command us to carry the cross, since punishment is no longer inflicted on the combatant by the torturers. But since it is foolish and absurd to believe that the Lord would look down on this kind of self-imposed penance, which he himself deigned to undergo for our salvation, why should we marvel if a man in punishment for his sins becomes his own torturer, and to avoid judgment, appoints himself to be his own judge? As the Apostle says, “If we had judged ourselves, we should not thus fall under judgment.”
+> 
+> But let this critic of the brothers, this master of unknown doctrine tell me—him, I mean, who so arrogantly wields his intemperate rod over pupils that as yet he has been unable to attract any students—let him tell me, I say, when priests of the Church impose a penance on certain sinners that lasts for years, do they not at times fix a certain amount of money as a substitute for these years, so that they who are horrified at long fasts may redeem their sins by almsgiving? But since this commutation is not to be found in the ancient canons of the Fathers, should it be judged absurd and frivolous? But if this should be allowed for laymen so that they might redeem their sins by almsgiving, lest in the case of sudden death, which God forbid, they depart this life without receiving absolution for their sins, what should be prescribed for the monk who has perhaps received a long penance required by his sins, and who long ago renounced the money by which he might commute it? If because of human frailty it is decreed that a sin may be redeemed by giving a sum of money, is it proper to belittle punishing the flesh in atonement for sins of the flesh? Why should we be surprised if the flesh, when pampered, casts us into exile, but if, on the other hand, it is ill used it should lead us back to our fatherland? And likewise is it not proper that the flesh, by which we have sinned through longlasting harmful indulgence, should now be corrected by salutary chastisement? And is it not also proper that, in a manner of speaking, the same beast, now tamed, should bring the battered man to the physician for healing, whom it had at first senselessly and furiously kicked about? In addition, is it unusual if the land which had formerly brought forth thorns and thistles, when now improved after the thicket had rotted away, should afterwards fortunately become fertile? Therefore, the people who can only speak ill of others should be silenced, and those who are unable to correct their own faults, should at least stop abusing the virtue of others with their biting words. What they are unable to achieve in association with spiritual men, they should fear to deride and disparage in the presence of laymen.
+
+这涉及了补赎的宗教意义是怎么影响其形式演化，以及究竟是谁有权认定某种新的苦修形式：是对既有传统的忠实实践，还是对传统的不当创新？考虑到这里只是简介，我就只放我的结论了：对 Damian 而言，只要符合灵修原则，且具有德性培养与补赎的意义，就不能只因其形式缺乏完全同构的先例而否定某一苦修行为。
+
+Damian 通过类比与身体操练的灵修意义，将主动鞭笞解释为符合既有传统原则、能够与其他补赎方式相互参照的实践。与依赖财产的施舍不同，身体苦修不以拥有金钱为前提，因此尤其能够为已经放弃个人财产的修士提供补赎途径。在此，他确实把既有补赎原则的适用范围进一步扩展到主动施加的身体痛苦，并为这一实践提供了明确的神学辩护，让苦修以压制欲望并提升自己的适用范围和可用方式更广泛。至于其后续影响，在此不过多赘述。
+
+> 作者吐槽：
+> 
+> 看到那个“历史上的 Flagellant 到底多能抽”了吗？就在那里。
+
+#### 例二：Letter 66
+
+这就是我开头那段介绍中最后一句的重要依据。先回顾一下我当初写的是什么：
+
+> 是的，苦修狂热就这哥们带起来的，从枢机主教（他自己）到普通修士，从贵族到平信徒，不论性别出身，都可以抽自己一顿，多少鞭子配多少诗篇折算多少补赎。
+
+Letter 66 是他写给成为修女的前女伯爵 Blanche 的。他先是写了很多有关神圣婚姻与不被世俗诱惑的内容，最后在倒数第二节推荐起自我鞭笞，倒数第一节鼓励她也效仿这类事迹后回归整体收束全文。在此我将引用倒数第二节原文的英译版和个人中文翻译：
+
+> That Dominic Recited Twelve Psalters While Taking the Discipline, and Began a Thirteenth
+> 论 Dominic 在鞭笞自己的同时背诵了十二部《诗篇集》并开始了第十三部
+> 
+> (25)I wish it were now possible for you to observe my lord Dominic who would more readily teach and direct you by the example of his outstanding life than anything I might achieve by my unskilled words. For almost fifteen years now, this man wore an iron corselet next to his flesh, girded himself with two iron bands, and used two others that restricted his shoulders. Since, however, I have already related many things about him in my other works, I will now recount what he told me scarcely six days ago when he came to see me. On that occasion he said, "I happened to know that you wrote about me reciting nine psalters in one day while taking the discipline. Indeed, when I heard this I began to tremble and worry, and, as my conscience rebuked me, began to weep. What a fool I am," I said. "Without my knowledge, look what was written about me, and I still don't know whether I can bring this off. So, let me try again and find out for certain whether I can do it. Therefore, on Wednesday I took off my clothes, and with a switch in both hands, stayed up the whole night and did not stop chanting and whipping myself until on the following day, after finishing twelve psalters in this fashion, I slowly dragged myself through the thirteenth up to the psalm, 'Blessed are they.'" Let me further enlighten you with an example of what often seemed to me a harsh and difficult thing, but which he considered child's play and hardly worth noticing. A certain brother was terrified at beating himself and considered it a fearful burden to scourge himself and bear up under it. But at length he accepted the advice that the lord Dominic frequently gave him and kept on disciplining himself while chanting the entire psalter, to which he added fifty more psalms.
+> 我希望现在您能观察到我的主多米尼克，他通过他杰出生活的榜样，能比我拙劣的话语可能做到的更好地教导和指引您。将近十五年的时间中，他贴身穿着铁质护胸甲，用两条铁带束紧自己，另有两条绑住肩膀。然而，既然我在其他作品中已经讲述了许多关于他的事，我现在将讲述大约六天前他来看我时告诉我的一件事。当时他说：“我碰巧知道你写道，我在一天之内一边鞭笞自己，一边背诵了九部《诗篇集》。确实，我听到这话时，开始战栗和担忧，我的良心责备我，我开始哭泣。我说，‘我是多么愚蠢啊。 ’‘我不知道，看呐，关于我的事被写了下来，而我仍然不知道我是否能完成这件事。所以，让我再试一次，确定我是否能做到。因此，在星期三，我脱掉衣服，双手各持一根枝条，整夜不睡，持续吟唱和鞭打自己，直到第二天，我用这种方式完成了十二部《诗篇集》后，才慢慢地拖着身子开始了第十三部，直到诗篇'行为完全、遵行耶和华律法的’。”请允许我进一步用一个例子来启发您，这件事在我看来常常是严酷和困难的，但他却视其为儿戏，几乎不值得注意。有一个弟兄对鞭打自己感到恐惧，认为鞭打自己并承受下来是一个可怕的负担。但最终他接受了主多米尼克经常给他的建议，并在吟唱整部《诗篇集》的同时坚持鞭打自己，另外还加了五十篇诗篇。
+> 
+> (26)This happened during the night preceding a Sunday, the feast of St. Michael. The next morning, this brother went to the old man and, afraid that he might be thought guilty of indiscretion, related exactly what he had done. Dominic replied in these words: "Brother, don't be bashful and lose courage over your present weakness. God is surely strong enough to lift you up from lowly things to those that are higher and to toughen the milkfed days of your childhood till you grow to manly strength." And he added, "I also began gradually, and even though weak and frail, I slowly reached the goal toward which God's goodness led me." And so it happened that he did not accuse him of excessive fervor, as the brother had feared, but rekindled his spirit, keeping him from despair for having done so little. Thus, by the example of this old man in taking the discipline, **the custom spread in our area**, so that not only men **but even noble women eagerly took up this form of purgatory**.  For the widow of Tethbaldus, a woman of noble birth and high dignity, once told me that by taking the discipline according to a predetermined norm, she had satisfied 100 years of penance.
+> 这事发生在一个主日前的夜晚，也就是圣米迦勒节。第二天早上，这个弟兄去见那老人，担心他可能会被认为行为不检点，便一五一十地讲述了他所做的事。多米尼克用这些话回答：“弟兄，不要为你目前的软弱而害羞和失去勇气。神当然有足够的力量将你从卑贱之事提升到更高之处，并将你孩童时代喝奶的日子锻炼成男子汉的力量。”他又补充说：“我也是逐渐开始的，尽管软弱脆弱，我还是慢慢达到了神的美善引领我前去的目标。”事情就这样发生了，他没有像弟兄所担心的那样指责他过分热心，反而重新点燃了他的灵，使他因做了这么少而不会绝望。因此，通过这位老人鞭打自己的榜样，**这种习惯在我们地区传播开来**，以至于不仅男人，**甚至高贵的妇女也热切地接受了这种炼净的方式**。因为特巴尔杜斯的遗孀，一位出身高贵、地位崇高的女士，曾经告诉我，通过按照预定规则鞭打自己，她满足了一百年的补赎。
+
+这里，他是在劝说一位修女坚持自己的生活方式，并接受这类苦修，所以他没有着重论证苦修的合规性（根据仅仅“自我鞭笞”这项活动的流行程度似乎也不太需要了），而是通过 Dominic 的例子，直接引用他的话来加强吸引力，同时安排了一位“担心自己软弱的兄弟”和“特巴尔杜斯的遗孀”在 Dominic 的教导和示例下，接受这一苦修的成果作为 Blanche 的“rp 对象”——分别在心理状态上和身份上和她目前状态相似的两位，一个展示如何开始，另一个展示可以做到什么程度。
+
+在最后一段，Damian 并未直接要求 Blanche 达到 Dominic 或者之前提到任何一人的苦修程度，他给出的建议是：如果能够效法，就通过效法获得永恒的报偿；如果无法效法，就让这些榜样使自己保持谦卑。
+
+Letter 45 中，达米安曾声明自己先前有关自我鞭笞的论述原本是面向修士的，并没有打算传播给平信徒或普通神职人员。但是这里，“这种习惯在我们地区传播开来”“甚至高贵的妇女也热切地接受了这种炼净的方式”。在这两封信之间，发生了什么？
+
+Letter 45 写于 1055 年左右，Letter 66 写于 1059 年末至 1060 年 10 月之间。而之间，先前提及的 Letter 50 已经提供了接受苦修及其榜样的背景，其中第 76 段认为“使用近期的榜样比古代的榜样更有效”在这里充分体现；Letter 53 这份残篇向 prior of the hermitage of Suavicinum 提及 Dominic 的具体苦修行为；Letter 54 讨论接受纠正、服从修院纪律，以及无过错时受责备，其中体现了 Damian 的纪律观偏向是接受指控与纠正是修院生活的前提（题外话，Letter 54 的收件人也是 Letter 117 的收件人，Damian 的秘书 Ariprandus，Letter 117 里 Damian 用华丽的修辞和高超的自由七艺劝他别回去学这些东西）；在 Letter 56（1058 年夏）中 Damian 直接回应了另一位修士 Petrus Cerebrosus 对自我鞭笞的批评。
+
+Letter 56 中他将论证姿态从 45 里的防御式转换为进攻式（“如果允许施加五十下鞭打，为什么不可以六十下？……为什么不能继续到一千下乃至更多？自由接受一件事的极小部分却谴责更大的量，实在是荒谬的。”而 45 只是翻转了创新与否的问题），第一次提出明确的量化（Letter 45 里只有模糊的“以身体苦修代替金钱补赎”，但没有给出换算率，而这里他声称“当时的习惯是将一年的补赎折算为一千下惩戒鞭打”），将 45 里提过的“和平时期的替代殉道”作为核心论点并扩大了适用范围（“如果我用双手惩罚自己，或刽子手施加鞭打，只要我自愿呈上自己受考验，我就是这苦难的真正作者。”这里“任何人”，而不仅修士，都符合这一描述）。
+
+1055—1060年间，我们能够看到达米安有关自愿鞭笞的论述对象和修辞用途发生了变化，他逐渐将其从需要为之辩护且应当在修士圈内流行的苦修，转变为了的确与基督受难有关，只是不同人应当视自身情况自愿、尽力接受的苦修；至于这种变化与实践在修道院之外的实际传播之间有什么因果关系，仍有待独立史料支持，我还没找到那些资料，Howe 好像也没有（有我就直接引用了）。Howe 倾向于 Damian 是在记录正在扩散的实践并为之辩护，我认为 Damian 的书信一定程度上为它的扩散加码了（比如 Dominic 同时作为典范，以及被他的文本卷起来的人，详见 Letter 66 中他知道 Damian 写他后主动验证自己能否做到和进一步苦修；那些被 Dominic 激励的人），但是它是如何扩散的，Damian 为什么改变了对苦修应当流行的范围的认识，我们仍然不知道。
+
+有没有人在 1050 年代之前就为“鞭笞补赎”捐款或留下记录？有没有人在达米安之前或同时提到过意大利北部的自我鞭笞？特巴尔杜斯的遗孀有没有其他记录，她是从哪里学到这套换算规则，什么时候开始的？我不知道。
+
+> 作者吐槽：
+> 
+> Blum 还是太温和了。接下来是我的吐槽：坏猫！为什么一项具体的为什么这是“传统”的证据都不写！
+
+#### 例三：Letter 161
+
+典例之一，也就是向上——考虑到卡西诺山的地位，我如此形容，但其实不太准确——包装推广，请看他的 Letter 161。各位可以看看这家伙拿他的文笔论证了什么。一大堆又是圣经又是无花果树的，“我认为我们应该每周五公开裸体互抽”“不乐意嫌丢脸的，亚当和夏娃就是被蛇骗了后才嫌丢脸的，你们要重复这个问题继续被骗吗”——Letter 161 的原话当然没这么直白，但他这封信就是为了让卡西诺山恢复每周五裸体互抽的传统才写的。
+
+以及，Migne 版 *Patrologia Latina* 中，本书信题为 *De Laude Flagellolum Et, Ut Loquuntur, Disciplinae*，其中 Flagellolum，是Flagello 的指小形式，字面意思是小鞭子，但按照语法正常应当是 flagellolorum 的属格形式。现代文献也有 flagellorum 这种正常的复数属格写法，标题可以翻译为《论鞭笞与所谓的纪律之赞》。但如果我们保留这个语法有问题的指小形式，标题的语气就会变成《论小鞭鞭之赞，以及他们所说的“纪律”》。我没说我赞同后者，但是我会给它放出来证明为什么我支持前者。
+
+##### 一些写作手法的题外话
+
+其中，我们可以注意到，有一个斯蒂芬枢机。同时，我们可以注意到，开头引用的 Letter 156 写于 1069 年 1 月，斯蒂芬枢机死于 1069年2月10日（恰好是 the feast of St. Scholastica），而 Letter 161 显然写于 1069年2月之后，英译本推测是在 1069 年 6 月写作。那么这个被 Damian 嘲讽为因停止并嘲讽自我鞭笞这项补赎方式的傲慢而死的 Cardinal Stephen of St. Chrysogonus 和 Letter 156 里他的收件人之一 Cardinal Stehphen 有什么关系呢？答案是我不知道。不过这不影响我们借此看看其他人对自我鞭笞的态度，也不影响 Damian 把他的病好转了又死，以及他和他兄弟同一天的死归因于虽然有美德但太傲慢以至于触怒上帝，直接在——不是哥们，St. Scholastica 多温和一人，她能干出来这种事吗？她说你达米安太记仇了还差不多！
+
+> 注释：
+> 
+> 在格里高利一世《对话录》第二卷第三十三章里，斯科拉斯蒂卡想让哥哥本笃多陪自己谈一晚上。结果本笃坚持修院规矩，非要回去。
+> 于是斯科拉斯蒂卡祈祷，外面突然下起暴雨，本笃根本走不了。
+> 本笃：愿全能的上帝宽恕你！妹妹，你这是干什么？
+> 斯科拉斯蒂卡：我求你，你不听；我求上帝，他听了。
+> 格里高利最后还特意解释：她因为爱得更多，所以能够得着更多。
+> 
+> 现在我们再看 Damian。
+> 
+>  Damian ：斯蒂芬枢机嘲笑裸体鞭笞，触怒了上帝，结果偏偏在圣斯科拉斯蒂卡的庆日突然死亡。这难道不是神意的安排吗？
+> 
+> 他可能把她当性转版宙斯了。
+> 
+> 不是，格里高利给我们留下的是一个“为了多陪哥哥一晚上，向上帝求来一场暴雨”的圣女故事。到了 Damian 这里，怎么变成“有人反对修士脱衣服抽自己，上帝选在她的节日处理此人，疑似她向上帝求来天打雷劈”了？哦不，他好像真不一定在乎此事在修辞上虽然好用但总有哪里不对。
+
+此处是有关为什么他不一定在乎的补充信息：
+	他给都灵和苏萨的阿德莱德的信，Letter 114 里，他劝阿德莱德对犯错者审慎裁断，不要被怒火推动，也不要因为过度仁慈而放弃惩戒。他还提出一个相当合理的认识论比喻：水静止时可以看清水中的东西，水受到搅动时便会遮蔽视线；人的心灵在激动时，同样难以作出正确判断。然后他拿大卫王举例。大卫生前没有处置曾经冒犯自己的约押和示每，却在临终时吩咐所罗门处理他们。达米安对此的解释是：大卫在生前仍可能受到愤怒影响，所以暂不报复；等到临终、怒气已经平息时，才安排惩罚。这样一来，惩罚就不是出于私人愤恨，而是出于公正的判断。他的原文甚至有一句：Unde David non pascebatur vindicta, quia nec cruciabatur iniuria.（大卫并非以复仇为乐，因为他已不再为所受的伤害所折磨。）
+	不是哥们，你选的例子可是“我活着的时候不杀你，临死前交代儿子把你处理了”啊！你确实可以把它解释为怒气消退后执行公正，但它同样极其容易被理解为延迟执行的私人报复。达米安却偏偏选了这个故事来论证审慎、公正与节制。
+	同时，这封信的主题是请求阿德莱德整治当地神职人员结婚；他本人给阿德莱德写过君主镜鉴，里面顺应和强化了她比较温和的执政特点。这封信里他直接把《圣经》里的战斗女士都搬出来给她搞 rp。
+	至于 Letter 114 具体讲了什么，请看后续篇目，这里不展开说了。
+	我估计这和他把斯蒂芬死在圣斯科拉斯蒂卡的节日那天拿出来说还不感觉有任何不对一脉相承。在他看来，当惩戒确实符合公正、旨在纠正过错或挽救灵魂时，严厉不仅可以与仁慈相容，还可能是仁慈所要求的。所以，一个著名事迹是求雨好多陪哥哥一会儿的圣女，在她的节日请求带走一个傲慢的枢机，也很正常，且彰显圣德。虽然 Damian 并未提及她代祷了，但是，他在文章中将中世纪常见的“没有巧合”解释为了“此人曾对这位童贞女的修院口出狂言，所以让他恰好在她的节日受审”。
+
+而对 Stephan 本人，他也表现出了比年轻时，Letter 31 阶段更充足的牧灵关怀。他给出的神学解释是：quatenus ob hanc culpam animam illius laesio nulla contingeret。他认为猝死是慈悲，让灵魂免受伤害。Stephan 在今世受罚，以免炼狱中的永罚。至少，他对横死的解释还是很温和的：因傲慢口出狂言而死，但是猝死算是提前处罚。
+
+##### 正题
+
+让我们回到正题，自我鞭笞。虽然可能有人会希望我顺势去讲阿德莱德，玛蒂尔达甚至亨利四世这种正常人（或者只是想看他们在卡诺莎之前是怎么被折腾的，那请回到 B 段）。首先，作为枢机，Letter 161 里的斯蒂芬强烈反对这种做法，认为它有失体统。在他的影响下，卡西诺山的修士们甚至放弃了每周五的鞭笞习惯。此事在 Letter 161 中已有记载。显然，就像 Damian 当上枢机主教前那样，他的自我鞭笞热情并不总是能被同时代人接受。
+
+其次，可以注意到，161 的写作时间是在 1069 年，已经在他辞职后了——从他 1042 年写 Vita Romualdi，提及当地平信徒先开始自我鞭笞，并赞美了他们和 Romuald 的这一修行方式，到 1055-1057 年间的大力宣传，再到枢机主教时期……而直到这时他去卡西诺山游说他们恢复自我鞭笞。达米安长期坚持自我鞭笞，而这种坚持一直存在争议。对 Damian 而言，隐修生活根本不是政治工作之外的休闲活动，而是他理解基督徒生活、悔罪、救赎与教会改革的核心场所。即使改革派需要这么一位道德标杆，但是他的道德资本仍然会被同僚认为有些骇人。
+
+接下来，是他的论证思路：
+
+1. 魔鬼像哈耳皮亚，抢不走整个祭品就抢走一部分。羞耻就是这“一部分”。
+2. 亚当偷吃后才觉得裸体可耻，羞耻等于蛇的话。
+3. 先问“是谁让你们怕十字架的耻辱？”，说那是“听了某个人的坏劝告”（verba cujuspiam male suadentis）；然后才让修士们回答，点出是 Stephen。
+4. Stephen 的死，以及“神意让他因傲慢暴死是慈悲”的解释。
+5. 铁匠断臂的故事，第二个“当世受罚”的例证。
+6. 用末日审判威吓，认为嘲笑和羞于裸体的人也在嘲笑耶稣，当末日审判来临时，他们又该如何。
+7. 圣经裸体榜样目录。
+8. 将肉身贬为蛆虫，然后是“O quam jucundum”和三重角色，为这项实践作最后的上价值，认为这项活动是非常合适的祭品。我必须把多么愉悦和三重角色的原文放上来。
+   O quam jucundum! O quam insigne spectaculum! cum supernus Judex de coelo prospectat, et homo semetipsum in inferioribus pro suis delictis mittat! Ubi reus ipse, in pectoris sui tribunalibus praesidens, trifarium tenet officium; in corde se constituit judicem, reum in corpore, manibus se gaudet exhibere tortorem; ac si Deo sanctus poenitens dicat: Non opus est, Domine, ut officio tuo me punire praecipias; non expedit ut ipse me justi examinis ultione percellas; ipse mihi manus injicio, ipse de me vindictam capio, vicemque meis peccatis reddo. 
+   哦，多么令人愉悦！哦，多么奇特的景象！当天上的审判官从天上俯视，而人却为了自己的罪孽而把自己送下人间！罪人自己，在自己内心的法庭上主持审判，身兼三职：在心中，他自封为审判官；在肉体上，他自称是罪人；他乐于用双手展现自己是施刑者；仿佛一位虔诚的忏悔者对上帝说：主啊，您无需命令我以您的职权来惩罚我；您无需亲自以公正的审判来鞭笞我；我亲自惩罚自己，我亲自惩罚自己，我亲自赎清我的罪孽。
+
+##### 从羞耻到纪律：达米安如何改变反对自我鞭笞的论证负担
+
+接下来，是他如何处理以下几个反对自我鞭笞的重要因素：
+
+- Stephan 枢机的权威
+- 显然普遍存在的裸体羞耻
+- 恢复传统的正当性与不恢复传统的维持现状倾向
+
+###### 也巧，Stephanus 死了
+
+有人终于站出来说“你们这样不合适”，然后也巧，他死了。
+
+“听说你们取消了每周五的传统体罚活动。此前推动取消的那位教授和他兄弟，已经不幸去世了。尤其值得注意的是，他们死在本校创始人妹妹的纪念日。希望诸位认真思考其中的意义。”
+
+在先前的论述过程里，我们可以看到，Stephen 在信里出场之前，Damian 已经把"羞耻"定了性。定性后，先装作不知情地询问是谁让你们停止的，引用《加拉太书》3:3，cum spiritu coeperitis, nunc carne consummemini（你们既然以圣灵开始，如今还要靠肉体成全吗？）回答。这一句顺手解决了第三个反对因素：传统的惯性。他把恢复说成你们本来就这么做，现在是退步，把维持现状说成被人带坏了。然后才轮到修士们老老实实回答：“是已故的 Stephen 枢机嘲笑了这个做法，把它当不体面的东西吐了口唾沫，并且下令禁止。这是 Damian 一贯的作风，rp，而且不明着写角色卡：让修士们自己坐进“被蒙蔽引诱者”的角色，让修士们自己把 Stephen 放到那个“引诱者”的位置（因为 Damian 将 Stephan 对鞭笞的态度定性如此，所以修士们回答是谁阻止的，对 Damian 的论述而言，就是在把 Stephan 放在那个位置）。
+
+Damian 对 Stephan 的评价是 morbo elationis laborasse, prout fervor juventutis impelleret, dicebatur（我相信他凭基督的恩典开出过一些德行，但据说他有'傲慢之病'，视青年的热血而定）。注意这里是“据说”。解释他的猝死是神意时他用的全是缓和词，如 forte（或许）、forsitan（也许）。对一个至少在我读到内容里，几乎不用这类缓和词论述观点的人而言，这相当少见。结合他本人其他信里的缓和词用法，可以将他仅有的缓和词使用分为两类：一类是他真的不确定是什么样（这类更是相当少见，少见到 Letter 92/93 这类收信者提出了 Damian 明确表示“我不知道”的问题，他都没有用缓和词），一类是他必须在修辞姿态上如此（并不一定是为了讽刺，也可能是本信中这类他不能自行定夺揣测，不可僭越的原因）。
+
+Stephan 说完那话不久 accepit antidotum（接受了解药），到了节日那天看着已经好了，起来做夜祷，当天就猝死；随后他的弟弟（germanus ejus junior）也死了，两人第二天一起下葬。这在 Damian 的时代看来，“没有巧合”，问题只在 Damian 的神学解释能否被接受。
+
+此前医学意义上的好转，和生理实际上的猝死形成~~喜剧~~戏剧对比，随后又被宗教意义上的医治，通过今世惩罚避免灵魂受到更大的伤害，所取代。而弟弟也死，加强了 Stephan “傲慢”的后果之大。整体上，Damian 对此现象的象征解读，相当有感染力。而这也和之前题外话中提过的严厉是仁慈所要求、需求的一脉相承，是 Damian 本人擅长处理的论题。最后，裸体受鞭一事被暂停，且不被恢复，很大原因就是真的有牧者表示别干了，那么，Damian 这么解释后——反正死人一般而言也不会再跳出来大喊“我有异议”——原来是那个牧者搞错了，还太过傲慢啊。
+
+那么，暂停且不恢复该实践本身，除了和 Damian 那通可能还没太被接受的裸体论冲突，还很有可能本身就和那位 Stephan 的傲慢一致。那么，恢复它，就显得更像合理的、需要的补赎了。
+
+> 作者注释：
+> 
+> Damian 自己死后也没被记载去 Hildebrand 或 Agnes 梦里喊过什么“我有异议”，他只是一边问“你怎么不来看我”一边揍自己学生。
+
+###### 克服自身问题正是苦修的重要目的
+
+Damian 的论证核心是举证责任反转，把羞耻从反对理由变成症状。反对者的论证是“我觉得丢脸，所以不该做”。Damian 的回应是“你觉得丢脸，所以才要做”。
+
+他用了四层材料将这一反对理由翻转。
+
+第一，羞耻本身的来历。亚当夏娃在蛇说话之前赤身而不羞，蛇说话之后才知道自己赤身。所以怕被看到，等于在重演躲避上帝目光的那一幕。他就在那之后直说，谁为了与基督同受苦而羞于脱衣，谁就是听了蛇的话。
+
+第二，基督的受难。基督被剥衣、被打、被吐、五处受伤，为的是我们能从经由五官侵入的罪里得医治；而你涂了油、娇滴滴，不愿让人看你的身体，想维持体面——那么为了一具要被蛆吃的肉，觉得基督不体面，自己体面，算什么？
+
+第三，圣经榜样。保罗三次被杖，在寒冷和赤身中喜乐；彼得被鞭后欢欢喜喜；大卫在约柜前脱衣跳舞，被米甲讥笑后说“我还要更卑微”，而米甲嫌大卫丢脸，结果终身没有生子；以赛亚奉命赤身赤足行走。Damian 用大卫和米甲的案例暗示，嫌羞耻的人，不结属灵的果子。那么卡西诺山上的反对派会结不出什么想必不必多言了。
+
+第四，自我审判。这是整封信的高潮，也是克服自己的真正目的。修士在自己心里同时担任三个角色，对上帝说“主啊，你不必下令罚我，我自己来”。Stephen 拒绝自罚，结果被上帝亲自处理；修士自罚，上帝就不必出手。具体原文内容我在前文引用过了，这里不再引用。
+
+再看一遍也行。 O quam jucundum! O quam insigne spectaculum! cum supernus Judex de coelo prospectat, et homo semetipsum in inferioribus pro suis delictis mittat! Ubi reus ipse, in pectoris sui tribunalibus praesidens, trifarium tenet officium; in corde se constituit judicem, reum in corpore, manibus se gaudet exhibere tortorem; ac si Deo sanctus poenitens dicat: Non opus est, Domine, ut officio tuo me punire praecipias; non expedit ut ipse me justi examinis ultione percellas; ipse mihi manus injicio, ipse de me vindictam capio, vicemque meis peccatis reddo. 
+
+###### 仪式行为的边界
+
+这里的公开对应受难的次序（cum id ordo persecutionis expetiit），而且真正的观众是上帝和天使，修士同伴的视线只是顺带看见、衬托你相较于让真正的观众看见的热情根本不在乎羞耻的道具。
+
+至于说为什么修士间互相看见他认为没问题……让我们倒带看看。Vita beati Romualdi 的第 27 节中，他提及 Romuald 的一位学生；而之前引用过的 famuli 施 disciplina 的段落，也有提到是他们互相施以 disciplina。
+
+> 在所有门徒之中，真福波尼法爵的生活尤为杰出。他是皇帝的亲属，深受皇帝宠爱，以致皇帝只叫他“我的灵魂”。他精通自由七艺，尤其擅长音乐。在宫廷礼拜堂期间，他看见古代殉道者波尼法爵的教堂，受同名圣人的榜样激励，渴望殉道，说：“我也叫波尼法爵，为什么我不能同样成为基督的殉道者？”
+> 
+> 作了修士后，他以严厉的节食约束自己，常常一周只在主日和星期四进食。有时他见到大片荨麻或荆棘，便跳入其中翻滚。一位弟兄斥责他：“伪善者，你为何在众人面前如此做，以求民众的赞誉？”他只回答：“你要你的 confessor，我要我的殉道者。”长期过隐修生活以后，他决定前去讲道，便去罗马，从宗座领受总主教祝圣。一位曾与他同行的老修士告诉我，路上众人都步行，他却一直咏唱圣咏、赤脚走在最前面。因为旅途劳苦，他每天进食，但只靠半块面包和水；节日时也只加一点水果或草根，从不用菜汤。
+
+至少从那时起，对于修士内部的互相苦修（famuli 处），以及个人的模仿殉道倾向（波尼法爵），他就不是特别不赞同。
+
+加上之前在 66 里处理过的鞭笞流行趋势，他对修士典范的日常苦修要求，很可能有所提高。更别提这项苦修还是之前启用过的。
+
+不过波尼法爵的公开苦修是个人主动行为；卡西诺山修士的裸体鞭笞，则涉及共同体中的惯例与纪律。后者比前者多了一个制度性维度。Damian 为什么觉得这个制度性维度不影响苦修效果？我们已经在 18 和 50 里看到了他是如何把制度化看作分担补赎，帮助那些相对而言软弱的修士的必要工具，在此不重复说明。总之，能大家一起好，那干嘛要只让他们自发学习波尼法爵这种榜样？
+
+而这里对其他人而言，最越界的恐怕是 Damian 把现世、此刻的裸体，和圣经叙事与圣徒事迹中的裸体直接画了个等号，宣布虽然条件不一样，但抽都抽了，既然已经接受了鞭笞也算补赎，虽然当时的使徒是被外界抽鞭子，但我们没有迫害者，自己抽自己也行，那你们也别留着自己的衣服了。他早在 Letter 45 就为自我鞭笞作为补赎的有效性辩护过了，但是裸体？之前他最多也就是建议每个个人可以自己脱了衣服抽（你要是像某些人那样穿铁甲也没问题），这样更疼。在别人面前裸体？至少我还没看见过。
+
+> 作者注释：
+> 
+> 作者在此必须声明，理解 Damian 如何通过圣经先例与补赎神学，为自我鞭笞及其公开裸体的形式辩护，并不意味着作者接受他的论证。效法受难的宗教意义，并不能自动消除历史情境、施刑者身份、个人意愿及身体暴露条件之间的差异；证明自我鞭笞可以作为补赎，也不能据此推出修士应当在他人面前裸体接受鞭笞。Damian 在不断扩大效法所允许的类比范围，而作者并不同意这些差异都可以用类比来处理。
+
+综上，对 Damian 而言，苦修的公开性与制度性本身并不构成问题。公开承受痛苦可以是对殉道者的效法；共同体中的苦修纪律，则能够使个人补赎成为弟兄之间可以共同承担的宗教实践。修士同伴的在场，也不必然意味着苦修者是在寻求他们的赞誉。
+
+然而，Letter 161 的论证并未止步于允许公开苦修。Damian 进一步将裸体置于效法受难的框架之内，使羞耻不再成为遮蔽身体的充分理由。在他的论证中，修士应当关注的不是同伴如何观看自己的身体，而是上帝与天使如何观看自己的补赎。其他人的目光并未消失，只是被置于一种从属于天上观众的关系之中。
+
+即使他如此解释，但证明公开苦修可以具有宗教价值，并不等于证明裸体是这种价值的必要条件；证明修士能够自愿承担受难者的角色，也不等于证明他们应当在共同体中以特定的身体暴露方式重演受难。Damian 所建立的，是一套在其补赎神学内部具有连贯性的解释，而不是一个可以从圣经先例中直接推出的结论。这就又回到了我们在 Letter 44 和 45 遇到的问题：谁能诠释这项补赎的效用和边界。Damian 当时遇到的人质疑形式，Damian 认为不能机械地重复当时的情景；现在 Damian 依旧是“采用当时的表观行为，但是替换行为背景为更直接的模仿受难”，他个人的内部逻辑一直是连贯的，而他恰好又能让更多人相信、接受他对这类模仿的神学诠释。
+
+这场争论所涉及的，不仅是修士是否应当感到羞耻，也是谁有权解释受难的榜样、规定效法的形式，并决定身体在宗教实践中应当暴露到什么程度。
+
+> 作者吐槽：
+> 
+> 坏猫：只要不是我按头逼她们抽的，只要她们是“自愿”被 Dominic 的榜样感召的，那就跟我没关系，我只是个欣慰的记录者。至于她们从哪儿弄来的鞭子、怎么换算的一万五千次，我不知道，反正她们抽了。
+> 坏猫：你问卡西诺山的人为什么要在别人能看见的地方裸体？为什么非得在别人的目光下？呃……哦多么美妙的景象！
+
+#### 小结：达米安的鞭笞观及其边界
+
+数量是最直观的补赎计算传统之一，Damian 把它应用在同为补赎的鞭笞上。只是数量对现代读者而言有些离奇，才容易导致一些误解，如 Damian 过度严苛，或者他是在用具体的鞭笞数量兑换恩典。实际上，数量在这里首先是补赎实践的计量工具，使不同形式的补赎能够换算、安排、累积与共同承担；它并不意味着个人的属灵价值可以按照鞭笞数量直接计算。
+
+痛苦则是另一回事。它在个人感官上可以带来超越性的体验，对身体具有约束作用，从而能够抑制欲望、打破习惯，使修士不至于满足于既有的生活状态。因此，痛苦是这套苦修神学中很重要的工具，而个人在既定标准之上继续加码，也可以被理解为卓越品德与灵修热情的表现。不过，痛苦本身并不是最终目的。Damian 所追求的仍是灵魂状态的转变，以及由恐惧走向爱、由外在操练走向内在默观的过程。身体的严厉操练之所以具有价值，正在于它在这套灵修实践中所承担的作用。
+
+在此基础上，自我鞭笞便能够获得神学上的正当性。既然补赎可以采取不同形式，身体也可以成为克己与补赎的工具，那么，即使古代圣徒是在迫害者手中受鞭笞，当代基督徒仍然可以通过主动接受痛苦来效法受难。Damian 在 Letter 45 中为这种做法辩护，在 Letter 56 中进一步扩大论证的适用范围，而 Letter 66 又将 Dominic 的榜样用于劝勉修女，并记述这种实践已经传播到贵族女性之中。由此，自我鞭笞不再只是某个修士个人选择的苦修方式，而成为可以被传播、效仿，并纳入不同人群灵修生活的实践。
+
+但是，承认自我鞭笞具有补赎意义，并不意味着所有与之相关的行为形式都已经获得同样充分的论证。Letter 161 将争论推进到了新的边界：Damian 不仅要证明自我鞭笞能够效法受难，还要证明公开裸体受鞭不应当因羞耻而遭到拒绝。在这里，他将羞耻解释为堕落之后产生的障碍，将修士同伴的目光置于上帝与天使的目光之下，并把反对者对裸体的抵触纳入其灵修论证之中。这样一来，原本关于补赎形式是否有效的争论，就进一步涉及谁有权解释受难的榜样、规定效法的具体形式，以及决定共同体应当遵循何种纪律。
+
+从 Letter 45 到 Letter 161，Damian 的基本论证思路具有连续性：他不认为传统必须通过机械重复既有行为的全部外在条件才能得到延续，而是倾向于从传统所承载的宗教目的出发，为新的实践形式寻找正当性。这种思路使他能够回应同时代人对自我鞭笞的质疑，也使他能够继续推动这项实践，直至将公开裸体纳入效法受难的框架。
+
+然而，Damian 对这些实践形式的神学解释，并不意味着每一次类比都足以成立。主动自我鞭笞与遭受迫害者施加的鞭打之间存在差异，公开承受痛苦与裸体接受鞭笞之间也存在差异。补赎的效用、身体操练的价值，以及共同体分担补赎的必要性，都不能单独证明裸体是苦修所必需的条件。这也是 Letter 161 与此前书信之间的重要区别：Damian 不仅在为一项苦修实践辩护，也在争取对这项实践之形式与边界的解释权。
+
+因此，研究 Damian 的鞭笞实践，不能只停留在他究竟规定了多少鞭子、推崇多么严厉的苦修，或者这项实践后来传播得有多广。更值得注意的是，他如何将补赎的计算、身体的操练、共同体的纪律与效法受难的神学意义结合起来，并以此为持续扩展苦修实践的适用范围提供依据。鞭笞之所以成为 Damian 如此鲜明的标签，不仅因为他本人对它的热情，也因为他不断尝试将这项实践转化为一种能够被解释、安排、传授和推广的灵修方式。
+
+而当这种推广触及公开裸体、羞耻与共同体纪律时，我们也就看到了这套实践的边界争议：问题不再只是修士能否通过身体痛苦寻求补赎，而是谁能够决定这种追求应当采取什么形式，以及这种形式应当被延伸到什么程度。
+
+#### 历史上的 Flagellant 到底多能抽
+
+是的！正餐之后还有甜点！我在 Letter 109 那里计算过 Dominic 的。现在我们说说别人。
+
+> 作者剧场：
+> 
+> 作者：感谢你的论证。接下来我们看看历史上的 Flagellant 到底多能抽。
+> Damian：历史上的？
+> 作者：呃……我得说这不是你的问题，但是他们真的比你们还能抽。（实际上作者想说的是“这不是你的影响直接造成的”，斟酌后选择用了更抽象的表达。）
+> Damian：后世仍然有人坚持如此严格的补赎生活？
+> 作者：是的，而且规模相当惊人。
+> Damian：感谢上帝！
+> 作者：1349年，一些鞭笞者团体规定连续三十三天半的苦修巡游，每天进行公开鞭笞仪式。
+> Damian：如此恒心，确实值得——
+> 作者：他们还组织起跨城市的游行队伍，有自己的领袖、仪式规则和神圣授权主张。部分团体甚至开始质疑正常的圣事与教会管辖权。
+> Damian：……什么？
+> 作者：然后教宗谴责了他们。
+> Damian：你刚才说什么？
+> 作者：你是问哪一句？
+> Damian：所有。
+> 作者：首先，“比你们还能抽”是指规模、工具，可能还有信念。还有公开仪式以及社会影响力。我猜这本《[[追寻千禧年：中世纪的革命千禧年主义者和神秘无政府主义者]]》有意大利语版本，你应该能看懂。
+> （作者使用了“加速术”和“时间停止”以使作者所处的时间没过去多久，Damian 就能读完）
+> 作者：怎么样？唉，你不会是以为我当初说 "Hoc non propter auctoritatem tuam est" 是在夸你吧。
+> Damian：Merda!
+> 作者：哇。
+> Damian：你们抽归抽，为什么要把犹太人杀了？为什么要把教会的圣事废了？为什么让教宗亲自出来谴责？你们这是在丢我的脸！
+> 作者：其实不是你的。
+
+在详细说这帮最著名的鞭笞者前，我们先看看可控的、修道院内部的自我鞭笞苦修如何发展。
+
+##### 哪些修会特别喜欢这招 ？
+
+首先，当然是他自己所在的 Camaldolese。以及Cluny，虽然它以华丽的礼仪著称，但他们的修士同样使用鞭笞作为私下的苦修，只是没有那么规模化。之后逐渐的，本笃会其他分支也把它当作标配——看看 Letter 161 里的卡西诺山吧！最后，到了 11 世纪末，加尔都西会（Carthusians）、普雷蒙特雷会（Praemonstratensians） 等修会都采纳了类似的纪律。
+
+之后，如果各位对修会不太熟悉，我会放上一个 [Damian 同事的名单](https://en.wikipedia.org/wiki/Doctor_of_the_Church)。是的，这是维基百科中的教会圣师页面。
+
+请看那位 Doctor angelicus，他所在的多明我会就——我并不是说这位经院哲学家热衷于此——有着深厚的苦修传统。
+
+> 作者注释：
+> 
+> 多明我会（Dominicans）：正式名称是宣道会（Order of Preachers, O.P.），由西班牙神父 Dominic de Guzmán 于 1215–1216 年创立，是最早的托钵修会之一。他们采用圣奥斯定会规，以讲道、学术与反异端为主要使命，后来成为经院哲学的重镇（Thomas Aquinas 就是其中最著名的成员）。创始人 Dominic 本人对肉体苦修相当严厉：他常年贴身戴铁链、穿苦衣，并经常用纪律鞭（discipline）自我鞭笞，频率和强度都超过同会弟兄。修会内部把这种苦修视为克制欲望、与基督受难结合的常规手段。到了 14–15 世纪，多明我会传教士 Vincent Ferrer 还曾带领公开鞭笞队伍进行巡回讲道，把原本修道院内的实践进一步带入大众视野。
+> 
+> （别和 11 世纪的 Dominic Loricatus 搞混了。后者是 Damian 圈子里那位，用的是树枝/皮鞭量化补赎；多明我会创始人是另一个 Dominic。）
+
+即使是这帮书呆子，也没有放下苦修。
+
+> 作者吐槽：
+> 
+> 受限于 Thomas Aquinas 宏伟的物理构造，他恐怕很难完成柔韧度要求极高的背部自我抽打，在这点上，他可能只能依靠多明我会的同伴们充满爱德地代他完成。
+
+接下来，既然说到了他们，我们当然要看看方济各会（Franciscans）。
+
+> 作者注释：
+> 
+> 方济各会（Franciscans）：正式名称是小兄弟会（Order of Friars Minor），由亚西西的方济各于 1209 年前后创立，同样是托钵修会。他们强调极端贫穷、与基督受难的亲密认同，以及在城市中向平信徒讲道。方济各会与 13 世纪群众性鞭笞运动的关系尤其密切。许多早期鞭笞兄弟会（disciplinati / battuti）都接受方济各会的灵修指导，把公开自我鞭笞视为对基督受难的公开纪念与集体补赎。托钵修会的讲道方式，使悔罪、受难观念从修道院围墙内扩散到城市广场，为鞭子真正走出修道院提供了关键桥梁。
+> 
+> 托钵修会（mendicant orders）：多明我会和方济各会均属于托钵修会，而不是本笃会那样的修道传统。托钵修会在十三世纪兴起，以共同生活、贫穷理想、讲道及城市中的牧灵活动为重要特征。它们与传统修道院在组织方式、生活安排和宗教使命上有所不同，但这不意味着它们拒绝身体苦修。
+> 
+> 一些不适合在这展开的修会间矛盾：方济各会内部后来的分裂——严守派、住院派、嘉布遣会等——以及它们与多明我会之间的竞争。感兴趣的可以自己查，或者去《神曲》里看看但丁是怎么强行让方济各会和多明我会握手言和的。
+
+托钵修会的讲道活动能够将基督受难、悔罪与补赎的观念带到修道院之外；而十三世纪的群众性鞭笞运动，也与托钵修会所推广的公开悔罪游行处于相互关联的历史环境中。至于托钵修会到底如何参与了这项实践的传播——这就又是另一个可以单独开坑的话题了。1260年那次最初的大规模公开鞭笞游行，就是由一个叫 拉涅里·法萨尼（Ranieri Fasani）的隐士发起的。他后来被归入方济各会或悔罪会（Ordo de Poenitentia）传统。
+
+再请看 Doctor mysticus 和 Doctor orationis，他们二位归属于加尔默罗会（Carmelites）。Teresa of Ávila 早年有过自我鞭笞实践，而 John of the Cross 有充足的接受惩戒性鞭笞的经验。Teresa 的改革就将鞭笞等肉体苦修更严格地写入规则，在保持神秘主义的爱的同时，让一众在修道院喝茶的大小姐享受了类似从北京四中到衡水二中的巨大进步。
+
+> 作者剧场：
+> 
+> 某个被家长连钱带仆人一起送进加尔默罗会的修女：德兰，这是什么啊？ 
+> 德兰：这是鞭子，我们之后要进行更严苛的肉体苦修，帮助我们接近神；这是施工队，我看我们修道院的房间都太宽松了，准备建个更符合我们身份的；还有这是…… 
+> 修女：？？？ 
+> 德兰：不过你要是想待在现在这种地方也行 。
+> 修女：太好了。（麻溜跑路） 
+> 隔壁男性修道院那边 
+> 修士：我数到三，我们一起把这家伙关厕所里。
+> （德兰：我好闺蜜怎么几天没动静了？我去！我让他去改革修会，不是让修会把他改革了！！！）
+> 
+> 作者注释：
+> 
+> 加尔默罗会（Carmelites）：起源可追溯到 12–13 世纪巴勒斯坦的加尔默罗山隐修士，后来迁往欧洲并逐渐变成托钵修会。原始会规相对温和，对鞭笞等严厉苦修规定不多。真正把肉体苦修推到新高度的是 16 世纪的这对好朋友。德兰早年自己实践严厉自我鞭笞，改革后创立赤足加尔默罗会（Discalced Carmelites），把鞭笞、守斋、贫穷和严格的祈祷纪律写进新规则，试图回到更原始、更严苛的隐修理想，具体要求相信各位读到这里，也有数了。十字若望则在改革过程中被非改革派囚禁，并亲身体验过惩戒性鞭笞。两人的改革最终导致修会分裂成穿鞋与赤足两支。
+
+有些人主张自愿鞭笞，有些人不愿意改革，于是决定鞭笞改革者。
+
+接下来我们看看 Doctor Mellifluus，他归属于熙笃会（Cistercians）。他们比 Howe 的论文更有趣直观地展示了平信徒和精英修士在自愿的自我鞭笞上的相互作用。
+
+> 作者注释：
+> 
+> 熙笃会（Cistercians）：成立于 1098 年，由莫莱姆的罗伯特（Robert of Molesme）率领一群对本笃会当时过于宽松的生活不满的修士，在法国勃艮第的熙笃（Cîteaux）建立新修院。他们的目标是严格回归《圣本笃会规》的原始精神：贫穷、简朴、体力劳动、远离世俗、强调默观与克己。因会衣为未染色的白色羊毛，又称“白衣会”。真正让熙笃会迅速扩张并成为 12 世纪最有影响力的改革修会之一的，是 Doctor Mellifluus——明谷的伯尔纳铎（Bernard of Clairvaux, 1090–1153）。他 1112 年带领约 30 名亲属友人入会，随后建立明谷修院，并亲自推动大量子院的建立。伯尔纳铎本人以极端的个人苦修著称（过度守斋、克己到几乎毁掉健康），他的声望进一步抬高了身体苦修在当时拉丁基督教世界的地位。在制度层面，熙笃会的规章更强调整体生活的严苛与简朴，而不是像 Damian 圈子那样把自愿自我鞭笞量化成可计算的补赎体系。熙笃会内部既存在制度化的鞭笞性补赎，也有自愿进行极端身体苦修的个别成员，如 13 世纪初的平信徒修士 Arnulf of Villers，也会自行采取极为严厉的自愿鞭笞与其他苦修。
+
+借着教会圣师们过了遍经典大修会后，我们当然不能忘了一些没这么出名——实际上可能更出名——的修会。比如奥斯定会。在 11 世纪末，随着教廷推行共同生活改革，奥斯定会（Augustinians）逐渐成型；十三世纪，奥斯定隐修士会逐渐整合成形。他们把鞭笞作为一种常规的灵性训练。他们那里最著名的一位修士叫马丁·路德。
+
+> 作者注释：
+> 
+> 圣奥斯定隐修士会（Order of St. Augustine, O.S.A.）：13 世纪由多个遵循《圣奥斯定会规》的隐修团体整合而成，后来也发展成托钵修会。他们强调共同生活、学术与牧灵，是中世纪后期相当重要的修会之一。
+
+那么如果我们稍微把目光放得长远一点呢？接下来受限于作者能力以及篇幅，我不能把这里做成教会圣师及修会大全。但我们仍然可以请出：
+
+耶稣会的 Peter Canisius 和 Robert Bellarmine。特地有请他们，是因为他们的修会现在还保留自我鞭笞的传统。
+
+> 作者注释：
+> 
+> 耶稣会（Society of Jesus, S.J.）：由依纳爵·罗耀拉（Ignatius of Loyola）于 1540 年正式创立，是反宗教改革时期最重要的新兴修会之一。他们以《神操》（Spiritual Exercises）为核心灵修方法，强调辨别神类、服从（尤其对教宗的特殊服从）、教育与全球传教。在肉体苦修方面，耶稣会继承并温和化了中世纪的 disciplina 传统。他们使用的鞭子通常比中世纪极端版本更轻，目的更多是自我克制与谦逊，而非追求大量流血或量化补赎。早期现代时期，耶稣会在欧洲（奥地利、尼德兰等地）以及亚洲、美洲的传教区积极鼓励并组织相关实践，包括私密的自我鞭笞与公开的悔罪游行。罗马的耶稣会教堂直到 19 世纪仍可见相关仪式。进入 20 世纪尤其是梵二之后，耶稣会内部已大幅减少甚至基本停止正式的肉体惩罚与自我鞭笞，转为更强调对话与个人分辨。但历史上他们确实是把这项传统从中世纪延续到近代、并在全球范围内推广的重要力量之一。
+
+总之，虽然也有不强调自我鞭笞等肉体苦修纪律的，但很多知名修会一开始就相当推崇此道。妈的抛开本笃会，还有刚刚提到的那些托钵修会不谈，我还真说不上来什么别的修会了——我不是专门研究这方面的，所以这里只能给出大致的苦修印象，而非严谨的判断。另外注意下这帮修会的建立时间。除了 Damian 所属的修会在内的某几个本笃会分支，都是11世纪末及以后，虽然来源地不同，但是——哈哈哈哈哪里来的那么多根鞭子，也就从巴勒斯坦漂过来的加尔默罗会最开始没什么鞭子——因为这些修会并非各自独立发明了相同的苦修方式，他们只是诞生、扩张于一个身体苦修已经获得相当高宗教声望的拉丁基督教世界。而这个声望，相当一部分就是 Damian 和他的隐修圈子给炒起来的。
+
+所以，如果问哪些中世纪修会特别喜欢这招，我只能说，除了一开始就不是本地修会的，几乎所有，至少在中世纪结束前，11 世纪中叶之后，都挺喜欢的。
+
+> 作者吐槽：
+> 
+> 如果只看自愿的自我鞭笞作为修会内部普遍、写进规章的灵修手段的话，因为惩戒性的鞭笞几乎不可能没有，那么，我这部分的标题好像有些问题，我该问的是“Damian 之后都有哪些修会不怎么喜欢这招”，然后回答“Teresa 和 John 之前的加尔默罗会，以及他们之后的穿鞋分支不那么狂热地爱抽”。马后炮地看的话，我可能有些大惊小怪，但实际上，虽然卡西诺山都被同化了很能说明问题，但并不必然说明在更广泛的范围内，其他地区、其他修会、尤其是更多面向平信徒的修会，也会顺应这股鞭子潮流。这不是 ChatGPT 加的，而是我担心有马哲学一半就说鞭子是规律的人上来喷我傻逼，自己加的，我在写这个之前真没想到现在天主教世界几乎绝迹的鞭子曾经这么流行。
+> 
+> 以及，说句不好听的，Damian 因为鞭子当教会圣师就合理多了。Doctor Flagellorum ……算了，太难听了，还是别给他起这类尊号吧。
+
+---
+
+##### 大家都到底多能抽 ？
+
+在 Damian 的时代，大家还只是从树枝抽到皮鞭，有的穿衣服，有的裸体，有的配合铁甲。到了后来，大家的工具愈发多样且令人痛苦。尽管有所约束，比如耶稣会的日常灵修使用的就是普通细鞭，但是个体修士，及在大规模群体恐慌下的鞭笞游行中，很容易出现令读者只看文字描述就感觉不适的工具。
+
+Damian 的隐修院的工具我们已经详细讲过了，在此不重复描述。
+
+到了十三世纪的意大利，佩鲁贾的补赎者团体已把自愿鞭笞列入操练。1260 年拉涅里·法萨尼号召人们在公开游行中领受“苦鞭”，参与者包括结队行进的平信徒。当地编年史写他们用鞭子抽打自己的肩膀。这里 Dominic 的伟大创新，已经成为鞭笞者的标配了。
+
+1349 年黑死病期间，德意志和低地地区的一些流动队伍留下了更具体的鞭具记述：多股绳鞭、打结的鞭梢，有的结上还附着铁件。关于这类器具及公开仪式，参见[当时记述的后世汇编](https://www.originalsources.com/Document.aspx?DocID=HBDB4GCIZWBXYGI&H=1)。队伍通常承诺巡游三十三天半，以基督在世年岁解释这段期限；在停留的城镇，常有每日两次的公开鞭笞仪式，并按队伍规则行动，见[仪式与规条的史料汇总](https://www.ccel.org/ccel/schaff/hcc6/hcc6.iii.viii.ii.html)。我并不想在此展开**他们**具体多能抽，因为 Dominic 只是一个人，他们……？
+
+十六世纪耶稣会的鞭笞则偏向只造成皮肉痛感、不致生病的细绳。他们有铁链，只不过铁链是穿戴在身上的苦修器具，细绳才是被建议用于鞭笞的东西。
+
+至于一些超常个体，比如先前在修会介绍注释里提过的一些人，他们使用的我也不再重复描述。
+
+如果这个“大家”包括其他文化背景的，我只能说，他们自我鞭笞的原因、意义都不太一致，惩戒性鞭笞也如此。如什叶派阿舒拉纪念中的链鞭与刀剑属于另一套殉道与哀悼语境；印度教的苦修则又是另一套。至于比天主教这帮家伙还变态的其他鞭笞者，我目前还没找到。
+
+---
+
+##### 是谁决定他们可以这样抽 ？
+
+> 作者剧场：*Ita, Pater!*（是，神父！） 剧本节选：
+> 
+> Damian：Dominic 是自愿鞭笞的典范，我们应该学习他的虔诚。
+> 修士：Ita, Pater.
+> Damian：但每个人应当量力而行。
+> 修士：Ita, Pater.
+> Damian：你们不应该不顾身体承受能力地模仿他。
+> 修士：Ita, Pater.
+> Damian：那你们为什么还在抽？
+> 修士：因为我们想效法 Dominic。
+> Damian：我刚刚说了什么？
+> 修士：Ita, Pater.
+
+你们把一个人抽自己抽到极限的故事写成圣徒传，然后指望其他人只负责阅读，不负责效仿？为了成为更好的修士，他反而可能成为一个不服从的修士？即使感受不到，也要用这个行为去镇压那个感受不到的肉身？
+
+《圣本笃会规》[第 28 章](https://pressbooks.palni.org/ruleofbenedict/chapter/rb-28/)把对屡劝不改者施以杖责，置于院长逐步纠正过失的程序之中；[第 70 章](https://pressbooks.palni.org/ruleofbenedict/chapter/rb-70/)则禁止弟兄未经院长授权擅自殴打他人。这是他人施加的惩戒。对于主动加码的克苦，[第 49 章](https://pressbooks.palni.org/ruleofbenedict/chapter/rb-49/)要求修士把四旬期自愿献上的操练呈给院长，经过祈祷和认可；未经许可的举动可能被算作僭越与虚荣。
+
+在修道院内部，指望他人不狂热效仿典范，靠长上约束。但是，即使是 Damian 自己，也没法完全约束住这种“不够服从”的过度狂热，他能劝住自己侄子，但其他修士并不一定觉得因自己过度苦修接受的惩罚不是苦修的一部分。当修士必须服从长上，却又被要求主动追求圣德，而圣德的典范恰恰以超出常人限度的苦修闻名时，究竟怎样才算服从？判断的限度又不可能一直明确。但至少，当纪律使用的手段与苦修追求的经验部分重合时，纪律的惩罚意义未必能够完全由施加惩罚的人决定，这点相当明确。
+
+在 1260 年，这项活动即使危险——由平信徒和隐修者组织——但鉴于时代背景和社会影响，官方评价还是比较中立的。
+
+而到了黑死病时期，一键直连上帝及百无禁忌的手段显然既冒犯了神学又冒犯了社会结构，于是这帮家伙就给自己拯救成异端了。
+
+总之，所有人都在决定他们可以，但是应当在自己的管控与接受范围内这么抽，而这个范围视时代背景不同，末世恐慌、社会动荡程度的不同，对不同身份的人有着相当大的浮动范围。
+
+---
+
+##### 鞭子是什么时候大爆发的？
+
+请看 Howe 的论文 [[Howe Voluntary Ascetical Flagellation.pdf|Voluntary Ascetic Flagellation: From Local to Learned Traditions]]。我写不动了。我们之前已经讨论过了，这并不一定是“走出”修道院，更像是它本来就在修道院外也存在，被修道院炒热了之后相互作用，从少数民间自发行为，变为有官方神学背书的正统灵修行为，并进一步传播。
+
+所以我这节标题是“鞭子是什么时候大爆发的？”
+
+1260 年佩鲁贾的鞭笞运动。真的，去看 Howe 的论文吧，他的这篇论文是公开、可免费下载的。有关 12 世纪开始的大规模自我鞭笞运动形成、活动范围、行为及特点，其中有详细阐述。我不知道那些史料原文，其他修会以及独立隐修者具体在干什么，但是他知道。
+
+---
+
+现在，我们可以看看那帮最著名的 Flagellant 了。
+
+##### 那么，让我们拯救这具肉身吧
+
+去看《[[追寻千禧年：中世纪的革命千禧年主义者和神秘无政府主义者]]》，第七章。至于二位作者在鞭笞起源上采用的说法差异，采纳传统的隐修院起源还是 Howe 的说法，就请读者自行判断了。我肯定是倾向于 Damian 没那么变态的， Howe 的说法，即：
+
+> 作者剧场：
+> 
+> （Howe 的说法）
+> 达米安：这是一种值得肯定的苦修实践，我来论证其宗教价值。
+> （传统观念）
+> 达米安：我有一个绝妙的新想法。
+> 整个欧洲：什么想法？
+> 达米安：（拿出鞭子）
+> 整个欧洲：……
+> 整个欧洲：（拿出鞭子）
+> 
+> 这真的有点太变态了。即使说鞭笞苦修是从他的修会和隐修院自上而下传出去的也可以解释后续传播、理论上也是有可能的，“一个变态修士借着当时的动荡和属灵恐慌把自己的变态癖好传播开来”，以及和 Howe 的观点相比只是有归因问题、传播学路径没什么问题的主流认识“从 Damian 所属的修道网络传播出去”。但，相比“他是从民间多神教遗留和自发苦修那里学来的，这个实践在他发现时即使确实在 Fonte Avellana 内部存在，也不是精英、主流行为”，这个“他自己寻思抽自己太爽了开始找典范和自己抽，把这当成隐修高级操练到处宣传”太变态了。
+
+---
+
+最后，到了现在……我将举一个对比案例以让大家直观感受，为什么鞭子现在不怎么在天主教世界流行了。
+
+里修的德兰：我不让自己的不快伤害别人。
+- 主张通过日常生活中微小的爱与牺牲追求圣德。
+- 即使不喜欢某个人，也努力对其表现出善意。
+- 不要求你掌握鞭笞与补赎年限之间的换算关系。
+- 如果你让她不愉快，她可能会把忍受你当作一次爱的实践。
+Damian：我不让别人的罪债无人偿还。
+- 主张自愿鞭笞具有重要的补赎价值。
+- 认为三千鞭可以折算一年补赎。
+- 对修士们裸体自我鞭笞的场面发出“多么美妙的景象”的赞叹。
+- 如果你不接受他的论证，他可能再给你写一封信。
+- 请注意，彼得·达米安也认为自己是在实践爱德。
+
+选一个你更能接受的教会圣师，并说明为什么是里修的德兰。
+
+### De Damiano
+
+请各位收敛下自己的笑声，不要真的把一位司铎当成逗乐的小丑对待。
+
+当然笑了也没问题，你可以直接向他告解，或请求他为你代祷。至于他会要求你如何补赎，作者概不负责。
+
+> 还没正式开工，后续的都是吐槽。
+
+#### 牧灵关怀
+
+哦，这节是讲蛾摩拉之书和性观念。标题意在讽刺某人前半截表示都开除，后半截表示要拯救他们的灵魂，不是哥们你都给人赶出去不让回来了，你还想怎么拯救？
+
+> 作者吐槽：
+> 
+> 对了如果你乐意的话，达米安本人的蛾摩拉之书也可以当黄书读。因为他分类和细节写得详细到了当时人觉得他有病，直到现在大家都觉得“他敢于揭露神职人员玩小男孩之类的事很勇敢，但我们还是别提这事了他写得太难看了”
+
+#### 讲道集
+
+这里应有讲道集，也就是 [[sermones_petrus-damianus_144.epub]] 相关
+内容。面向群众讲道的神父达米安，和平时写信那个达米安，用的文学手段还是很不一样的。
+
+#### 圣徒传记
+
+他死后闹鬼——算了，各位领会下精神——是在 1080 年，问学生为什么不来看自己。他的一个学生，当年已经成了一个修道院的院长，梦见了 Damian。他手持牧杖，坐在一群白衣主教中间，正在讲论天主。学生进来了，恭恭敬敬地行礼。Damian 说：“这修士曾是我极疼爱的，可是自从离开我，就再也没有回来；不但他自己不来，其他我抚养教导的人也没有一个回来。”
+
+学生回答：“我的主，你离开我们后，我们不知道你住在哪里，怎么能到你那里去？”
+
+这只坏猫就说了：“你不知道我住在童贞圣母的房间、留在她的圣所里吗？我宣认自己是她家中的管家。”不是，谁会知道啊？！你以为圣母家有个公开的教职员工通讯录吗？！（当然从他的角度看，遗体在圣母教堂，本人曾是奥斯蒂亚枢机主教，虽然我不理解他为什么没去天国的荣休岗位，但他的职能确实挺管家的——那死后确实是在圣母的圣所当管家。）
+
+学生再次入睡，Damian 使用牧杖突刺：“你怎么不来找我？！”他拿牧杖顶端直接戳在学生左耳下方，导致下颌和喉咙肿胀。学生痛哭认错，祈祷。Damian 给他拍了个疗伤术。
+
+第二天学生真的去了法恩扎，到 Damian 遗体所在的门外圣母教堂。
+
+此时，亨利四世缓过劲来扶植了对立教宗，他的圣撒旦正在如火如荼地打 CK3，再打个五年就要死在流亡中了。
+
+> 朋友：八字弱的看了直接晕过去了
+> 朋友：而且我觉得写的人太会写了
+> 朋友：真正的阴湿男鬼啊！！！
+> 朋友：大家差点忘了这个词是多可怕了
+> 我：这下确实真是阴湿男鬼了 
+> 朋友：这下我意识到我们之前所有阴湿男鬼塑还是太阳光了 
+> 我：不过阴湿男鬼塑能进圣徒传记 
+> 我：好吃 
+> 我：他学生太会了
+> 朋友：是啊
+> 朋友：颇有老师的文采
+> 朋友：继承到好的了
+
+声称自己是“圣母家中的管家”——非常谦卑，彼得，真的。
+
+Tunc dixit ei dómnus Petrus: O hebes,an nescis quod in camera S. Mariæ virginis habito, et in illius sacrařio demoror? Nam in ejus domo liahito, et- illius camerarium esse me profiteor. Quem postquam vidit, statim somno est excitatus. 
+
+Deinde post pautulum, rursum. obdormiens, vidit eumđem domuum Petrum talia sibi verba dicentem (nam ita sibi videbatur, quasi ante plures dies hæc eadem ab eo verba audisset): Nonne; inquit, dixi tibi ut ad me venires? et quare non venisti?
+
+O, hebes 即“你个蠢货”起手。
+
+in camera S. Mariæ virginis habito, et in illius sacrario demoror，“我住在童贞圣母玛利亚的内室（camera），逗留在她的圣所（sacrarium）里。”
+
+illius camerarium esse me profiteor，“我宣认自己是她的内侍（camerarius）。”camerarius 在宫廷里通常翻译为“内侍”“宫廷总管”，是国王或王后身边最亲近的职务之一，负责管理内室和私人事务。以及注意 camera 和 camerarius 的对位。
+
+之后学生醒了，过一会儿又睡着了。
+
+括号里是院长在第二个梦中觉得“在他看来，仿佛几天之前就已经从他那里听到过这些同样的话。”Damian 的阴湿男鬼味更重了呢……？
+
+> 作者吐槽：
+> Damian：我要隐修！
+> Damian：隐修者不能闲聊
+> 还是 Damian：我的学生怎么不来看我！快来看我！
+> 
+> Damian 对 Agnes：你看，我都不回拉文纳，除非我姐姐 Rodelinda 生病
+> Damian 对学生：你们不知道我在圣母家干活吗？快来！！！
+> 
+> 如果学生在牧杖戳刺前回答“老师，我还以为您终于能专心隐修了，才没去看您。如今您终于如愿以偿，甚至在圣母的内室任职，我怎么敢擅自打扰？况且您生前连拉文纳都不愿意回，除非姐姐生病。我以为您尤其重视避免不必要的探访。”牧杖会戳他哪里呢？
+> 
+> 如果他还像苏格拉底那样接着问“老师，您不是已经在圣母那里担任内侍了吗，怎么还这么闲？”又会怎么样呢？
+> 
+> 也许，这个学生会体验到——
+> 牧杖挥打第一式：Philosophia ancilla theologiae！
+> 牧杖挥打第二式：Oboedientia！
+
+#### 但丁写的是谁
+
+至于但丁到底读没读过很多Damian……还是说只看过“虽然教会法不允许，但我认为一个人祈祷也能用复数”那篇最后的散文（ _Laus heremiticae vitae_ ）……但丁笔下的 Damian，真的抓到了几个很 Damian 的东西，比如禁食、抨击奢靡、沉思生活，尖锐攻击现有政治问题，罪人自称，但这些也是一种高洁隐修者的刻板印象，Damian 正好除了是枢机主教外，完美符合这个刻板印象。有研究中一个相当有力的观点认为，但丁直接接触到的可能主要是 _Laus heremiticae vitae_，而这一文本又独立于 Damian 其他作品流传。比如 D’Acunto 就认为，如果 Dante 真系统阅读了 Fonte Avellana 保存的那些作品，那么他对达米安生平的某些认识实在显得过于粗糙，他掌握的信息更像来自拉文纳地区关于 Damian 的传统，而不是来自 Fonte Avellana 本人的文献传统。
+
+虽然我很难想象他要是读到了——中世纪和唱片机转速差不多的有什么？哦，没有那么严格对应的，那就——一个如同修道院里的水钟齿轮转动的苦修榜样，还能不能写出土星天里的 Damian。
+
+#### 隐修和政治
+
+##### 书信集外的关系网络
+
+（简介即可，比如说一些书信集中看不太出来的个人关系，如他和卡诺莎那帮人的关系。）
+
+##### 隐修，外界和见证
+
+（他真信这套但也真是有事找他他就干）
+
+##### 可能很好玩的 Damian
+
+
+亚历山大二世偷书那个场景是真有意思啊，笑嘻嘻地借走，达米安过来问怎么回事时笑着摸他头敷衍过去……呃……
+
+亚历山大二世视角：
+我看上了一本好书。
+作者还是我认识的达米安。
+拿来看看，顺便让人抄一份。
+达米安过来问了？哈哈，没什么大事。
+摸摸头，安抚一下。
+
+达米安视角：
+教宗未经允许拿走了我的书。
+教宗没有认真回应我的要求。
+教宗竟然还笑着摸我的头。
+他把一位司铎当成逗乐的舞台演员！
+我要写信给希尔德布兰德和斯德望。
+
+这下满意了吧，一屋改革派全成小丑了（）
+
+当然那是开玩笑的说法，这帮改革派本来就是比较脆弱的同盟，而且各自对教权高于世俗权力的理解和执行方式都不太一样。
+
+“罗马人想要一个称量贪欲的亚历山大” 本人还是太能骂了。教廷的良心就要即使算是一边的照样骂啊（） 
+而我们的但丁，可能是考虑到他已经死了，而且一直没遇到什么被流放之类的问题，就选择了让他搁局外天堂骂街，自己亲自把某些人没死了也送进地狱（）
+
+#### 上帝能不能改变过去
+
+这和 Steins;Gate 有什么关系？
+
+“［上帝］以单一而纯粹的目光注视呈现于他面前的一切；因此，对他而言，过去的事物从未完全消逝，未来的事物也尚未到来”
+
+我先看的《命运石之门》，后看到的Damian，而且在这之前看过康德、胡塞尔、海德格尔，所以还是挺好理解的。各位如果看过《命运石之门》（前提是没被里面的时间理论绕晕），应该也会能比较轻松地理解 Damian 想说什么。
+
+《命运石之门》的世界线就像 Damian 的上帝眼中的世界，只不过我们自己也能操作修改。可以看成把 Damian 那种“上帝从非时间性的视角同时把握整个时间序列”变成了一个玩家可操作的对象。
+
+不过实际上从形而上学上，《命运石之门》的时间观与我刚刚提到的几位哲学家更相关（写进 0 篇 OP 和 ED 的几位是这样的）。接下来是比较正式的解释：整个时间序列对上帝来说从来就没有“过去/未来”的区分。
+- 较激进的读法：上帝的能力不受时间秩序限制，可以“撤销”过去。
+- 较谨慎的读法（目前多数学者倾向）：过去事件在上帝永恒的 providentia 里是不变的，所以“改变过去”在字面意义上不可能，但上帝的全能仍然完整，因为他对过去、现在、未来的能力是同一的。
+
+## 参考资料来源
+
+### 原始资料
+
+The Letters of Peter Damian (Fathers of the Church Medieval Continuations)：英译本，全部可于 Z-Library 下载。
+
+原始文本参考 MGH（Kurt Reindel 编，_Die Briefe des Petrus Damiani_）。
+
+关于编号与引文：彼得·达米安的书信及小册子在不同编辑版本中存在编号差异。本文一般优先使用上述英文译本的编号，如有疑问可参考英文译本中对其编号与小册子 Opusc.编号的对应列表。
+
+对于部分重要的小册子，将额外提供拉丁文标题及其他版本的编号，例如 `Opusculum 03 — Dialogus inter Judaeum et Christianum`。相关拉丁文资料可通过 [Documenta Catholica Omnia](https://www.documentacatholicaomnia.eu/) 检索，部分 PDF 可直接获取。Documenta Catholica Omnia 中另有正式的教宗特使任命及高卢出使任务文件；以及 Privilegium Pauli Papae V，其允许了Costantino Caetani 编辑、出版彼得·达米安的著作，进一步了解他的著作是如何编纂的可以参考阅读。
+
+具体引用应以引用内容、作品标题、所用版本及页码或章节位置为准。
+
+### 同时代资料
+
+> 注释：中世纪编年史可能用 Petrus Ostiensis、Ostiensis episcopus 等身份称呼他，而不是只用 Petrus Damiani。
+
+1. Iter Gallicum（《高卢行纪》）
+
+- 年代：1063年相关事件
+- 作者：匿名，可能与达米安的弟子圈有关，具体归属尚存争议
+- 史料类型：教宗使节活动记述
+- BHL：6708
+
+记载彼得·达米安前往高卢执行教宗使节任务，特别是处理克吕尼修道院与马孔主教之间的争端。
+
+资料入口：
+
+- [Geschichtsquellen：Iter Gallicum 版本、手稿与研究目录](https://www.geschichtsquellen.de/werk/5067)
+- [梵蒂冈图书馆：Vat. lat. 4920 手稿影像](https://digi.vatlib.it/view/MSS_Vat.lat.4920/0097)
+- [MGH：Scriptores 30/2 数字校勘本](https://www.dmgh.de/mgh_ss_30_2/index.htm)
+
+2. Giovanni da Lodi, Vita Petri Damiani（《彼得·达米安传》）
+
+- 年代：约1076—1084年
+- 作者：Giovanni da Lodi（洛迪的约翰）
+- 史料类型：早期圣徒传记
+- BHL：6706
+
+由达米安的弟子撰写，是研究其生平、修道生活、政治活动和死后形象的重要早期传记。由于作者与传主关系密切，且作品具有圣徒传记性质，阅读时应区分可交叉核实的事件与德行塑造、圣徒叙事。
+
+资料入口：
+
+- [Geschichtsquellen：Vita Petri Damiani 版本与研究目录](https://www.geschichtsquellen.de/werk/5066)
+- [Corpus Corporum：拉丁语文献数据库](https://mlat.uzh.ch/)
+
+3. Arnulf of Milan, Liber gestorum recentium
+
+- 年代：11世纪后期
+- 作者：米兰的阿努尔夫
+- 史料类型：地方教会史
+
+简介：
+从米兰地方视角记录教会改革、罗马教廷干预以及 Pataria 运动相关冲突。
+
+资料入口：
+
+- [Geschichtsquellen：Liber gestorum recentium 版本目录](https://geschichtsquellen.de/werk/4800)
+- [openMGH：电子校勘本目录](https://www.mgh.de/en/digital-mgh/openmgh/mgh-editions-in-openmgh)
+
+4. Landulf Senior, Historia Mediolanensis
+
+- 年代：11世纪后期至12世纪初
+- 作者：Landulf Senior
+- 史料类型：米兰地方教会史
+
+提供米兰地方教士对11世纪教会改革、Pataria 运动以及罗马干预的叙述。
+
+5. Andrew of Strumi, Vita sancti Arialdi
+
+- 年代：11世纪后期
+- 作者：Andrew of Strumi
+- 史料类型：改革派圣徒传记
+
+记载米兰 Pataria 运动重要人物 Ariald 的生平与改革活动，提供改革派内部视角。
+
+资料入口：
+
+- [MGH：Scriptores 30/2 数字校勘本](https://www.dmgh.de/mgh_ss_30_2/)
+
+6. Bonizo of Sutri, Liber ad amicum
+
+- 年代：1080年代
+- 作者：苏特里的博尼佐
+- 史料类型：改革派论战性教会史
+
+从格里高利改革派立场回顾11世纪教会政治与改革冲突。由于成书晚于达米安去世，且具有鲜明论战目的，应与更早的材料区别使用。
+
+资料入口：
+
+- [Geschichtsquellen：Liber ad amicum 版本与手稿目录](https://geschichtsquellen.de/werk/678)
+
+7. Leo of Ostia 等，Chronica monasterii Casinensis
+
+- 年代：11世纪末开始编纂，后经其他作者续写
+- 作者：Leo of Ostia 等
+- 史料类型：修道院编年史
+
+记录 Monte Cassino 修道院的历史及其与教宗、枢机主教、改革运动的关系。
+
+资料入口：
+
+- [MGH：Scriptores 34 数字校勘本](https://www.dmgh.de/mgh_ss_34/)
+- [Geschichtsquellen：Chronica monasterii Casinensis 版本目录](https://geschichtsquellen.de/werk/3294)
+
+### 研究工具与数据库
+
+- [Geschichtsquellen des deutschen Mittelalters：中世纪史料、版本及手稿目录](https://www.geschichtsquellen.de/)
+- [Digital MGH：Monumenta Germaniae Historica 数字校勘本](https://www.dmgh.de/)
+-  [苏黎世大学 Corpus Corporum](https://cassiodorus.ink/authors/petrus-damianus/)，及其上游搜索页面 [Corpus Corporum：拉丁语文献数据库](https://mlat.uzh.ch/)提供.epub 文件，其中 epistula 和英译版收录范围不太一样。
+- [openMGH：开放数字校勘文本项目](https://mgh.de/en/digital-mgh/openmgh)
+- [Biblioteca Apostolica Vaticana：梵蒂冈图书馆数字馆藏](https://digi.vatlib.it/)
+- [Gallica：法国国家图书馆数字馆藏](https://gallica.bnf.fr/)
+
+### 研究资料
+
+#### 教会官方资料 ：
+
+| 文献                                                                                           | 链接                                                                                                                              |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Paul VI, *Incliti Caelitis*, 16 Feb. 1972                                                    | Holy See: https://www.vatican.va/content/paul-vi/la/letters/1972/documents/hf_p-vi_let_19720223_san-pier-damiani.html           |
+| Paul VI, Address to the Central Committee for the Ninth Centenary, 21 Feb. 1973              | Holy See: https://www.vatican.va/content/paul-vi/it/speeches/1973/february/documents/hf_p-vi_spe_19730221_san-pier-damiani.html |
+| Benedict XVI, Letter to the Camaldolese Order for the Feast of St Peter Damian, 20 Feb. 2007 | Holy See: https://www.vatican.va/content/benedict-xvi/en/letters/2007/documents/hf_ben-xvi_let_20070220_camaldolesi.html        |
+| Benedict XVI, General Audience: Saint Peter Damian, 9 Sept. 2009                             | Holy See: https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090909.html                  |
+| Optional Memorial of Saint Peter Damian, Bishop and Doctor of the Church                     | USCCB: https://bible.usccb.org/bible/readings/0221-memorial-peter-damian.cfm                                                    |
+| “Doctors of the Church,” *Catholic Encyclopedia*                                             | New Advent reproduction: https://www.newadvent.org/cathen/05075a.htm                                                            |
+
+#### 专著 ：
+
+The theology of Peter Damian let your life always serve as a witness 以及 The Theology of Work Peter Damian and the Medieval Religious Renewal Movement，均为 Patricia Ranft 的作品，英语。她和 Damian 的论证思路一个路子：你们说得对，这是事实，但你们为什么会觉得这有问题？
+
+Fabrizio Amerini and Renato de Filippis, eds., *Pier Damiani. Nuove prospettive sul suo pensiero*, *Noctua* 8.1–2 (2021)，Noctua 的专题，意大利语。他们的官网可以用英语浏览。接下来提到的论文中，相当一部分意大利语的初始发表于 Noctua。比如 Amerini, Saraceno, Saccenti, Manco, Sordillo, D'Acunto, Longo 的论文。
+
+#### 论文 ：
+
+有请 AI 翻译以及——
+
+（标注“等”的就是我还没读完的就没列上来，或者已经在前文提了是哪篇新找到的，在这里懒得提了。这是“Damian 领域老熟人”的标记）
+
+Fabrizio Amerini，“Fede, ragione e il principio di non-contraddizione in Pier Damiani”，意大利语。
+
+Johann Beuke，“‘Foucault se sodomiet’: Damianus se Liber gomorrhianus (1049) heropen”，南非荷兰语。
+
+Cláudia Regina Bovo，“No âmago da epistolografia medieval: tipologia epistolar e política na correspondência de Pedro Damiano”，“O combate à simonia na correspondência de Pedro Damiano: uma retórica reformadora do século XI?”等，葡萄牙语。
+
+John Howe，“Did St. Peter Damian Die in 1073? A New Perspective on His Final Days”，“Voluntary Ascetic Flagellation: From Local to Learned Traditions”等，英语。
+
+Bernadetta Kwaśniak，“Le désert dans la spiritualité de saint Pierre Damien”，波兰语及法语。
+
+Roberto Limonta，“Undoing the Past. Necessitas per accidens e logica temporale nel De divina omnipotentia”，意大利语。
+
+Umberto Longo，“Angelitus vivere. Pier Damiani e la perfezione eremitica”等，意大利语。
+
+Antonio Manco，“Percezioni esterne della figura damianea: l’Iter Gallicum tra fama e guerra di parole”，意大利语。
+
+Concetto Martello，“Scienza mondana e sapienza di Dio nel trattato antigiudaico di Pier Damiani”，意大利语。
+
+Colin Ralph Phipps，“Saint Peter Damian's Vita beati Romualdi: Introduction, Translation and Analysis ”，英语。
+
+Riccardo Saccenti，“«Dominus vobiscum». Presenza del Cristo, ecclesiologia e sacramentaria in Pier Damiani”，意大利语。
+
+等人的贡献。
+
+知网上以关键词搜索“彼得·达米安”没有结果，各位想看论文只能这样了。
+
+#### 其他：
+
+Wikipedia 和[斯坦福哲学百科](https://plato.stanford.edu/entries/peter-damian/)
+
+我。以及暗黑地牢考据党的视频（如飞天炸鸡 XD 的）和文章。
+
+## 致谢
+
+感谢暗黑地牢考据党与 Red Hook Studios。若无《暗黑地牢》的 Flagellant 及相关考据，圣彼得·达米安在中文互联网的可见度大概还要再低一截。感谢他们让一位 11 世纪枢机主教以“自我鞭笞”的标签获得了一点流量。也感谢他们让我没法说我是看《神曲》时对他感兴趣的挽尊。
+
+同时感谢相关原始文献的编纂者、现代校勘本编辑者与研究者。没有他们的工作，本文所涉及的大量材料将远比现在更难以获取、阅读和理解。
+
+本文的资料选择、翻译核查与历史判断由作者自行负责；游戏中的人物塑造及相关考据内容仅构成研究兴趣的起点，不作为独立的历史证据。
+
+[^1]: he treats a priest like a stage actor. 因为天主教背景，这里翻译为“司铎”；因为中世纪语境中，Damian 在说 Alexander II 把他当以表演取悦他人的弄臣，这里翻译为“小丑”。
