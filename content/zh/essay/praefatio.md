@@ -4,6 +4,8 @@ date: 2026-10-13T23:17:08+08:00
 draft: false
 series: ["Damian"]
 tags: []
+math: true
+ShowToc: true
 ---
 ## 序幕
 
