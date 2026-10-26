@@ -110,11 +110,3 @@ defaultContentLanguageInSubdir = false
       name = "Protokoll"
       url = "/log/"
       weight = 60
-
-[markup]
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 6
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
