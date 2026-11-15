@@ -1277,14 +1277,724 @@ Damian：我不让别人的罪债无人偿还。
 
 哦，这节是讲蛾摩拉之书和性观念。标题意在讽刺某人前半截表示都开除，后半截表示要拯救他们的灵魂，不是哥们你都给人赶出去不让回来了，你还想怎么拯救？
 
-> 作者吐槽：
+首先，蛾摩拉之书主要是攻击教会法盲区，比如同性性行为，以及执法不严、量刑矛盾问题，更广泛的  Nicolaitism 问题他天天骂（前文提过，这是当时改革派的核心议题之一），而且他主要针对的就是神职人员娶妻或者找情人这类情况，在本书里就没怎么重复。
+
+当然，对天主教历史有所了解的人应该知道，神职人员不独身以及修道院内同性恋问题确实相当意料之中的难以禁止且泛滥。
+
+> 作者剧场：
 >
-> 对了如果你乐意的话，达米安本人的蛾摩拉之书也可以当黄书读。因为他分类和细节写得详细到了当时人觉得他有病，直到现在大家都觉得“他敢于揭露神职人员玩小男孩之类的事很勇敢，但我们还是别提这事了他写得太难看了”
+> （所有人都拿着鞭子）
+>
+> 作者：考虑到一部分修道院的作风问题，我怀疑我进了什么特殊窑子也是正常的。即使奥斯蒂亚枢机主教在这里也一样，兴许是头牌呢。
+>
+> 作者：您自己也知道，教会内外多少人喜欢神职人员，您自己给教宗的书里就有写啊。你看你们自己内部的修士都多喜欢别的修士，修女都多喜欢别的修女。而你们的神职人员多么想牧养他人，看看有几个神父的家庭是就他自己——
+>
+> （此处为牧杖戳刺蓄力结束，精准命中作者左耳下方，给作者打得说不出话了）
+>
+> 作者：不过说真的，后来的各位已经在试图把禁绝不了的性欲通过神圣行为处理掉了。
+>
+> Damian：那就好。
+>
+> 作者：我接下来要说一群典范修女，她们会（此处由于不宜详细描写被作者手动打码）
+>
+> （作者又挨了一发牧杖戳刺）
+>
+> 作者：还有 Nicolaitism，虽然一提天主教大家刻板印象还是有独身，但当我们提到牧师娶妻时，我们一般不会区分他是东正教的、圣公会的、新教的、东方正统教会的还是天主教的——
+>
+> （作者又挨了一发牧杖戳刺）
+>
+> 作者：没完了是吧，那我的时代教会最大丑闻是性丑闻，系统性的性侵儿童并且包庇涉事神职人员！
+>
+> （Damian 给自己来了一发牧杖戳刺）
+
+##### 作者将先详细解释他们为什么挨揍
+
+十一世纪的教士婚姻与同性性行为都是教会改革的重要议题。改革派常以 Nicolaitism 指称教士婚姻及相关性行为，并要求整顿教士纪律。《蛾摩拉之书》则集中攻击男性之间的性行为，尤其关注教会法对不同性行为的分类、处罚标准及实际执法中的漏洞。
+
+但这些问题并没有随着改革运动结束。1123 年和 1139 年的两次拉特朗大公会议进一步强化了拉丁教会的教士独身纪律，然而制度规定与社会实践并不同步。十三世纪的巴塞罗那教区巡视记录仍然记载了教士纳妾及其他性关系；十五至十六世纪的马耳他也有类似记录。到了十六世纪末，部分德语地区的巡视材料已经显示教士纳妾现象有所下降。这意味着问题的严重程度不仅取决于教会规定，也取决于地方社会习惯与纪律执行能力。
+
+同性性行为同样留下了不同类型的史料。十一世纪布尔夏德的《教令集》将相关行为纳入忏悔与补赎体系；Damian 本人则在《蛾摩拉之书》中建立了更具体的男性性行为分类。后世的司法与巡视记录又提供了实际案件，例如十六世纪法国莫里尼修道院的鸡奸丑闻。女性修道共同体也有相关材料：十七世纪意大利修女 Benedetta Carlini 的教会调查，同时涉及神秘异象与她和另一名修女之间的性关系。
+
+而身体问题同样有危险但并未被事实追责的部分。希尔德加德与 Richardis von Stade 的书信展现了女性修道共同体中深厚的情感依恋；德兰的《自传》则将身体痛苦、甜蜜与神圣之爱联系起来，即使她本人因为包括但不限于它的原因被宗教裁判所调查。禁食、鞭笞等苦修实践与神秘主义体验（C 部分的内容已经说明了鞭笞在刚被推广时是什么待遇），共同构成了基督教身体观中复杂的部分：身体既是需要约束的对象，也是宗教情感与神圣经验得以表达的媒介。
+
+至于作者最后那句话——
+
+到了现代，教会面临的性伦理与纪律问题已经不再只是神职人员个人违反独身规范或发生同性性行为。2000 年以后，美国、爱尔兰、澳大利亚等地陆续出现针对天主教机构性侵未成年人问题的公共调查，调查范围也从施害者个人扩大到教会领导层对投诉的处理、涉事人员的调动、档案保存及受害者保护。2009 年的爱尔兰 Murphy Report 揭示了都柏林总教区长期处理投诉不当的问题；2018 年的德国 MHG 研究则通过 1946—2014 年的教会人事档案，识别出 1,670 名被指控的神职人员。2021年法国独立调查委员会 CIASE 结合人口调查、受害者证词和教会档案，估计 1950—2020 年有约 216,000 名未成年人遭受神职人员或修会成员的性侵害，若纳入教会机构内的其他工作人员，估计人数则达到 330,000。此后，葡萄牙等国也开展了独立调查。圣座方面，保护未成年人委员会于 2024 年发布首份年度报告，开始系统评估地方教会的保护政策、案件处理与受害者援助情况。由此，教会性侵问题逐渐从神职人员个人的道德与纪律问题，发展为涉及机构责任、权力监督、受害者保护及公共问责的制度问题。
+
+比如，Anderson 这篇论文 [[Anderson_2004_当训导权变成治权_主教对丑闻的责任_中文翻译]]的背景是 2004 年美国天主教会的性侵丑闻。既然有人反对以当代标准追究过去调任施害神职人员的主教，那能否从教会自身的神学传统中找到追究其责任的依据？他试图用 Damian 的理论来教臭不要脸的现代主教做人：Anderson 主要引用了 Damian 那种谁负有责任却没有履行，他就骂谁的精神，批判把训导权威转化为不受问责的统治权力，如 Damian 本人警告教宗的话，“因为对下级司铎所犯的不洁行为，我们确实加以惩罚，但对主教，我们却以沉默的容忍来表达敬意，这全然荒谬。”这篇论文我们后续还会提到，因为它涉及了 Damian 的政治与灵修思想。
+
+利奥十二世将 Damian 奉为改革博士，以支持教宗的治理权威；但 Anderson 强调，这位改革博士本人恰恰认为教宗也应接受纠正。我当时提到他的称号时还说他更像是 Doctor Flagellorum 来着，不过也没问题，领导在他这里照样肉体和属灵上的鞭子都要挨。
+
+##### 牧灵矛盾律
+
+我们可以很明显地看到，他当时对圣事有效性的立场还不像后续 Liber Gratissimus 时期时那样坚定，这和他当时对权力与道德问题的敏感一起，让他提出了“全部开除”这样的解决方案——此时的他相比一个体制内官僚，更像一个完全不需要顾虑怎么维持这个烂透了的机制运转的理想主义设计师。
+
+在此，我要留下我的个人观点：这里他对各类性行为的反对除了基督教一直以来对非生育目的性行为的反对（他用俄南那个例子用得相当清楚了），更多的是对这类行为反映的灵性问题和权力滥用的极度反感和恐惧，而导致他用词激烈、描写详细。他只是很详细地列出了当时人们不能接受的各种不以生育为目的的性行为，除了对于同性性行为的特别关注，认为其最为不自然，还特别标注了相关道德和法律问题，请注意他标注的是什么，他主要标注的是各类恶性权力、法律事件。
+
+呃，我估计他也没想到后来内部性侵、权力问题没解决，同性恋、手淫之类的问题先被“解决”了，而且参考20世纪的某些解决方案，还涉及对同性恋群体的性侵和权力问题。但凡他是个 21 世纪枢机主教，我猜他会满脸黑线地划掉这篇信里“公山羊会骑公山羊吗”的部分——因为自然学表示确实会还不少了，而他这篇檄文一个重点就是保真，即使需要他没那么保真地选择性忽略一些宽松法律，以及严谨地指出现有法律条文的矛盾之处或疑似伪造之处——然后打个飞的去美国对辛辛那提的丹尼尔·皮拉尔奇克大主教实施纪律。
+
+当然，我们也不能忽略，当一种性罪分类同时容纳自愿行为与剥削性行为时，它究竟是在识别权力滥用，还是可能把权力滥用重新表述为一般性的道德败坏？这位枢机主教的原文在此相当有争议，考虑到他当时在多纳图问题上比较模糊的态度，我个人倾向于认为，他只是在炮轰“发生这类性行为的人”以及“借助权力和更多人或反复发生这类性行为的人”，权力滥用因纵容和拉入更多人而罪加一等，而被迫发生性行为的人怎么办他并没处理。在此……因为原文太长我只能概括一下他说了什么，具体内容且看之后分解：
+
+> 序言：强调自己接下来要讲的内容的严重性。
+>
+> 第一章：全书可能最有名的“Ut autem res vobis tota per ordinem pateat, ex hujus ==nequitiae scelere== quatuor diversitates fiunt. Alii siquidem secum, alii aliorum manibus, alii inter femora, alii denique consummato actu contra naturam delinquunt; et in his ita per gradus ascenditur, ut quaeque posteriora praecedentibus graviora judicentur.”即分类：“为使您能循序看清全貌，且说这种邪恶的罪行分为四类。有人独自为之，有人借他人的手，有人在两腿之间行淫，有人则完成逆性的性交。这四类逐级加重，后一级总比前一级严重。”
+>
+> 第二-五章：认为长上目前对待相关人员太过纵容：认为相关人员不得领受圣秩或晋秩后留任，即使情况紧急，而认为他们可以留任或晋秩的长上和他们一样该死。
+>
+> 第六-十二章：扩大这一罪行的范围至和任何因圣事形成类似属灵子女关系的人发生性关系，并给出法律论证，批判自相矛盾或出处存疑的法律。这里第七章有一个可能的知名比喻：“Sed **legis praeceptum** est, ut cum quis lepra perfunditur, sacerdotibus ostendatur; tunc autem non sacerdotibus sed leproso potius ostenditur, cum ==immundus immundo== peractam communem nequitiam confitetur. Sed cum confessio utique manifestatio sit, quid, obsecro, manifestat, qui audienti cognitum narrat, aut quo pacto confessio illa dicenda est, ubi nihil a confitente manifestatur, nisi quod jampridem ab audiente cognoscitur?”即“律法规定，染上麻风的人要给司祭察看。可一个不洁的人向另一个不洁的人告解两人一起做下的恶事，倒成了给麻风病人看，没给司祭看。告解原是把事情说出来。我倒要问，他把听者已经知道的事再说一遍，究竟揭开了什么？告解者说的全是听者早就知道的事，又怎能叫作告解？”
+>
+> 第十三章-第十五章：主要详细描写自己为何认为“索多玛罪”和兽交无异，并给出建议量刑。
+>
+> 第十六-十八章：谴责、哀歌、为不肯悔罪的灵魂哭泣。十六章有一个可能知名的文学塑造，把“索多玛罪”下的人塑造成被索多玛女王剥去德行之甲、任由他们受辱和痛苦的士兵。第十七章有一个可能知名——说实在的就是 Wikipedia 上引用的当然会对知道本书的人而言知名——的句子：“Dic, vir evirate; responde, homo effeminate, quid in viro quaeris, quod in temetipso invenire non possis? quam diversitatem sexuum? quae varia lineamenta membrorum? quam mollitiem? quam carnalis illecebrae teneritudinem? quam lubrici vultus jucunditatem?”即“说吧，你这失了丈夫气的人；回答吧，你这妇人化的男子：你在男人身上寻求什么，是你在自己身上找不到的？什么样的性别差异？什么样各异的肢体线条？什么样的柔媚？什么样肉欲引诱的娇嫩？什么样滑润可爱的面容？”
+>
+> 第十九-二十二章：重新回到不配的司祭、祭献资格，认为他们的职务可能使整个会众陷入危险，甚至上帝会拒绝他们的祭献。这里我要吐槽了，你真的知道自己在说什么吗（见 L40，猜猜为什么他在这一部分没提奥古斯丁）？！同时引用一个隐修士——我放原文吧，总之就是证明即使他做了很多好事，但因为他——那么那些司祭就更不会有好下场了，且开头提出的四种类别一概“违背自然”而虽有轻重之分但都没有被宽恕的余地：“Ut autem probetur verum esse quod dicitur, venerabilis Bedae testimonium in medium deducatur: « Qui, inquit, ita eleemosynam tribuit, ut culpam non dimittat, animam non redimit, quam a vitiis non compescit. Hoc ille eremita suo facto probat, qui cum multis virtutibus cum suo quodam collega deservisset, haec illi per diabolum injecta cogitatio est: ut quandocunque libidine titillaretur, sic semen detritu genitalis membri egerere deberet, tanquam phlegma de naribus projiceret; qui ob id et daemonibus moriens, vidente socio, traditus est. Tum idem socius reatum ejus ignorans, sed exercitia virtutum recolens, pene desperavit, dicens: O quis poterit salvus esse? quomodo iste periit? Cui mox angelus astans, dixit: Ne turberis; iste enim, licet multa fecerit, tamen per illud vitium, quod Apostolus vocat immunditiam, cuncta foedavit.”
+> 即：“为使所说的话被证明为真，可敬的伯达的见证也该提出来：凡施舍却不肯离弃罪过的人，他说，并不能救拔那被他容留在恶习中翻滚的灵魂。这事被一位隐修士以自身的事迹证实了：他与一位同伴一同在诸多德行上事奉上帝，魔鬼却把这样的念头注入他心中：每当情欲挑动他时，他就该以摩擦生殖器官把精液排出，如同擤鼻涕一样；为此，他死时被同伴看见，交给了魔鬼。那同伴不知道他的罪债，只回想他的德行操练，几乎陷于绝望，说：唉，谁还能得救呢？这人怎么竟灭亡了？天使立刻站到他旁边，说：不要惊慌；这人虽然做了许多事，却因那使徒称作不洁的恶习，把一切全都玷污了。”
+> 以及第二十二章的：“Plane si quis veniae locus in hujus vitii ruina praeberetur, cui propensius remissio indulgenda competeret, quam illi videlicet eremitae, qui nesciendo peccavit? qui per simplicitatis imperitiam cecidit? qui sibi hoc licere, velut naturalis officii debitum, aestimavit?”
+> 即：“当然，若在这恶习的败亡中还留有可容宽恕的余地，那么比谁更该蒙宽赦呢？岂不正是那位因无知而犯罪的隐修士？他因单纯的不懂事而跌倒，以为这是自然本分所许可的事。”
+>
+> 第二十三-二十四章：我不明白他话都说到这份上了还在那里哭什么，不是哥们，你还想让他们怎么得救？
+>
+> 第二十五-二十六章：为自己公开揭露罪行辩护，最后请求教宗审察教规、征询他人并作出裁断。
+
+从篇幅和论证安排来看，可以进一步解释我之前说他“标注恶性权力事件”的原因：他既列举行为类型，也不断转向圣职资格、属灵亲属关系、告解权威、纪律裁量及教规效力。
+
+这也是本章标题的另一个含义：他严厉对待明摆着有问题的人，而对那些“被迫”“受引诱”的人，他除了通过引用强奸判刑的法律，没有作出任何可能让人一味盯着受害者的举措。至于说他怎么区分“强奸属灵儿子”和“他也是自愿的”，这就是他的牧灵问题了：能够敏锐识别某些权力滥用，却没有相应建立起区分加害者、被迫参与者和受害者的完整处理机制。只是没建立起这一机制无可厚非，毕竟这并不应该是 Fonte Avenalla 的 Prior 的活；但是将这三者混为一谈，就是他的问题了。
+
+> 作者剧场：
+>
+> 作者：老 b ——老师，您这句 qui inter femora coinquinantur 用得很精妙啊。被动态。您其实知道，在股间这种行为里，有一个人是没得选的，对吧？
+>
+> Damian：因为我要描述他们如何因罪而受到玷污！
+>
+> 作者：哦，所以您承认这里描述的是受到玷污的状态，而不是谁主动实施了行为。
+>
+> Damian：这有什么问题？
+>
+> 作者：那我问您，如果一个人被迫参与这种行为，您要怎么处理他？
+>
+> Damian：若是被强迫，自然应当查明是谁施加了暴力。
+>
+> 作者：那被迫参与的人呢？您会要求他做补赎吗？
+>
+> Damian：……
+>
+> 作者：您看，我还没有问您是否允许他保留圣职。
+>
+> Damian：你到底想说什么？
+>
+> 作者：我想知道，您要惩罚的是实施罪行的人，还是所有被您归入同一种污秽状态的人。
+>
+> Damian：……
+>
+> 作者：您不是很擅长区分罪行的等级吗？现在请您区分一下人。
+>
+> Damian：（握紧牧杖）
+>
+> 作者：别打我，我是按您的分类方法提问的。而且我还能问得更下流一些。您“是负责给新人开苞的吗？”“您说给结婚神父的妻子送进拉特朗宫当女奴是什么意思（出自 L112），是要拓展拉特朗大妓院的服务种类吗？”
+
+接下来是拉丁原文 corrumpere、violare、seducere 等动词在具体段落中的宾语、施事者和责任归属。我需要回到原文看他到底怎么进行牧灵关怀。
+
+为了方便处理，我按照下列维度粗略标注相关词汇：
+
+1. 动词语态与施事
+2. 疾病、军事等隐喻，魔鬼的角色
+3. 量刑（指定罪性的词汇，具体的量刑他一般会写很长，我就不标注了）
+4. 受害者位置，如果没有，那就是对性交双/多方的称呼
+
+- 序言
+  - Quoddam ==autem nefandum et ignominiosum valde vitium== in nostris partibus ==inolevit==, 一种不可言说、极其可耻的恶习已在我们这一带滋长。
+    - 这里都是现在时直陈式，-t 是第三人称单数词尾
+    - nefandus：不可言说的、邪恶可憎的，兼具言说禁忌与道德谴责意义
+    - ignominiosus：来自 ignominia（耻辱、丧失名誉）
+  - Heu! ==pudet== dicere, ==pudet== tam turpe flagitium sacris auribus intimare; 唉！这等丑事，开口已觉羞耻，传入您神圣的耳中更觉羞耻。
+    - turpe flagitium：可耻的恶行
+  - ==Vitium igitur contra naturam== velut cancer ita ==serpit==, ut sacrorum hominum ordinem attingat; et interdum ut cruenta bestia inter ovile Christi cum tantae libertatis saevit audacia, 因此，这逆性的恶习像癌疮一样蔓延，已经侵入神职人员的行列，有时又像嗜血的野兽，在基督的羊群中肆无忌惮地横行。
+    - 这里是综述现状。后续他主要在讨论神职人员内部或神职人员参与的性行为，没有处理平信徒内部的，只处理涉及平信徒的。
+  - Et nisi quantocius sedis apostolicae vigor occurrat, non est dubium, quin effrenata nequitia cum restringi voluerit, a cursus sui impetu desistere nequeat.
+    - 军事、运动及控制隐喻： vigor ... occurrat（宗座力量迎面阻遏）；effrenata nequitia（脱缰的邪恶）；cursus sui impetu（疾驰的冲势）。恶习被呈现为必须及早以宗座权威制止的失控力量。和后续第十六章开始以及全文一致，恶行有自身的力量和能动性。
+- 第一章
+  - Ut autem res vobis tota per ordinem pateat, ex hujus ==nequitiae scelere== quatuor diversitates fiunt. 为使您能逐项了解全貌，这种邪恶的罪行有四种不同的表现形式。
+    - 不论主被动、时态，只要直陈式下的人称词尾包含 nt，那就是第三人称复数，如这里 fiunt 是现在时 fio（成为、产生）的三复形式，与其主语“罪行”一致。
+  - ==Alii siquidem secum, alii aliorum manibus, alii inter femora, alii denique consummato actu contra naturam delinquunt; et in his ita per gradus ascenditur, ut quaeque posteriora praecedentibus graviora judicentur.==有人独自为之，有人借他人的手，有人在两腿之间行淫，有人则完成逆性的性交。这四类逐级加重，后一级总比前一级严重。
+    - -tur 是现在时被动式的三单词尾。如果词尾有单独的 -t- 而没有 -ti-，就是三单词尾的标志（如-erit 是将来完成时三单，-bit/et 是将来时三单，而-bitis/etis 是将来时二复）。
+  - Major siquidem poenitentia illis imponitur ==qui cum aliis== ==cadunt==, quam iis qui per semetipsos ==sordescunt==; et districtius judicantur ==qui actum consummant==, quam ii ==qui inter femora coinquinantur==.与别人一同犯罪的人应做的补赎，比独自玷污自己的人更重；完成性交的人，应判得比在两腿之间相互玷污的人更严。
+    - 尽管不同时态、主被动下的人称词尾不同，但是有且只有三复的人称词尾会有连着的 nt。如这里现在时主动式的-nt，现在时被动式的-ntur。
+    - Cadunt 是跌落的三复形式，sordescunt 是变脏，coinquinantur 是被玷污。它们分别从行为人的堕落、污秽状态的形成、被动承受玷污三个角度描述相关行为。这里的比较轴是 cum aliis / per semetipsos（与他人/独自），紧接着又换成 qui actum consummant / qui inter femora coinquinantur（完成行为者/在股间受到玷污者）。也就是说，Damian 先按照参与关系区分，再按照行为形式区分，并且把两组区分直接接到补赎和判罚轻重上。另外，英译将 qui actum consummant 处理成了“those who corrupt others by anal intercourse”。其中的 corrupt others 并不是这几个拉丁词直接表达的施事关系。拉丁语说的是完成该行为的人，并没有在这个短语里额外指定谁败坏了谁，Damian 直接将“完成该行为的人”都连接到了补赎与判罚上。
+  - Hos itaque ==corruendi== gradus artifex diaboli machinatio reperit, ut quo altius per eos ascenditur, eo proclivius infelix anima ad gehennalis barathri profunda mergatur. 魔鬼煞费心机，造出这一阶一阶的堕落，好叫不幸的灵魂沿阶爬得越高，越容易一头栽进地狱的深渊。
+    - artifex 与 machinatio 强调精心设计和谋划；corruendi gradus 则将罪行等级转化为堕落的阶梯。他刻意安排了修辞反差，罪恶越高堕落越深。
+    - diaboli 是 diabolus（魔鬼）的单数属格；corruendi 是 corruere（倒塌、坠落、败坏）的动名词属格。
+- 第三章
+  - Sed, ut nobis videtur, valde praeposterum est, ut consuetudinaliter hac **purulenta contagione** ==foedati==, vel ==ad ordinem provehi==, vel ==in gradu persistere== audeant jam promoti. 依我看，惯常受这化脓疫病玷污的人竟敢求取圣秩，或在晋秩以后继续留任，实在本末倒置。
+    - 常规修辞。
+  - Hoc nempe flagitium inter caetera crimina non immerito deterrimum creditur; quandoquidem illud omnipotens Deus semper uno modo exosum habuisse legitur, et cum reliquis vitiis necdum per legale praeceptum frena posuerat, jam hoc ==districtae ultionis animadversione damnabat==. 这种丑行被视为诸罪中最恶劣的一种，自有缘由。按经上所载，全能的上帝始终憎恶此事，甚至在还未颁下律法约束别种恶习之时，便已严加惩处。
+    - 这里是他个人明确摆出对同性性行为的观点。
+  - In lege quoque dicitur: « ==**Qui dormierit cum masculo coitu femineo**==, ==**uterque**== operati sunt nefas, ==morte moriantur==; sanguis eorum sit super eos.3 » 律法也说：“男人若像与女人同房那样与男人同房，两人都做了可憎的事，必被处死，他们的血归在自己身上。”
+  - ==Quod autem ad ecclesiasticum ordinem promoveri non debeat, qui in illud crimen lapsus est, quod vetus lex praecipit morte damnari== 至于犯下旧律明令处死之罪的人不得晋升圣秩……
+  - Ecce hic aperte colligitur, ==quia quisquis vir cum viro labitur==, quod nimirum scelus, ut supra docuimus, per vetustae legis sententiam morte multatur, etiamsi honestis moribus polleat, si psalmodiae studio ferveat, si in amore orationis enitescat, et omnino religiosam vitam sub approbatae famae testimonio ducat; reatus quidem indulgentiam plene potest accipere, ad ecclesiasticum vero ordinem nequaquam permittitur aspirare. 由此明白可见，一个男人与另一个男人若犯下这种罪，既然如上所述，这罪依旧律应处死，那么即使他品行端正、热心咏唱圣咏、勤于祈祷，虔敬的生活也有公认的好名声，他固然可以获得完全的赦免，却绝不能获准求取圣秩。
+    - 他试图将此事提升为死罪，后续他还会接着搬出属灵子女关系来努力这么提升。
+  - Luce ergo clarius constat, ==quia quicunque dicto modo lapsus esse convincitur==, quod sine dubio ==mortale crimen== est, omnino contra sacrae legis normam, omnino contra divinae auctoritatis regulam ad ecclesiasticum ordinem promovetur. 所以这比白昼还分明，凡证实曾以上述方式失足的人，既然所犯无疑是死罪，晋升他进入圣秩，就全然违背神圣律法的准绳和上帝权威所立的规范。
+- 第四章
+  - Dum igitur ==**masculorum concubitoribus**==, ut ostensum est, lex illa sit posita, ut sacros ordines temerare non audeant, a quibus, rogo, lex ista servabitur, si ab his praecipue, quibus indicta est, contemnatur? 既然如上所示，那律法是为与男子同寝者立的，为使他们不敢亵犯圣秩，若连它特意约束的人也藐视它，我倒要问，还有谁会遵守？
+    - “fornicariis, masculorum concubitoribus, plagiariis, mendacibus, et perjuris”，他这里是在引用《弟茂德前书》1:10。
+    - 这里的 concubitoribus 是与格，表示律法所针对、所约束的对象。Damian 使用一个表示关系身份的名词，先用名词确定受规制的群体，再用这个群体对规范的态度质问整个规范秩序——到底能不能约束他们，因而准备进而强化约束条例，以及该行为严重程度在应当管束他们的人中的共识，而强化约束。
+- 第五章
+  - （引用使徒的话）similiter autem et masculi, ==relicto== naturali usu feminae, exarserunt in desideriis suis in invicem, ==**masculi in masculos**== ==turpitudinem operantes== 男人也舍弃与女人的自然交合，彼此欲火中烧，男人对男人行可耻之事
+    - 这里依然是典中之典的“不自然”论调。
+  - ut hi qui se hac ==perditissima sorde commaculant==, digna perculsi animadversione judicii, **tenebras caecitatis incurrant**. 以这种致命的污秽玷污自己的人，便遭到应得的惩处，陷入盲目的黑暗。
+    - 之前我们见到了 sordescure，这里里有 commaculare。
+    - 这里的黑暗比喻后文有相当多表述，后文我会摘录一段同时出现本章两个核心比喻的句子。
+  - Sodomitae ergo **ad angelos conantur violenter irrumpere**, cum ==immundi== homines ad Deum tentant per sacri ordinis officia propinquare. 所以，不洁的人企图凭圣秩的职务接近上帝，就像所多玛人企图强闯到天使面前。
+    - 别着急，这里的 Sodomitae 是复数主格，作为代称某类人的隐喻义 Sodomitae 还未出现。
+    - immundus，这里是
+  - **Sed hi profecto caecitate percutiuntur, quia justo Dei judicio in tenebras interiores cadunt; ita ut nec ostium invenire praevaleant, quia a Deo peccando divisi, unde ad eum revertuntur ignorant.** 他们被击打而失明，因为上帝公正地裁断，使他们跌入内在的黑暗，连门都找不到。他们犯罪离了上帝，也就不知道从哪里回到他那里。
+  - ==In reprobum ergo sensum traditi== sunt, quia dum reatus sui pondus in propriae mentis statera non trutinant, gravissimam plumbi massam, poenarum inanium levitatem putant. 所以，他们被交给了败坏的心思。他们在自己心里的秤上掂不出罪责有多重，竟把铅块般沉重的刑罚看作轻飘飘的东西。
+    - reprobus，败坏的、被弃的。
+  - 其他大量有关门和黑暗的叙述不再重复标注。
+  - Praesertim quis dolor, quis compassionis ardor pium istud pectus accenderet, si hanc ==peremptoriam pestem== grassari et in sacro ordine didicisset? 他若得知这致命的疫病连圣秩中的人也不放过，他那虔敬的心又会燃起多深的悲痛、多烈的怜悯？
+    - 常见比喻，后文还有更明确、力度更大的疾病比喻，也就是麻风病。
+    - 但是 peremptorius 一点都不常见。它指致命的、不可挽回的，用来强化疾病意象。
+  - ==Audiant desides clericorum, sacerdotumque rectores; audiant, et licet de suo securi sint, alieni reatus se esse participes pertimescant. Illi nimirum, qui ad corrigenda subditorum peccata connivent, et inconsiderato silentio subditis peccandi licentiam praebent.== 神职人员和司祭那些怠惰的长上，听着吧。你们纵然自觉无虞，也当害怕自己有分于别人的罪。我说的就是那些明知属下有罪该纠正，却睁一只眼闭一只眼，草率地保持沉默，放任他们犯罪的人。
+    - 哇他居然没用命令式，他可真有牧灵关怀（笑）。audio 本身的现在式不定式应该是 audīre，这里的 audiant 是它的现在时主动虚拟式第三人称复数（不定式的变位元音 ī 变为对应的虚拟元音 iā），具有命令性的用法。
+    - connivere 指睁一只眼闭一只眼、纵容。
+  - ==Audiant, inquam, et prudenter intelligant, quia omnes uniformiter digni sunt morte; videlicet non solum qui illa faciunt, sed et qui consentiunt facientibus.== 听着吧，你们要明白，你们一概该死，做这种事的人该死，赞同别人做的人也一样。
+- 第六章
+  - Sed, o ==scelus inauditum==! 啊，闻所未闻的罪！
+  - Si hi morte plectendi sunt, qui facientibus ista consentiunt, quod dignum illis poterit excogitari supplicium, qui cum suis spiritualibus filiis haec ==mala extrema damnatione punienda committunt==? 赞同那些作恶的人尚且该处死，那么与自己的灵性儿子做下这些应受极刑的恶事的人，又该受怎样相称的刑罚？
+  - **Quis jam in gregibus reperiri valeat fructus, cum pastor in ventrem diaboli tam profunda sit precipitatione demersus?** 牧者已经一头栽进魔鬼的肚腹深处，他的羊群哪里还能结出果实？
+  - Qui de ==**poenitente**== facit ==**pellicem**==, et quem spiritualiter Deo genuerat ==**filium**==, ferreo diabolicae tyrannidis imperio per suae carnis immunditiam subjungat ==**servum**==? 这样的人把告解者变成情人，又以自己肉身的污秽，把自己曾为上帝所生的灵性儿子交给魔鬼暴政的铁律去做奴仆。
+    - 其实这个翻译还是收敛了。paelex 使用第三变格法，这里的 pellicem 是它的单数宾格形式。paelex 不仅可以指女性姘妇，还存在指称男性性伴侣、男性娼妓的古典用例，例如苏埃托尼乌斯《十二凯撒传》关于凯撒与尼科美德的记载。
+    - 他虽然在道德上区分了“主动施害”和“被动受害”，但在纪律后果上，他仍然倾向于把两人一起扔进同一个“污秽”的筐里：“交给魔鬼暴政的铁律去做奴仆”，灵性儿子被“交给魔鬼”了。
+    - 当然在这里，主动施害者（神职人员）被赋予了一种极具压迫性的支配地位，Damian 华丽夸张的修辞也不能掩饰他看出来这种权力不对等了。
+  - Si mulierem quis ==violat==, quam de sacro fonte levavit, nunquid non absque ullo cunctationis obstaculo communione privandus esse decernitur, et sacrorum censura canonum per publicam peonitentiam transire jubetur? 一个人若侵犯了自己从洗礼池里扶起来的女人，难道还需要犹豫，才判定他不得领圣体，并依神圣教规公开行补赎礼吗？
+    - violat，violare 才是标准的形容性犯罪用词，他之前的那些我不知道是在干什么。
+  - Sequitur ergo, ut eadem sententia digne feriatur et qui ==**carnalem filiam**== ==perdidit==, et qui ==**spiritualem sacrilega**== ==commistione corrupit==; nisi forte in hoc utriusque criminis qualitas discernatur, quod uterque, licet incestuose, ==naturaliter tamen==, quia cum muliere peccavit; ille ==**autem sacrilegium commisit in filium**==, incestus crimen incurrit in masculum, ==naturae jura dissolvit==. 因此，毁了自己亲生女儿的人与亵渎地同自己的灵性儿子交合、败坏了他的人，理当受同一判决。倘要区别两种罪行的性质，前两种人虽犯乱伦，却是同女人犯的，还算合乎自然。此人却对灵性儿子犯下亵渎之罪，对男子犯下乱伦之罪，也毁坏了自然的法则。
+    - 这里我就不单独拆词了，总之，根据翻译结果，Damian 这里至少还是有“败坏他人”的概念的。
+  - Et, ut mihi videtur, ==tolerabilius== est cum pecude, quam cum viro in luxuriae ==flagitium labi==. 依我看，跟牲畜做下淫荡的丑事，比跟男子一同跌入这罪还稍可容忍。
+    - 他在这里采用的是一种以性别、对象和自然秩序为中心的等级判断。前面他能够强调主教对灵性儿子的支配关系，但到了行为性质比较时，男子之间的行为又因为违反自然秩序而被判定为更加严重。
+    - 后续他还有更进一步的有关亵圣性质的讨论。
+  - Quanto videlicet levius judicatur quemlibet solum ==perire==, quam secum quoque alium ==ad interitus perniciem trahere==. 这就像一个人独自灭亡，比把另一个人也一同拖向毁灭，判得要轻。
+    - 它至少在叙事结构上保留了主动者与被卷入者的差异。
+    - 所以这里我不能直接确定他到底是认为“亵渎灵性儿子”的人和灵性儿子都是同一意义上的“毁灭”，还是认为这是两种不太一样的——当然按照我对他那时的性观念，我倾向于认为……我引用他那时和之后的教会法吧：
+      - 首先是他自己也引用了的巴西流。“He who is guilty of unseemliness with males will be under discipline for the same time as adulterers.”即与男性发生可耻性行为的人，接受与通奸者相同期限的纪律处分。以及第十五章。
+      - 之后是他的教宗给他的回信，只主张对于长期实施、与多人实施，或者涉及肛交的人不能恢复圣秩。
+      - 然后是对比阅读，考虑到他对此事的不自然+污秽性质的反复强调，以及他本人离谱的精神状态和强硬主张，我难以直接在这里说“我们可以根据当时教会法对被性侵的女性的态度，以及他对这类教会法的默认与本文中对同性性交的法律拓展，推断出他对被性侵的男性可能也持类似态度”。我会放上相关法律，如 Ivo of Chartres，《Decretum》中的 “Eos qui rapiunt mulieres sub nomine simul habitandi, cooperantes autem et conniventes raptoribus...”参与掳掠、协助掳掠者的人，也会受到处分；如果是神职人员，则降黜。“Et si ipsa eidem crimini consentiens non fuit, licentia nubendi alii non negetur.”如果女性并未同意参与该罪行，就不应剥夺她另行结婚的许可。其中收录的教父文本讨论强迫性交是否会使女性丧失贞洁身份。相关规范强调受害者的意愿和精神状态，而不是单纯以身体是否受到侵犯判断其身份。
+    - 那么我们的 Damian 在干什么呢？当面对男性之间的性行为或神职人员体系内部的复杂权力依附时，他完全没有引入这种基于受害者意愿的细微辨析，他只引入了针对“犯罪者”意愿的有罪推定（第八章）。在他的笔下，所有被卷入其中的人都被统合进了一个庞大的、因污染圣洁而必须被彻底清除、甚至被要求处以严厉肉体/世俗惩罚的审判逻辑中。他并不关注“被侵蚀的年轻人是否是无辜的受害者”，他只关心这种罪行对整个教会肌体造成的“系统性污染”。
+    - 另外我还要声明，即使我们总是给他放在格里高利改革的话语下谈论，但他在奴役或极端严厉惩治相关涉案人员的问题上，往往是一个极端且孤立的声音。就像之前 C 部分里提到的他的“道德资本”那样（虽然这一资本多亏了他虽然极端但不孤立了）。
+- 第七章
+  - （标题）De illis, qui eisdem, ==**cum quibus lapsi sunt**==, sua crimina confitentur. 论向一同失足的人告解自己的罪。
+    - 这里他似乎也没区分会不会有一个人要求另一个人向自己告解以保密、防止被追责的情况——但是他确实发现了告解保密原则会让“追责”与惩罚变得困难。
+  - Sed **legis praeceptum** est, ut cum quis lepra perfunditur, sacerdotibus ostendatur; tunc autem non sacerdotibus sed leproso potius ostenditur, cum ==immundus immundo== peractam communem nequitiam confitetur. 律法规定，染上麻风的人要给司祭察看。可一个不洁的人向另一个不洁的人告解两人一起做下的恶事，倒成了给麻风病人看，没给司祭看。
+    - 很漂亮的修辞。
+  - Sed cum confessio utique manifestatio sit, quid, obsecro, manifestat, qui audienti cognitum narrat, aut quo pacto confessio illa dicenda est, ubi nihil a confitente manifestatur, nisi quod jampridem ab audiente cognoscitur? 告解原是把事情说出来。我倒要问，他把听者已经知道的事再说一遍，究竟揭开了什么？告解者说的全是听者早就知道的事，又怎能叫作告解？
+  - Et qui **sociali vinculo peractae iniquitatis astringitur**, qua lege, quo jure alterum poterit ligare vel solvere? 一个人自己还被共同作恶的绳索捆着，凭什么法律、什么权利，能捆绑或释放另一个人？
+    - 这里就是他在质疑法律实施的条件了。以及针对有权力者利用它逃避惩罚的质疑。
+- 第八章
+  - （标题）Quod sicut sacrilegus virginis ==violator==, ita quoque filii spiritualis ==prostitutor== jure sit deponendus. 亵渎地侵犯贞女的人既该褫职，败坏灵性儿子的人也一样。
+  - Hac tamen, ut dictum est, diversitate servata, quia hoc tanto perpenditur esse deterius, quanto per identitatem sexuum naturae probatur adversum, ==et tum in judicandis excessibus jure ad delinquentis semper recurratur arbitrium==, qui masculina femora polluit, si natura permitteret, quidquid in mulieribus agitur, totum in masculo per effrenatae libidinis insaniam perpetraret, fecit quod potuit: ad haec usque perveniens quae natura negavit, et illic invitus metam criminis fixit, ubi naturae necessitas intransmeabilem facultatis terminum collocavit. 不过，还须顾及前面说的区别。同一性别被认为有违自然，此事就按这个尺度被看作更坏。既然裁断过犯时，理当总去追问犯罪者的意愿，那么玷污男子大腿的人，只要自然允许，便会因无节制的欲火发狂，把在女人身上做的事全在男子身上做一遍。他已经把能做的全做了，一直做到自然不许的地方。自然的必然性给他的能力划下无法越过的界限，他才不情愿地在那儿住手。
+  - Et ut ad ==sacros, id est, exsecrabiles== confessores adhuc se disputationis sermo retorqueat: si quilibet canonicus presbyter cum muliere cecidit, cui poenitentiae judicium vel semel indixit, a nemine prorsus ambigitur, quin synodalis censura judicii degradetur; si autem religiosus cum religioso labitur, cui videlicet vel in danda poenitentia judex exstitit, vel in accipiendo judicatus fuit, nunquid non dictante justitia sui ordinis honore carebit? 说回那些神圣的，我是说，该咒诅的告解司祭。任一按教规任职的司祭，若同自己哪怕只判过一次补赎的女人失足，任谁都知道，他会经教会会议裁断而遭降黜。那么，献身修道的人若与另一名献身者失足，而他曾裁定对方该做什么补赎，或曾由对方裁定自己的补赎，按公道难道不也该失去圣秩的尊荣吗？
+  - am ergo si superius dicta subtiliter attenduntur, luce clarius constat, ==quia ejusdem criminis reus est==, et qui cum carnali, vel baptismatis filia ==fornicatur==; et is, qui cum filio poenitentiae turpitudinem operatur. 细看前面所说，就比白昼还清楚，与亲生女儿或洗礼中的女儿行淫的人，同与补赎之子做羞耻之事的人，犯的是同一种罪。
+  - Et sicut is, qui cum ea lapsus est, quam carnaliter genuit, vel quam de baptismo ==suscepit==, vel cui poenitentiae judicium ==posuit==; ita etiam qui cum filio poenitentiae ==per immunditiam labitur==, justum est ab eo cujus administrator est ordine omnimodis segregetur. 一个人若跟自己亲生的女儿、在洗礼中领受为女儿的人，或自己曾裁定其补赎的女人失足，便应撤去他的职务。同样，若有人与补赎之子因污秽之事失足，也理当将他彻底逐出自己供职的品级。
+    - Damian 试图证明，补赎关系可以构成一种类似洗礼亲属的关系，以让不论何种对象的性侵行为都被纳入类似乱伦的重罪。
+- 第十章-第十二章中他在决定哪些文本能够成为纪律依据的权力。请注意，有些既符合他的权威来源要求，又宽松，还不自相矛盾的文本，他压根没提。
+  - 有效教规必须具有正当的颁布来源。被争议的条文既不能归于公会议，也不能可靠地归于教宗法令。不同抄本对其作者和题名的记载又互相冲突。因而这些条文不具备他所要求的教规权威。
+- 第十三章
+  - De his qui ==irrationabiliter== versati sunt, sive versantur: quotquot ante vigesimum annum tale crimen commiserunt, quindecim annis exactis in poenitentia, communionem mereantur orationum; deinde quinquennio in hac communione durantes, tunc demum oblationis sacramenta contingant. 论那些行事违背理性秩序、或如今仍如此行事的人：凡在二十岁以前犯下此罪者，在做满十五年补赎之后，方可获准参与祈祷的共融；在此共融之中再守五年，然后才可领受圣体圣事。（冒号后是他赞同的已有法律的引文。）
+    - 这里又可以着重分析了：irrationabiliter，副词，形容词原形是 irrationabilis。它指“不合乎理性地，违背合理秩序地”。
+    - 这段规定来自安居拉会议的相关教规。 在教规传承中，它已经被具体落实为两类行为，即与牲畜交合和与男子发生被称为玷污的行为。这里 Damian 继承了这套语言。
+  - Ecce in ipso hujus venerandae auctoritatis titulo manifeste perpendimus, quia non solum hi, qui consummato actu ==contra naturam== ==delinquunt==; sed et hi, qui ==**quolibet ingenio cum masculis polluuntur**==, ==concubitoribus pecorum per omnia comparantur==. 看，在这可敬权威的标题本身里，我们便已清楚看出：不但那些以完成的行为逆性犯罪的人，而且凡以任何方式与男子同被玷污的人，都在一切方面被等同于与牲畜交合之辈。
+    - 他认为，教规不仅包括完成了逆性行为的人，还包括“任何方式与男子发生这种玷污的人”。他的意思在下文我整段标注的地方。
+  - ==Nam si per hoc, quod dicitur, qui cum masculis polluuntur, eos tantummodo, qui consummato actu contra naturam peccant, exprimere voluisset, nequaquam ei necesse fuisset duo verba proponere, qui cum solo eo, quod est, miscentur, potuisset suae intentionis dicta complere.== 因为“与男子同被玷污”一语，若只想指那些以完成的行为逆性犯罪的人，就根本不必摆出两个词——单用“交合”，便足以把他的意思说全。
+  - ==Miscentur== enim uno modo et hi, qui pecora, et hi, qui masculos ==violant==. 因为侵犯牲畜的人与侵犯男子的人，交合的方式原是同一种。
+    - miscentur，misceor 的现在时被动形式。
+  - ==Sed eum alios misceri pecoribus, alios non misceri, sed pollui cum masculis dicat; patet profecto, quia in fine commatis non de corruptoribus tantummodo masculorum, sed et de quolibet modo pollutoribus sententiam proferat.== 然而他说有人与牲畜交合，有人并不交合、只是与男子同被玷污；这就明白显出，句末所下的判语，不只针对败坏男子的人，也针对以任何方式被玷污的人。
+    - 他从两个不同动词的选择，推出规范的涵盖范围。这里的 pollutoribus 是主动施事名词，而前面被他反复引用的 polluuntur 是被动形式。
+    - aliquo misceri 在这里是性交语境中的表达。
+    - corruptoribus，施害者的名词
+    - pollutoribus，造成玷污者的名词。他前面依据被动式 polluuntur 扩大教规适用范围，后面用具有施事意味的名词来概括这一范围。
+    - 最后一句我还以为翻译错了呢。
+      - non ... tantummodo ... sed et ...：不只是……而且还……
+      - de corruptoribus masculorum：关于败坏男子的人。
+      - de quolibet modo pollutoribus：关于以任何方式造成玷污的人。
+      - sententiam proferat：作出判决、提出裁断。
+      - corruptoribus 和 pollutoribus 都是阳性复数夺格，受介词 de 支配，都是施事者指称。corruptoribus 来自 corrumpere，强调败坏、腐化。pollutoribus 来自 polluere，强调玷污、污染。
+    - Damian 前面刚刚花了相当大的篇幅证明misceri 指向交合行为，而pollui 涵盖不同于交合的其他玷污方式，因而教规不应仅仅适用于完成了特定性交行为的人。但到最后，他却把此前作为被动状态描述的 pollui，转成了指称行为施事者的 pollutores。
+    - 前半部分，既然用的是“被玷污”，那就意味着无论你在这场关系里是主动还是被动、是用什么方式卷入，只要沾了边，都在打击范围之内。后半部分，他悄悄把形容受害者/被动卷入者的状态（被玷污），或至少是中性的，形容生理或属灵状态的词，偷换成了具有主观施事意味的“造成玷污者”。他成功地让所有被卷入该行为的人，在法律定性上全部变成了“污染源”与“败坏者”。被动卷入与主动施害之间的差异，在他的论证中没有获得相应的法律分类空间。尽管后续我们能看到，这一差异在教会法中有分类传统，比如他引用证明自己揭露有理的奥古斯丁，《上帝之城》卷一第18-19节，卢克丽霞案和被强暴的守贞处女——他人淫欲的污染，若以暴力加之，并不玷污心灵；比如前文我们提到的 Ivo of Chartres，《Decretum》；而他本人在其他地方也有分类意识，比如第六章他能够在道德叙事中识别主动支配者与被支配者的差异，再比如 Liber Gratissimus 中对由买卖圣职的司铎晋铎的人根据其知情与否区别其性质。
+  - Si ille qui minus peccavit, ut puta per latum saeculi iter incedens, indignus est coelestis Eucharistiae munus ore percipere; qualiter iste merebitur tam terribile mysterium ==pollutis== manibus contrectare? 前者罪过较轻，毕竟走的是世俗的宽路，尚且不配用口领受天上圣体的恩赐；后者又怎配用污秽的手去触碰如此可畏的奥迹？
+- 第十四章
+  - （标题）De his qui in pecudes, vel in masculos aut olim ==polluti== sunt, aut hactenus hoc vitio tabescunt. 论那些曾与牲畜或男子同被玷污、或至今仍为此恶习所耗损的人。
+  - ==Plane dum non dicit, qui lepra injusti criminis alios corruperunt, sed polluerunt, quod etiam cum ipsius tituli praefatione concordat, ubi non de corruptis sed de pollutis exorsum est; liquet profecto, quia quocunque modo per ardorem libidinis vir cum viro polluitur, non inter catholicos Christianos, sed inter daemoniacos orare praecipitur; quatenus si carnales homines ex semetipsis nesciunt pensare quod sunt, ab ipsis saltem valeant edoceri, cum quibus sunt communi orationis ergastulo deputati.== 这里不说“以不义之罪的麻疯败坏他人”，而说“玷污”，这与标题的用语也相合——那里所起的题目，说的不是被败坏的人，而是被玷污的人。由此可见：男子无论以何种方式出于欲火而与另一男子同被玷污，他所被吩咐与之同祷的，不是公教基督徒，而是被鬼附着的人；这样，肉欲之人若自己不知斟酌自己究竟是什么，至少可以由那些与他同被安置在祈祷囚所中的人受到教导。
+  - **Et certe satis dignum est, ut qui contra legem naturae, contra humanae rationis ordinem, carnem suam per tam foeda commercia daemonibus tradunt, communem orationis angulum cum daemoniacis sortiantur.** 这实在十分相宜：凡违背自然律、违背人类理性的秩序，以如此污秽的交易把肉身交给魔鬼的人，理应与被鬼附着的人共分一处祈祷的角落。
+  - Nam cum vir in virum ==ad perpetrandam immunditiam irruit==, non est ille naturalis impetus carnis, sed tantum diabolicae stimulus impulsionis. 因为一个男子向另一个男子扑去行这污秽之事，那驱力并不是肉身的天然冲动，而只是魔鬼的刺戳。
+    - 他把性行为从违反自然秩序进一步解释成了魔鬼直接介入的结果。
+    - 这下他综合了伦理学、恶魔学、自然学等学科，成功给即将定名的 Sodomita 送进了神学帽子工厂。
+  - Vigilanter ergo sancti Patres ==**Sodomitas**== cum energumenis simul orare sanxerunt, quos eodem diabolico spiritu invasos esse non dubitaverunt. 因此，圣教父们警醒地规定：所多玛人须与被鬼附的人一同祈祷，因为他们确信这些人被同一个魔鬼的灵所侵。
+    - Sodomitas，复数宾格。
+- 第十五章
+  - ==Clericus==, vel ==**monachus adolescentum**==, vel ==**parvulorum**== ==insectator==, vel qui osculo, vel qui aliqua occasione turpi deprehensus fuerit, publice verberetur, et coronam amittat, decalvatusque turpiter sputamentis obliniatur in facie, vinculisque arctatus ferreis, carcerali sex mensibus angustia maceretur, et triduo per hebdomadas singulas ex pane hordeaceo ad vesperam feriatur; post haec aliis sex mensibus sub senioris spiritualis custodia, segregata in curticula degens, operi manuum et orationi sit intentus, vigiliis et orationibus subjectus, et sub custodia semper duorum spiritualium fratrum ambulet, nulla prava locutione, vel concilio deinceps juvenibus conjungendus. 凡诱骗少年或幼童的司祭或修士，或因接吻、或因其他可耻的场合而被拿获的，当众受鞭笞，并失去其教士的剃发；剃去头发之后，还要被人唾面羞辱，以铁链锁缚，在牢中受六个月的幽闭之苦，每星期有三天只以粗麦饼供其傍晚充饥；此后六个月，须居于一处僻静的小院，受一位属灵长者的看管，专心手工与祈祷，守夜祷告，且时时由两位属灵弟兄随行监护，此后不得再与少年结交，也不得作任何邪恶的谈话或商议。
+    - 另外他真的很喜欢拘禁某类人/概念以及让他们当奴隶（笑）：哲学-philosophia ancilla theologiae；被性侵的属灵儿子-情妇兼魔鬼的奴隶；肉欲之人-与被魔鬼附身者共同祈祷；被认定为污染者-关进 ergastulum；神父的妻子-送进拉特朗宫当 ancilla。ancilla、servus、pellex、ergastulum。家内依附、性关系从属、奴役与拘禁构成的词汇群。作为囚禁意象爱好者，我从美学上挺喜欢他的。
+  - Quod si osculum tam austerae ultionis supplicio plectitur, ipsa cum alio contaminatio quid meretur? 若连一个接吻都要受如此严厉的报复之刑，那么与另一人实际的玷污又当如何？
+  - Cum ergo hujus peccati obnoxium non solum duram, sed et publicam poenitentiam B. Basilius subire praecipiat, poenitentem vero clericatus ordinem obtinere Siricius interdicat; manifeste colligitur, ==quia qui foeda cum masculo libidinosae immunditiae sorde polluitur, ecclesiasticis fungi officiis non meretur; nec idonei sunt divinum tractare mysterium, qui, ut dicitur, dudum fuerant vasa vitiorum.== 因此，巴西流吩咐犯此罪的人须受不仅严厉、而且公开的补赎礼，西里修又禁止补赎者取得神职；由此可见：凡与男子行此污秽淫乱之事而被玷污的，都不配担任教会的职分；那些“曾是恶习之器”的人，也不配去操持神圣的奥迹。
+
+综上，他的严厉是全方位的，不仅对不加监管、处理的上级，还对任何他认为“不洁”的人，这也让他将 Sodomita 的定义扩大到了任何发生“不自然”或“不理性”性行为的人，不论其是否知情或自愿，也不论次数，只看最后是否有完成这一行为（典例如 onanism）。
+
+第十章被他整体驳回的伪托教规里有“si puer, duos annos”（若是男孩，两年），给男孩定了比成年人轻的补赎。他驳回整段文本的理由全是权威来源和内部矛盾，从未评论过这一行。第十五章整体也是在炮轰“引诱”少年或幼童的人，并给出刑罚建议与理由。他整体性地回避了“被侵害”“被引诱”者是什么样的，在此一个比较温和的解释是，他本文主要针对的是权力上位者，所以主要分析的也是他们，而本文确实也相对同时代文本更加聚焦于不履行职责管理、滥用权力的上级人员并要求同等、或着重触发他们。一个不那么温和的解释是，他在这里不认为有区分的必要。Damian 并非没有自由意志、个人责任和行为差异这些判断资源；但他没有在这篇论著中将这些资源充分发展为对受害者、被迫参与者与主动加害者的系统区分，我并不是说他从来没有区分过，马上我们就能看到。
+
+同时，他对属灵儿子的处理还揭示了另一个问题：达米安在解释主教为何罪责更重时，特别强调属灵父子关系受到侵犯，以及一人将另一人拖入毁灭。这是他认识权力关系特殊性的证据，但他的论证重心仍是神职、圣秩和灵魂得救，同时注意他的措辞，“一人将另一人拖入毁灭”，结合第六章他对权力滥用后果的形容，他对性犯罪和纯洁相当“结果主义”，只要你曾经施事、参与，你具备行为事实及其造成的污秽状态，你就有罪。听着耳熟？当然，他所在的改革圈子还就 simony 引发的多纳图问题吵架来着，我们可以看看他的 Letter 40，或者说，Liber Gratissimus。
+
+L40 与 L31 的写作间隔只有三年（主体写作于 1052 年夏，后续 1061 年有增补）。在 L40，受职者的知情与否直接决定归责：
+
+> CAPUT XXXV. Quid de his, qui gratis a Simoniacis sunt promoti, tandem Leo papa statuerit.
+>
+> Verumtamen et hoc otiosum esse non credimus, si quid super hoc negotio idem venerabilis Leo papa statuerit, exponamus. Nam cum omnes Simoniacorum ordinationes synodalis vigoris auctoritate cassasset, protinus a Romanorum multitudine sacerdotum magnae seditionis tumultus exortus est, ita ut non solum ab ipsis, sed a plerisque diceretur episcopis, omnes pene basilicas sacerdotalibus officiis destitutas, et praecipue missarum solemnia ad subversionem Christianae religionis et desperationem omnium circumquaque fidelium funditus omittenda. Quid plura? Post longa sane disceptationum hinc inde volumina, tandem suggestum est, reverendae memoriae nuper ejusdem sedis episcopum decrevisse Clementem: Ut quicunque a Simoniaco consecratus esset, in ipso ordinationis suae tempore non ignorans Simoniacum cui se obtulerat promovendum, quadraginta nunc dierum poenitentiam ageret, et sic in accepti ordinis officio ministraret. Quam nimirum sententiam protinus venerabilis Leo ratam percensuit, et sub hujusmodi poenitentia omnes in acceptis officiis de caetero perseverare mandavit. Nam et nonnullos hodieque conspicitis, qui dum a talibus per diversos gradus fuerant ordinati, ab eodem summo pontifice ad episcopatus apicem sunt provecti. Nec id perperam, quia cum canonica decernat auctoritas:« Ut quicunque per pecuniam sacram obtinuerit dignitatem, dejiciatur ipse, et ordinator ejus; » patet procul dubio, quia simoniace ordinatum, ordinatoremque condemnans, hic protinus judicii metam fixit: nec sententiae calculum in eum quoque, qui ab hujusmodi promoveri potuisset, extendit. Nam si canonis hujus auctor provectum quemlibet a Simoniaco dejiciendum duceret, ipsum ordinatoremque illius notans, consequenter etiam de his, qui ab eo promoveri poterant, non taceret ut nimirum diceret: Dejiciatur ipse et ordinator ejus, ac praesto subjungeret: « Et quicunque fuerit ordinatus ab eo; » quod profecto quia non dixit, nec nobis etiam sentiendum esse signavit.
+> 我们以为，也值得说说这位可敬的教宗良对这件事作了什么裁定。他曾以教会会议的权威宣布买卖圣职者所授的圣秩一概无效，罗马众多司祭立即掀起轩然大波。不仅他们，连不少主教也说，几乎所有大殿都无人履行司祭职务，尤其是弥撒礼仪势必全然中断，基督宗教将因此倾覆，周边所有信徒也会陷入绝望。不必多言，双方反复争论了许久，最后有人指出，先前执掌同一教座、令人景仰的已故克勉曾规定，凡由买卖圣职者祝圣、在接受授秩时明知自己求其擢升的人买卖圣职的，现在应做四十天补赎，然后按所领圣秩供职。可敬的良当即认定这一裁决有效，命所有人在做过这样的补赎后继续履行原有职务。直到今天，你们还看到有些人先前由那样的人授予各级圣秩，后来又由这位最高教宗擢升到主教的高位。这并无不妥。权威的教规规定：“凡以金钱取得神圣职分的，本人和给他授秩的人都要革职。”可见，教规谴责以买卖取得圣秩者和给他授秩的人，裁判的界限也就到此为止，并未将定罪的裁断扩大到后来由这类人擢升的人身上。如果这条教规的制定者认为，由买卖圣职者擢升的任何人也应革职，那么他既点明当事人和给他授秩的人，自然也不会不提当事人所擢升的人。他会说“本人和给他授秩的人都要革职”，紧接着加上“以及凡由他授秩的人”。他既没有这样说，就是表明我们也不该这样想。
+>
+> CAPUT XIX. Quod saepe sinistra principia ad felices proveniunt exitus.
+>
+> Quid denique officiat Simoniacus, si ordinandis manus imponat, cum neque id quod habetur, auferre, neque quod divinitus augetur, praevalet inhibere? Illud siquidem coelestis gratiae munus non de marsupio extrinsecus satagentis, sed de thesauro profertur invisibiliter praesidentis. Nam etsi fur sit ille qui seminat; terra tamen, auctore Deo, vires germinandis frugibus administrat.
+> 买卖圣职的人给受秩者覆手，究竟能造成什么损害呢？他不能夺走对方已有的恩赐，也不能阻止天主增添恩赐。这天上的恩典不是从在外操劳者的钱袋里掏出的，而是从那位在暗中主持者的宝库中取出的。
+
+而在 L31，灵性儿子是否同意、是否知情，他根本不问。他在 L31 第 22 章对无知隐修士承认过一次无知可宽恕，但那是单独行为，不是双方关系中的受支配方，而且他只是口头说“如果有谁可以被宽恕那就是他”，这个隐修士也下地狱了。
+
+同时，L40 中施行者的状态一概不影响圣事效力，更不会影响受领者。但是 L31 他明确认为施行者的污染与堕落会影响受领者。
+
+L40 中他将圣事的效力与施行者的个人品行区分开来。如第九章援引奥古斯丁和帕斯卡修斯，指出洗礼与感恩祭不会因为司祭善良而变得更好，也不会因为司祭邪恶而变得更坏，授秩的效力也不取决于施授者或受领者的个人功德。
+
+> Ille itaque perpetrati sceleris supplicium luat, dummodo me alieni reatus praejudicium non involvat, nec alterius me exhibeat culpa damnabilem, quem propriae innocentiae puritas reddit immunem.
+>
+> 让他承受自己所犯罪行的惩罚，只要别把别人的罪责强加于我。既然我的清白使我免于罪责，就不该因他人的过失而被定罪。
+
+第十二章则直接使用了与 L31 相似的疾病和污染词汇：
+
+> Cujuscunque ergo criminis reus exstiterit ille, qui consecrat [...] ipse quidem pollutus est, et lethali procul dubio lepra perfusus: sed donum Dei, quod per illum transit, nullius labe polluitur, nullius contagione foedatur.
+>
+> 无论施行祝圣的人犯了什么罪，他自己确实污秽不堪，遍体染着致命的癞病。但藉他传递的天主恩赐不会沾上任何污点，也不会受任何感染。
+
+这里他明确拒绝让施行者的污秽传递给天主的恩赐。第十五章又从圣职的公共性质出发，强调神职人员所得的恩宠是为整个教会共同使用的，因此应当考虑恩宠为了谁而赐，而非仅仅考虑施行者的品行。
+
+他还明确区分了知情参与者与无辜受牵连者。第十七章反对将授秩者的罪责归于完全不知交易情形的受领者：
+
+> Cur ergo vana hominum temeritas jactat, quod innocentis munditiam aliena valeant foedare contagia: et eos negotiatorum crimen obruat, qui contractum penitus negotiationis ignorant [...]?
+>
+> 有人冒失地宣称，他人的污秽能玷污无辜者的洁净，经手买卖的人所犯的罪能连累对交易毫不知情的人。这是为什么？
+
+第二十六章进一步把这一点发展成明确的司法原则：
+
+> Dura certe sententia, et indiscreti examinis prorsus inhumana censura [...] Ubi enim non est admissum crimen, cur inferatur poenale supplicium? Ubi non est reatus, cur innocens exhibeatur ut reus?
+>
+> 这裁决实在严酷，这样不加分辨的审断实在无人道。既没有犯罪，何须加以刑罚？既没有罪责，何以把无辜者当成罪人？
+
+他随后引用《厄则克耳书》关于父子各自承担罪责的经文，谴责让无辜者为他人的罪行受罚。第三十五章则记述了另一种情形：明知授秩者买卖圣职、仍向其求取圣秩的人，依教宗克勉的先例，须做四十天补赎，随后可以继续供职。Damian 并未将这类知情受领者与完全不知情者等同处理，这说明他知道知情和不知情应当如何分开讨论。
+
+第十八章提供了一个相当值得与 L31 对照的案例。达米安记载，菲耶索莱主教赖姆巴尔杜斯不仅通过金钱取得主教职位，授秩和祝圣教堂时也几乎从不免费，而且公开与一名女子同居，待她如妻子，两人还有子女。然而，达米安随后讲述了一次据称经由这位主教完成的驱魔：一名被魔附身的女子先后被带到教堂和圣罗穆卢斯的祭坛前，附身的魔鬼最终声称只有赖姆巴尔杜斯主教到场才肯离开；主教到来后，呼求基督之名，将魔鬼逐出女子身体。
+
+这位主教简直就是 L31 重点批评的几类人之一的代表。L31 第十九、二十章强调，罪恶司祭的代祷与祭献可能不蒙上帝悦纳，甚至使他成为羊群毁灭的原因。而这里，魔鬼点名让他赶走自己。L40 的论证并不需要证明这位主教无罪，但是 L31 也不需要，而两篇文本对这位主教的圣事到底什么样给出了截然相反的判断，一个是仍然有效而神圣，一个是会带着所有人一起死。
+
+接下来回到 L31 第六、八章的问题。Damian 在那里认识到属灵父子关系中的权力差异，将属灵父亲描述为使告解者沦为姘妇、使属灵儿子沦为奴仆的人，但他没有进一步系统讨论属灵儿子是否知情、是否同意，以及是否应因被迫参与而免于罪责。相比之下，L40 已经清楚表明，他具备区分个人罪责与他人过错、保护无辜受牵连者的判断资源，而且能够据此批评不加分辨的惩罚。注意 CAPUT XXVI 的措辞：“Dura certe sententia, et indiscreti examinis prorsus inhumana censura: ut quos conscientia reddit innocuos illata redarguat poena plectendos, et in eos severitas judicialis extendatur, quos praesumpti piaculi temeritas non accusat. Ubi enim non est admissum crimen, cur inferatur poenale supplicium? ”这就是 L31 第六、八章里他本可以说却没说的话。所以“他的神学框架不允许‘被伤害者’作为独立范畴”可以从我的解释中排除了。
+
+L40 作为正统的多纳图问题辩论，他坚持了奥古斯丁的传统；而在 L31 里，正如我多次提及的那样，只要施事者处于“被污染”的状态，他的祭献就是不被悦纳甚至可能引发更多人的毁灭的，更有甚者，他可能有这些人已经施行的圣事无效的倾向。我引用他的原文：
+
+> 第二十二章：
+>
+> Et, ut breviter cuncta concludam, quisquis quolibet eorum modo, quos supra distinximus, nefandae turpitudinis se contagione foedaverit, nisi fructuosae poenitentiae fuerit satisfactione purgatus, nunquam habere Dei gratiam poterit, nunquam Christi corpore et sanguine dignus erit, nunquam coelestis patriae limen intrabit, quod apostolus Joannes in Apocalypsi manifeste declarat, qui dum de coelestis regni gloria loqueretur, addidit, dicens: « Non intrabit in illam aliquis coinquinatus, et faciens abominationem.»
+> 一言以蔽之：凡以我们所分辨的上述任何一种方式，被这可憎无耻之污秽所沾染的人，若不曾以有果效的补赎赎净自己，就永远不能得着上帝的恩宠，永远不配领受基督的身体和血，永远不能进入天上祖国的门槛；这是使徒约翰在《启示录》中明说的，他讲到天上国度的荣耀时加上说：“凡不洁净的，并那行可憎之事的，总不得进去。”
+
+可以看到，他处理不配的司铎所行圣事是否有效的方法是……呃……哈哈，如果说这里他在说不行圣事者在教会内的地位（如果他还没成功让他们都滚出去），那我还有一段：
+
+> 第二十五章：
+>
+> Sane si me ratum ducis corripientem corripere, et ut ita loquar, praesumptoriae argutionis arguere, cur non Hieronymum corripis qui contra diversas haereticorum sectas tam mordaciter disputat?
+> 当然，你若认为我责备人反倒该受责备，若说我这番斥责是僭妄的争辩而该受指责，那你为何不责备耶柔米？他以极尖刻的言语与各种异端教派争辩。
+>
+> Cur non Ambrosium laceras, qui in Arianos publice concionatur?
+> 你为何不撕咬安波罗修？他公开向亚流派讲道。
+>
+> Cur non et Augustinum, qui in Manichaeos atque Donatistas tam austerus litigator invehitur?
+> 你为何不也责怪奥古斯丁？他对摩尼教徒和多纳徒派是如此严厉的论辩者。
+>
+> Dicis mihi: Jure illi, quia contra haereticos, contra blasphemos; tu autem non times carpere Christianos.
+> 你对我说：他们有理，因为他们反对的是异端、是亵渎者；而你竟敢撕裂基督徒。
+
+哦原来他记得有奥古斯丁这么个人啊。不好意思，摘错了，应该是这个：
+
+> 第十九章：
+>
+> Qui ergo adhuc desideriis terrenis astringitur, caveat, ne districti iram Judicis gravius accendens, dum loco delectatur gloriae, fiat subditis auctor ruinae.
+> 凡仍被世俗欲望捆住的人，该当小心：不要一面享受着尊位的荣耀，一面更重地激怒那严严审判的主，反倒成了属下败亡的祸首。
+>
+> 第二十章：
+>
+> Et cum extenderitis manus vestras, avertam oculos meos a vobis: et cum multiplicaveritis orationem, non exaudiam; manus enim vestrae sanguine plenae sunt.2 » Animadvertitis igitur, quia licet omnia vitiorum mala divinae correptionis sententia communiter feriat, in principes tamen Sodomorum, et populum Gomorrhae principaliter jaculata descendat; ut si humanae attestationi credere fortasse dissimulat, quam sit hoc mortale vitium, divino saltem testimonio, litigiosorum temeritas acquiescat.
+> 你们举手祷告，我必掩眼不看；你们多多祈祷，我也不听，因为你们的手满了血。”可见，虽然神圣斥责的判语泛然击打万恶之恶，但它主要是向所多玛的官长和蛾摩拉的百姓投去的；这样，人若不屑相信人的见证，不肯承认这恶习是何等致命，至少该在上帝的见证前止住那好争辩者的轻率。
+>
+> Si autem ab aliquo nobis opponatur, quod in prophetica locutione subjungitur: « Manus, inquit, vestrae sanguine plenae sunt; » ut videlicet in divinae inventionis oraculo magis homicidium quam carnis immunditiam velit intelligi, noverit in divinis eloquiis omnia peccata sanguinem nuncupari; David attestante, qui ait: « Libera me de sanguinibus, Deus, Deus salutis meae.3 » Verumtamen si et hujus vitii naturam studeamus solerter inspicere et physicorum dicta ad memoriam revocare, invenimus seminis fluxum ex sanguinis origine procreatum.
+> 若有人拿先知话里紧接的一句来反驳我们：“你们的手满了血”，以为在上帝所启示的神谕中，他要人领会的与其说是肉体的不洁，不如说是杀人，那么他该知道：在上帝的言语里，一切罪都称作血；大卫可为见证，他说：“上帝啊，拯救我的上帝啊，求你救我脱离流血之罪。”然而，如果我们仔细考察这恶习的本性，并回想自然学者的说法，就会发现精液的流出本是由血而生。
+>
+> Sicut enim agitatione ventorum aqua maris in spumam convertitur, ita contrectatione genitalium sanguis in humorem seminis excitatur.
+> 因为正如海水被风搅动而化为泡沫，血也因抚弄生殖器官而被激起，变为精液。
+>
+> ……
+>
+> Sed quia diu disputando ad hoc usque pervenimus, ut et ipsum Dominum immundorum sacrificia reprobantem, et contestatorie prohibentem liquido monstraremus: quid nos peccatores miramur, si ab his in nostra admonitione contemnimur?
+> 但我们既然借着长久的辩论，已经清楚指明：主自己也厌弃不洁者的祭献，并且郑重地加以禁止；那么我们这些罪人，若因劝戒而被人藐视，又有什么可惊奇的呢？
+
+> 作者剧场：
+>
+> 作者：我去，老师，手上沾满血献祭我还能说道说道，手上沾满精液献祭是个什么玩意？！
+>
+> Damian：我没这么比喻！
+>
+> 作者（尽力憋笑，一本正经地说瞎话）：您自己再读一读呢？先说沾满血可以指罪孽，又说精液由血和手产生，那么手上也就可以沾满精液，再考虑到本书核心内容以及刚刚提到的某个隐修士做了什么？“手上沾满血献祭”，我可以理解为正常的仪式行为，可能涉及一些古老的人祭或者自残传统，可能是牺牲等价交换。 “手上沾满精液献祭”……先说明白，我不记得任何一个仪式过程包括淫趴的献祭仪式会有这种情况，纯淫趴还差不多。我只听说过神靠自慰创造世界之类的神话，古希腊仪式禁止精液靠近祭坛，其他文化里我也并没有听说过这种——
+>
+> Damian：我没有描述任何祭献场景！
+>
+> 作者：那就好。我还以为您在描述某种我从来没听说过的礼仪。哦我想起来了！奥古斯丁曾经指控某些摩尼教徒在类似圣餐的仪式中收集并食用精液与经血。但是他也没指控他们会涂，或者接一手精液就去献祭了。另外这可能是酒神秘仪会有的场景，他们真不嫌脏。
+>
+> Damian：你有什么证据？
+>
+> 作者：……我想想。
+>
+> Damian：你刚才还说希腊人禁止精液靠近祭坛。
+>
+> 作者：哦，对。那酒神秘仪先排除。不过您的修辞又是怎么回事？（我感觉你就是想把没治理司铎性问题的教会说成一个大淫趴……）
+
+第二十章的拒绝祭献，仍然可以放在上帝是否悦纳不洁司祭所献祭物的层面讨论。但第十九章涉及的是司祭与会众之间的关系。司祭在替别人代求时，可能因自己的罪进一步激怒上帝，从而成为其他人灭亡的原因。上帝不悦纳某位司祭的代求或祭献，与该司祭施行的圣事在教会法上无效，并不是同一个命题，但是就结果来看，这里的司祭在此处起的作用，比收了钱的司祭起的作用大多了。他的立场可能在这三年间发生了转变，不过那不是我的重点，我的重点在他是如何处理、看待某一事件涉及的不同身份、群体的，而他的方式就目前看来具有连续性，即他理论上保留教会共同体的认识，实际上用属性——罪孽——为身份分类，因而将涉事方全部认为有罪。他后续怎么看待罪人们的行为确实有转变，但他怎么划分罪人，似乎一直有连续性。
+
+L114 里，他劝 Adelaide 审慎量刑：愤怒中的心灵看不清，水静才能照见；大卫延后惩罚是因为此时没有私人利害。这个例子多奇怪可以看 C 部分的 L161 章节。而顺着不当性行为相关信件这条线看的话，这个例子又说明了另一层问题：他有一套完整的“裁断者资格”论证，而且 L31 第七章（同伙互相告解）正是同一套程序性逻辑——裁断者自己卷入，判断就失效。
+
+另外 L114 他处理神职人员的同居者时认为，这些女人不能称为妻子，只能称为妾或娼妓，应被拒绝入堂，由 Adelaide 以世俗权力处理。同居女性被他直接归入加害一方的辅助角色（迫使祭坛的执事为自己的不洁服务），没有任何关于她们处境、自愿与否的考虑。这与 L31 里对灵性儿子的处理方式一致，但此处在法律身份上更明确。
+
+> Illorum vero clericorum feminae, qui matrimonia nequeunt legali iure contrahere, non coniuges sed concubinas potius sive prostibula congrue possumus apellare.
+>
+> 至于那些依法不得缔结婚姻的神职人员身边的女人，我们称她们为妻子并不合适，倒不如称她们为姘妇，甚至娼妓。
+
+而这一观点在 L112 里也有论述。详细的可以看[[妻子、妾，还是女奴？——彼得·达米安与教士身边的女性]]这篇论文，我也不知道 ChatGPT 从哪里给我翻出来的，总之我写不动了。
+
+好了我们回到 L31 这里。显然我们这位 Damian——哦，这个我可能得留到后面再说，因为讲道集那章是我先写的，我忘了各位如果没跳着看应该还没看到，不过无伤大雅，可以先去 Quid est philosophia 那章看看就知道这个是怎么回事了——挺热衷于让所有人和思想变成 ancilla 的。
+
+他对权力责任的强调的确相当超前，对掌权者的管制要求极高，如 L31 中认为不处罚或放任手下教士的人一样该死，如动员世俗女伯爵处理 Simony 问题，如认为高级神职的罪要更公开、更严厉地处理；但同时，他对于权力责任的认知除了系统结构内的权力，还有相当多的“个人能动性”与罪的“权力”，后者让他倾向于将涉事所有方都视作“共谋”。
+
+在这里我们也能看到，如果一个组织，对犯罪相关人员的解决方案要么是“全部打包开除或关监狱”，要么是和稀泥，那么，不论这个问题在其组织架构和思想理念下能不能解决，它显然都没法解决。一个组织如果既无法容忍彻底清除带来的人员损失，又不能建立有效的调查、责任区分与持续监督，那么它就会在严厉惩罚和宽松留任之间反复摇摆。严厉不产生牧灵关怀，宽容也不保证组织荣誉。
 
 #### 讲道集
 
-这里应有讲道集，也就是 [[sermones_petrus-damianus_144.epub]] 相关
-内容。面向群众讲道的神父达米安，和平时写信那个达米安，用的文学手段还是很不一样的。
+##### SERMO VI
+
+第六篇讲道纪念拉文纳主教 Eleuchadius。这篇讲道通常被认为约作于 1045 年 2 月 14 日。全篇我看下来有两条线索，一条是变着花样地“爱”哲学；一条是他“爱”够了哲学，就回过头接着讲出埃及记里的事件都怎么对应着该如何“爱”哲学。
+
+他先简要介绍，Eleuchadius 原是一位哲学家，后来经由 Apollinaris 接触并接受基督教信仰，最终将自己的学识用于教会；之后便开始讲道，用一套华丽修辞描述哲学家如何输给渔夫的弟子。
+
+> Erat autem Eleuchadius iste philosophus, sicut in ipsa beati magistri narratur historia. Superata est ergo sapientia Platonis a discipulo piscatoris. Misit rete verbi in profundam salsuginem Ravennatis oceani, et magliam auratam ad fidei littus traxit. Porro cujus magister olim noverat cuncta per stagna naviculam regere, discipulum docuit cum arguta dialecticorum versutia disputare; docuit, inquam, discipulum acris ingenii et acutae facundiae homines simplici sermone concludere, qui ad includendos per profunda pelagi pisces vilia consueverat retia subnodare.
+>
+> 如那位受人景仰的大师的传记所载，Eleuchadius 原是一位哲学家。如此，由一位渔夫的弟子，柏拉图的智慧被胜过了。他把圣言之网撒进拉文纳海洋深处的咸水中，并将金色的渔获拖到信仰的海岸。此外，他的老师从前懂得如何驾着小船穿行于各处水域，却教导弟子运用辩证论者那套机敏的论辩技巧进行辩论；我是说，他教导这位才智敏锐、口才犀利的弟子，以质朴的言语驳倒他人——而这位老师从前习惯于编结粗陋的渔网，用来捕捉深海中的鱼。
+
+于是，这位 Fonte Avellana 的 prior，在讲述 Eleuchadius 如何将自己的哲学与辩论能力用于宗教时，亲自向听众展示了修辞究竟有多么……质朴。至于他为什么要把捕鱼、驾船、编网和辩论全塞进同一个长难句里，想必是为了让我们更充分地理解这一点。
+
+> 作者注释：
+>
+> 他的听众应该能听懂他的中心含义，但是能不能理清那个长难句的结构，我不好说。
+
+接下来出场的是金牛犊。Damian 把它解释成凝结在偶像崇拜中的外邦人群体：它之所以是金的，是因为这里的金可以表示智慧；但智慧被错误地用于偶像崇拜，便结成了这样一个形体。于是，焚烧意味着爱德之火使人转变、磨碎指向宣讲击碎顽固、撒入水中的水指向洗礼、被以色列人饮下则意味着这些人被接纳进基督的身体、也就是教会之中。过去组成魔鬼身体的人，如今成为基督的肢体。
+
+只说这些会显得本篇讲道和本文有些宝宝巴士，所以我会把整个金牛犊比喻说完整。
+
+Damian 没有在那里结束。他接着讲，摩西不仅毁坏了金牛犊，还杀死了两万三千人。Damian 把这场屠杀类比为个人的灵性生活，即离开偶像崇拜还不够，就像经文中杀死兄弟、朋友与近人那样，“但由于那里十这个数目也被加倍了，我们由此可以明白：正如我们因肉身与灵魂的过失，一同轻忽了遵守十诫，我们也应当以德行的武器，击碎并治死二者之中的罪恶。（Sed quoniam illic et denarius numerus geminatur, datur intelligi quia sicut Decalogum praeceptorum culpa carnis, simul et animae servare contempsimus, sic etiam utriusque vitia, virtutum armis atterere et mortificare debemus.）”合起来，Damian 就借此表示，哲学，世俗智慧，被错误崇拜时，必须摧毁其偶像地位，其中可用的材料则可以被重新利用；而进入教会之中的人，因为轻忽十诫、肉身和灵魂上都有缺陷，应当更加忠诚于教会、遵守德行，不能再将智慧用于错误的对象。
+
+杀完以色列人，他把话题转回 Eleuchadius。这位从前研究自然、传授哲学的人，如今成为教会的导师。他从前是世俗智慧的教师，现在用自己的学识宣讲真理；从前探究自然事物的原因，现在瞻仰自然的创造者。Damian 甚至把他写成被宣讲之锤击碎、重新成为基督身体之肢体的人。金牛犊被毁坏，Eleuchadius 却被保留下来；被改变的是他所属的身体、学识的用途，以及整个人生的方向。
+
+至于金牛犊的智慧，熔了以后还能重新用。
+
+讲道后段，Damian 又用了被俘女子的比喻形容 Eleuchadius 如何“从哲学讲坛上走下来，放下教师的戒尺，谦卑地由主导教学的人变成基督的弟子。先前在世俗学问里学到的多余之物，他在更高贵的学校中删去了；其中的虚妄与迷信，他以教会的纯正教导纠正了。”。
+
+> Mulieri quippe caesariem radimus, cum rationabilis disciplinae sensus superfluos amputamus. Ungues etiam circumcidimus, cum ab ea mortua quaeque superstitionum opera desecamus. Quae etiam vestem deponere, in qua est capta, praecipitur: ut superductam fabularum et quorumlibet figmentorum exuat superficiem ac solidam verae rationis exhibeat veritatem. Patrem vero et matrem deflet, quia liberalium auctores artium inter mortuos deputat et eos in errore periisse compatiendo deplorat. Consuetudo autem feminarum est per unumquemque mensem se sui sanguinis effusione purgare. Post mensem itaque ad hanc mulierem intrare praecipimur, ut artem cujuslibet disciplinae omni superstitionum contagio defaecatam veluti in conjugium sortiamur, quatenus jam Israelitica facta consequenter in Israelitae conjugium transeat et bene fecunda spiritualim operum sobolem reddat.
+>
+> 我们剃去她的头发，就是剪除理性学问中多余的观念；剪去她的指甲，就是割除迷信中已经死去的行为；脱去被俘时的衣服，就是除去附着在学问上的虚构故事，使它呈现真正理性的坚实真相。她为父母哀哭，是因为我们把自由学艺的创始者列入亡者，悲伤他们在错误中死去。女子每月借流血洁净自身，所以命我们在一个月后娶她：这表示先洁净学问，使它成为以色列的一员，再使它与以色列结合，在属灵的工作上多结果实。
+
+> 作者吐槽：
+>
+> 那句“Philosophia ancilla theologiae”最初是他拿来要求哲学不可取代神学的位置的，参见论神圣全能。
+>
+> 让我们就此看看 Damian 给哲学安排的位置，又是婢女又是战俘的，他真的很“爱”哲学了。哇你们基督徒做哲学还包括人口拐卖。
+>
+> 至于如果 philosophia 是个阳性名词他会用什么比喻，那就是另一回事了。
+
+接着，他延续了之前引用的经文——什么出埃及记特辑——通过借用埃及人的金银和衣服，比喻如何用教外的哲学为教会服务。阅读世俗诗人和哲学家，可以帮助人更清楚地理解神圣言语。
+
+> Cui etiam non dissimile est quod idem Moyses Israelitico populo aurum et argentum cum vestibus ab Aegyptiis mutuari praecepit in quo videlicet, ut non diutius immorer, mystice aurum et argentum cum vestibus ab Aegyptiis petimus, unde Domino tabernaculum fabricemus cum mundanos poetas ac philosophos legimus, ut in divinis eloquiis luculentius proficere valeamus. Sive etiam, quod perspicacius est, aurum et argentum animae sunt pretiosae, quae cum vestibus simul, id est suis corporibus, populo Dei se copulant, ut tenebrosum hoc saeculum, velut Aegyptum deserant et terram promissam perpetuae felicitatis acquirant. Quod ergo beatus Eleuchadius mutuatus est ab Aegyptiis, profecit Israelitis, et thesaurum, quem gentilitati subripuit, sanctae dispensator Ecclesiae fideliter erogavit. Cujus quidem gesta non reperiuntur apicibus tradita, sed non sine causa vetustas, vel basilicam in ejus honorem construxit, vel ejus obitum annuae solemnitatis honoribus dedicavit Nam et nonnulla super Veteri ac Novo Testamento, sive etiam de incarnatione, vel passione Domini perhibetur exarasse volumina, quae tamen scriptorum arbitramur oblivione deleta. Quanquam et hoc ad cumulum meritorum ejus pertinere non immerito videatur, quod tunc se fieri consensit episcopum, cum Ecclesiam egestas opprimeret, et rudis adhuc fidei noviterque plantatae labor difficilior immineret, cum denique ad pristini ritus pullulantia germina radicitus evellenda incumberet graveque fastigium et temporalis subsidii deesset emolumentum. Licet enim Ecclesia jam tunc fuerit in fide fundata, Christiana tamen religio necdum erat vivendi moribus expolita.
+> 摩西还命以色列人向埃及人借取金银和衣服，用来建造上主的帐幕。这也有相似的意思：我们阅读世俗诗人和哲学家，好在理解神圣言语时得到更清楚的助益。另一层更深的解释是，金银指宝贵的灵魂，衣服指他们的身体；他们一起加入天主的子民，离开如埃及般黑暗的世代，赢得永福的预许之地。Eleuchadius 从埃及人那里借来的，使以色列人得益；他从外教那里取来的宝藏，则作为教会圣善的管家，忠实地分给众人。
+
+这篇讲道又赞美了一会儿 Eleuchadius 就结束了。但是我刚刚的吐槽真的很有意思——所以我让 Hermes Agent 根据我下载的他的拉丁语书信、著作全文（及英语翻译版）检索他对哲学、哲学家的评价，以及称什么为真正的哲学，结果是：他确实非常“爱”哲学。他几乎不肯承认世俗哲学值得爱，认为它必须被改造收编，又不断把自己真正珍视的东西命名为哲学。
+
+##### Quid est philosophia
+
+根据结果（[[达米安论哲学与哲学家_语料汇编]]和[[达米安论真哲学_语料汇编]]），philosophia 可以是战俘、婢女、妓女、魔鬼、金条（耶里哥的禁物）、金银财宝（泛指）；而哲学家可以是蛙群（十灾第二灾）、赤身裸体或者在井底颤抖的傻逼、掉粪坑的傻逼。对于哲学的称赞都只是承认世俗或异教哲学的工具价值，认为它们的形式和知识内容，即工具价值，可以为神学服务，但从未承认其精神地位和形而上学理论内容的正确性或可靠性。仅有的两次对世俗哲学（家）的正面评价是盖伦医学和将毕达哥拉斯当成音乐理论的正面权威。至于亚里士多德的通用尊称“那位哲学家”，他用了也不会说那到底是谁的。
+
+表一：对哲学的描述和比喻
+
+
+| 形象或比喻                 | 他想表达什么                                                                                                             | 出处                               |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 战俘新娘                   | 世俗学问可以被接纳，但必须先剃发、剪甲、脱衣，去掉迷信、虚构和多余的内容，并与原来的学术权威决裂。                       | 讲道集 6 §20；书信 153 §§41—42 |
+| 婢女与女主人               | 辩证术可以为神学服务，但不能反过来支配神学。婢女在自己的位置上可以受到尊重，一旦试图指挥女主人，就是僭越。               | 书信 119 §26                      |
+| 娼妓与合法妻子             | 修士抛弃属灵修行、沉迷语法学，就像抛弃合法妻子去找娼妓。世俗学问若不服务于属灵目标，便成了不正当的欲望。                 | 书信 153 §§40—42                |
+| 向埃及人借金银器           | 异教诗人和哲学家的知识并非一无是处。可以借用这些知识，但要把它们用于侍奉天主，就像以色列人用埃及的财宝建造圣所。         | 讲道集 6 §21；书信 160 §16       |
+| 金牛犊                     | 世俗智慧如同黄金：既可以制成有益的器物，也可能被铸成偶像。若它成为崇拜对象，就必须像金牛犊一样被焚毁、磨碎。             | 讲道集 6 §§6、11；3 §§4、10    |
+| 耶里哥的禁物金条           | 哲学家的精巧辩论和诗人的虚构可能成为危险的战利品。亚略、马尔西翁等人将异端思想带进教会，就像私藏本应被毁灭的禁物。       | 讲道集 57 §18                     |
+| 亚郎的杖吞掉术士的杖       | 基督教的真智慧不仅击败世俗智慧，还能够将其吸收、纳入自身。世俗学问在这里既是被废除的对手，也是被收编的材料。             | 《论真福与真智慧》                 |
+| 被基督的质朴击败的世俗智慧 | 原本精通哲学的埃琉卡狄乌斯接受基督教信仰，象征柏拉图的智慧被使徒传承击败。真正的胜利属于基督的质朴，而非世俗哲学的精巧。 | 讲道集 6 §3                       |
+
+表二：对“做哲学”与“哲学家”的描述和比喻
+
+
+| 形象或说法                                     | 他具体在说什么                                                                                                                                                                                                                 | 出处                                                        |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 渔夫成了雄辩家的老师                           | 天主没有选择哲学家和演说家传播福音，而是选择缺乏世俗学问的渔夫。达米安用这一对比反驳「没有语法、修辞和辩证术，就无法有效认识或传播真理」的想法。                                                                               | 讲道集 6 §3、57 §§6、19；书信 117 §7、132 §30、141 §3 |
+| 沼泽里的青蛙                                   | 他把异端与哲学家比作埃及十灾中的青蛙：他们在人群中喋喋不休，用错误论证嘲弄基督，却不能给听众提供真正有益的属灵教导。                                                                                                           | 书信 78 §11                                                |
+| 观星落坑的哲学家                               | 同一个故事被他用了两次：在书信 121 中，讽刺那些只会耕地、养猪，却敢在公共场所争论圣经解释的无知乡民；在书信 119 中，则警告那些自恃理性、超出自身能力去探究天主奥秘的人。哲学家本人始终没有被点名。                             | 书信 121 §2；119 §68                                      |
+| 蜘蛛织网                                       | 修士学者 Walter 自以为构造了精密而无法破解的学问，但在死亡面前，这些知识就像蜘蛛网一样被风吹散。达米安以此批评只追求学术精巧、却不能真正帮助灵魂得救的学问。                                                                   | 书信 117 §14                                               |
+| 赤身派与井底的逍遥派                           | 他一口气拒绝柏拉图、毕达哥拉斯、尼各马可、欧几里得、修辞家和辩证家，又讽刺赤身派为爱智慧而挨冻、逍遥派到井底寻找真理。他要寻求的真理不是藏在井里的哲学知识，而是已经向世界显现的基督。                                         | 书信 28 §4                                                 |
+| 披甲的三段论被击碎                             | 他针对那些试图用逻辑必然性限制天主全能的辩证家：按照通常推理，燃烧的木头应当烧尽，砍下的树枝不应结果，但燃烧的荆棘与亚郎发芽的杖恰好说明天主可以超越自然规律。                                                                 | 书信 119 §§26、50、52                                     |
+| 学园里的色诺克拉底与发怒的公牛                 | 他原本期待遇见像厄里亚或保禄一样谦卑隐修的人，却发现对方像色诺克拉底在学园里高谈阔论，又像公牛一样气势汹汹。他批评的是一位表现出好辩与傲慢的隐修者，而不是在讨论色诺克拉底的哲学理论。                                         | 书信 44 §3                                                 |
+| 天上的雅典学校                                 | 他称一处神职人员共同生活、研读圣经并遵守纪律的地方为「天上的雅典」，认为这里才是在学习真正的哲学。书信 109 中，他又把一位以整个人生体现教导与纪律的圣者称为真正的哲学家和教师。                                                | 书信 111 §2；109 §12                                      |
+| 不识字的隐修士胜过哲学家                       | 隐修士良几乎没有接受书面教育，却在圣经理解和属灵劝导上胜过文法家与世俗哲学家。达米安借此说明，学术训练不是衡量真正智慧的决定性标准。                                                                                           | 书信 117 §§18—19                                         |
+| 脱下学术袍，成为基督的哲学家                   | 达米安用脱下学术袍、换上修士服描述自己的身份转变；又把一位曾经的修辞学家彼得称为「如今的基督的哲学家」。哲学家的身份在这里由学术职业转向属灵生活。                                                                             | 书信 149 §14；165 开篇                                     |
+| 柏拉图：伟大的巨人，也可以被抛弃               | 他既借用柏拉图的声望，称其为伟大的哲学巨人，也批评其未能认识完整的神圣真理；在另一处，他干脆宣布拒绝研究自然与星辰的柏拉图，转而寻求基督的真理。                                                                               | 讲道集 11 §13、6 §3；书信 28 §4、117 §13                |
+| 亚里士多德：哲学家的至尊，也是无果的饶舌者     | 一处以「哲学家之至尊」称呼他，另一处则嘲讽亚里士多德式的精细论辩虽有雄辩，却无法产生真正成果。两种评价取决于他在具体论证中所承担的角色。                                                                                       | 讲道集 52《圣弥额尔总领天使》；11《圣母领报》               |
+| 毕达哥拉斯：被拒绝的哲学家，也是可用的知识来源 | 书信 28 中，他把测量天体的毕达哥拉斯列入拒绝清单；书信 153 中，却借毕达哥拉斯的 Y 字母告诫少年：人生会走向德行或恶习；书信 10 中，又援引毕达哥拉斯用水量测和声的故事，说明水与音乐的联系。                                     | 书信 28 §4、117 §13、153 §70、10 §10                    |
+| 斯多亚派：同一主张，前后说法相反               | 书信 146 中，他批评一些轻视基督教道德的人追随斯多亚派，主张「所有罪完全相等」；书信 164 中，他却说连斯多亚派也不认为所有罪应受同样惩罚，处罚必须按过失种类区分。两处分别把斯多亚派作为错误主张的代表，以及区别罪责轻重的论据。 | 书信 146 §19；164 §6                                      |
+
+这家伙灵活辩经的能力是真让我叹为观止，那怪不得他嫌修辞学是魔鬼教的呢，他对着河边往下一看就能看到魔鬼。比如同一个泰勒斯掉坑，可以两头都骂。我现在最同情的甚至不是哲学，而是泰勒斯。这哥们在古代哲学史里研究了一辈子自然，到了十一世纪还要被一个意大利隐修士反复从粪坑里捞出来（或让他的女仆 Iambi，“短长格”（Iambic meter）的发明者代劳），再踹回去，分别教育两批互相看不顺眼的人。
+
+> 作者吐槽：
+>
+> 作者为 Damian 设计了领域技能。
+>
+> Ager Damiani: De casu philosophorum（达米安的领域：论哲学家的坠落）
+>
+> 领域效果： 领域内任何试图凭借世俗智慧僭取神圣奥迹解释权的人，脚下立即生成一座粪坑。
+>
+> 追加判定： 若目标并非哲学家，而是未经训练便擅自解经的乡下人，依 Letter 121 同样触发。
+>
+> 特殊机制： 目标越是抬头仰望星辰，越无法察觉脚下地形变化。
+>
+> 领域宣言： Sapiens imperitia, stulta sapientia. ——明智的无知，愚拙的智慧。
+>
+> 作者远远一看，压根不敢过去劝架，生怕自己也掉粪坑里。
+>
+> 作者：我还得用望远镜才能看见发生了什么时，就能闻到了！
+>
+> 至于这家伙打着打着自己也掉进去了？他自己选的。Ager Damiani，恐怖如斯！
+>
+> 作者：他最好不要在坑里说这也是洗礼，还有什么这玩意能再利用给农夫当肥料，最好还是要让哲学家自己扛过去当肥料。
+>
+> 以及另一个领域技能
+>
+> Ager Damiani: De servitute philosophorum（达米安的领域：论哲学家的服役）
+>
+> 领域效果：所有试图凭世俗智慧规定神圣奥迹的哲学家，自动换上女仆装，获得“神学婢女”身份。
+>
+> Damian 见证其具体效果后脸红了，原因似乎相当复杂。
+>
+> Damian：……这是什么？
+>
+> 作者：婢女啊。
+>
+> Damian：我说的是 ancilla！
+>
+> 作者：对啊，maid。
+>
+> Damian：我说的是辩证术的地位，不是辩证家的着装！
+>
+> 作者：那你早说啊。
+>
+> 作者：不过您看这裙子的颜色，黑白相间，正好对应您修会的颜色。布料稀少，不足以御寒，正好体现克己、禁欲和身体的苦修。蕾丝和荷叶边象征世俗哲学那些华而不实的修辞装饰，必须在神学的监督下得到正确使用。而且您看，她们不仅端茶倒水，手里还拿着扫帚，这简直是完美的“纪律”化身啊！
+> ![[前言-2026-10-26-181329-001.webp]]
+
+而他眼中“真正的哲学”都是被挪用到“属灵上高贵、认识高的人”身上的。比如 Letter 109 的两位主角。比如他和他的读者。认不认字，会不会逻辑学、学没学过自由七艺？哲学标准不要卡太死。只要不去越界规定天主，并且以生活践行，那就是“真正的哲学”的基础与理想状态，哲学在他这里是一种生活与实践。不过，他所谓的实践不是通过改变现实关系来改变世界（这玩意听着有点太耳熟了对吧），而是通过禁欲、服从、补赎与默观，使自己越来越符合一个既定的神圣秩序。至于改变世界？这位一边劝人远离世俗事务、一边写信干预教会内外事务的隐修士，显然对此有着相当灵活的理解。
+
+> 作者吐槽：
+>
+> 不不不你们想什么呢，这家伙除了恐同和你们刚刚想到的那家伙没任何共同点！除非你把“……同性恋是一个物种”的背景算上，我们在之前讲过了，Damian 就是那套话语的规范性源头之一。
+
+###### Letter 49
+
+接下来我将转述 [[Sordillo_2021_达米安与萨莱诺的阿尔法诺一世_中文翻译]]的摘要，作为补充阅读证据。当哲学知识被纳入他认可的神学解释秩序时，它本身也可以成为阐述属灵生活的资源。具体内容，该论文可公开获取。
+
+> 彼得·达米安的第四十九封书信之中，包含了一种颇具原创性的寓意式诠释：他把犹太人的安息日解释为休息之日，并以对《圣经》六日创世（Esamerone）的秘契式解经为之增色。在这一解经之中，创世的六日恰与那被召去与天主亲密结合之人的内在旅程相对应。彼得·达米安借两幅图像来表达这一神化（*deificatio*）的过程：其一是作为微观宇宙（*microcosmus*）、作为受造界君主的人，其二是作为天主的殿宇的人。就达米安这一文本而言，其主要来源似应是埃梅萨的涅墨西乌斯（Nemesio di Emesa）所著的《论人的本性》（*De natura hominis*）；而达米安之所以能够知晓此书，则得益于萨莱诺的阿尔法诺一世的译文，阿尔法诺本人正是这封书信的收信人之一。这一点既由文本内部的证据所证实，同时也由一项初步的历史学与史学史重构所证实，而这一重构所追踪的，正是那条把彼得·达米安与萨莱诺大主教连结在一起的友谊线索。
+
+##### Letter 117：Litteras Latinas discere non debes
+
+（标题含义：你不应该学习拉丁文学）
+
+接下来，有关世俗技艺和哲学，我们可以看看 Letter 117。在 [[Letter 117]] 中，他用华丽的修辞向秘书 Ariprandus 讲述了，为什么他不该因没好好学自由七艺后悔。
+
+我不知道 Ariprandus 到底能不能看懂自己老师到底在拽什么词。但他至少应该能看懂自己老师都是如何攻击他后悔没学的世俗学问的，以及如何看待自由七艺、文学技艺的价值。
+
+首先，他的老师攻击知识的必要性。自由七艺是否构成认识神圣真理的必要条件？Damian 的答案当然是否定的。世俗学问、知识，仅仅是神圣真理的表现与上帝赐予的工具之一。
+
+他开篇使用类比，首先铺垫接受权威赐予的资源，不代表有了取代权威的资格。
+
+> Nimis ingratus est servus, si postquam tela vel gladios ab herili liberalitate percepit, eisdem mox armis accinctus, adversus dominum suum protinus in bella consurgit: perduellionis reus est miles qui, ditatus imperialibus donis, asserit aptius sibi convenire coronam quam subjectionis vel obedientiae clientelam.
+> 一个仆人，如果接受了主人慷慨赠予的长矛或宝剑，转眼就披挂同样的武器，起来与主人交战，那他实在忘恩负义；一个接受皇帝恩赐的骑士，如果宣称自己更适合戴上王冠，而不是保持臣属与服从的身份，那就是犯有叛逆之罪。
+
+由此，他的学生也被安排进战争中。Ariprandus 被研习自由七艺的想法困扰，而 Damian 的类比似乎在暗示，他虽然暂时没有直接将 Ariprandus 放到主动反叛权威的位置，但他将 Ariprandus 的才智、自由七艺基础放在了那里，因它们在“pugnare”（攻击）他的好学生（原文用了 impugnare 突出 Ariprandus 的状态），并借此引出属灵生活和学术生活的对比，将前者置于优先位置。在将 Ariprandus 未能学习自由七艺的遗憾放在知识资源与权威关系的类比框架下，取消学习它们的道德基础——并很有可能是通过赋予这类思想和技能主动“攻击”Ariprandus 的修辞效果，连同先前的类比暗示它们在反叛神圣权威——后，他不仅否认自由七艺的必要性，还通过 studiis / stultitiis 的修辞反转（谐音、对比），主动贬低了它们的价值，将“没必要学”进一步贬低为“因为此事不仅没必要还愚蠢，你最好不做”。
+
+> Confiteris te, fili mi, frequentius impugnari, et infestantium cogitationum perferre caliginem, quia cum docile cor ac facillimum habeas ad discendum, ante veri luminis aditum requisisti quam caecam philosophorum sapientiam disceres: ante ad eremum pervolasti, sequens vestigia piscatorum, quam liberalium artium non dicam studiis sed stultitiis insudares.
+> 我亲爱的儿子，你承认自己经常受到攻击，承受着那些侵扰你的思想所带来的阴霾，因为你有一颗善于受教的心，也很容易学习，却先去寻求通往真理之光的入口，然后才去学习哲学家那盲目的智慧。你先飞奔向荒野，追随渔夫们的足迹，然后才可能去——我不说是为自由七艺的研习而挥汗，而是为自由七艺的愚行而挥汗。
+
+他以“docile cor ac facillimum ... ad discendum”赞扬 Ariprandus 的学习能力，却没有因此鼓励他弥补学术上的遗憾。相反，学习能力越强，越需要通过正确的目标与秩序来决定它应该被用于何处。
+
+紧接着，他拿出了一套以 Ariprandus 的水平，大概率没法反驳的知识论：“蛇是第一个语法学家，教会了人类如何变格，并创造了不服从的语法学”。
+
+> Eritis sicut dii scientes bonum et malum.
+> 你们将如众神一样，知道善恶。拉丁语中，dii 或 dei 是 deus（神）的复数主格形式，“上帝”是单数主格 Deus。
+>
+> Ecce, frater, vis grammaticam discere? disce Deum pluraliter declinare. Artifex enim doctor, dum artem obedientiae noviter condit, ad colendos etiam plurimos deos inauditam mundo declinationis regulam introducit. Porro, qui vitiorum omnium catervas moliebatur inducere, cupiditatem scientiae quasi ducem exercitus posuit, sicque post eam infelici mundo cunctas iniquitatum turmas invexit.
+> 看啊，兄弟，你想学文法吗？那就学着把上帝变格为复数吧！这位技艺高超的教师，在创立不服从的技艺之际，还为崇拜众多神祇引入了一条世上前所未闻的变格规则。此外，那位企图引入一切恶德之群的家伙，把求知欲置于统帅的位置，于是让所有不义的军队跟在它后面进入这不幸的世界。
+
+开篇两段的例子围绕同一个中心：某种原本可以被视为恩赐或能力的东西，一旦被用于重新规定自己与更高权威的关系，就可以是不服从。语法本身并不需要真的成为一门邪恶的学科，但只要它能象征一种由知识通向僭越的路径，就足以在论证中发挥作用。就像上一段那样，才智带来的求知欲与知识，仍然被放在攻击神圣权威及其所属物——呃，人——的位置上。这段中，Damian 延续了军事比喻。蛇作为教师，创立不服从的技艺；语法作为诱惑的比喻，让人类学习如何把上帝变格为复数；求知欲成为恶德军队的统帅，带领人类重演最初的不服从。
+
+到了这里，之前我们不一定能确定的一个问题就能确定了：Damian 确实是将追求知识放在了不服从的位置。
+
+第 4—6 段 Damian 先引入牧羊人、羊群和祭献的比喻。基督作为牧者，有权决定羊群的去向，也有权将特定的羊分别出来，作为祭献。Damian 借此说明，不同人的生活道路并不需要采取相同形式。同时，他使用祭品意象和极其正统的献祭叙事，本段引文后他立刻使用“撒母耳被父母奉献给祭司和圣殿”和“施洗约翰则被从祭司家族中选出，进入荒野，成为宣告羔羊的先驱”这两个例子，将前面的比喻扩展为一套有关特殊拣选与奉献的圣经叙事。
+
+> Dum ergo de grege suo faciat possessor quisque quod velit, quo pacto non licuit Creatori tuo te velut agnum tenerrimum mensae refectionis apponere, reliquumque gregem in exterioris adhuc vitae pascuis reservare: ut te jam intra propria viscera speciali quadam familiaritate trajiciat, dum alios interim suis temporibus convertendos moderamine piae dispensationis exspectat?
+> 因此，既然每个所有者都可以按自己的意愿处置自己的羊群，为何造物主就不能将你如同最柔嫩的羔羊摆上自己筵席的桌案，而将其余的羊群保留在外在生命的草场上？以便祂如今以某种特殊的亲密将你纳入自己的肺腑，同时以虔诚安排的节制等候在祂自己的时候使其他人归正？
+
+他把“羔羊被献祭”和“圣餐（吃基督的肉）”的意象缝合在了一起。上帝不仅把 Ariprandus 当小羊排烤了吃了，还以某种“特殊的亲密”把他吞进了自己的内脏（viscera）里。别人是被上帝牧养（吃草），你是被上帝当晚餐吃掉。我去，他可太能安慰自己的小秘书了，尽管这确实是正统安慰（“吃我肉喝我血的人，常在我里面，我也常在他里面”）。被拣选者不仅被献上，而且被描绘成进入上帝自身之中的人，这让隐修生活的特殊地位表现为一种超越普通牧养关系的亲密。之后他并没有让 Ariprandus 继续沉浸在“我是上帝特别挑选的人”的优越感里。Damian 立刻告诉 Ariprandus，他不需要凭借文法和雄辩来证明自己有价值。他通过以西结、大卫、耶利米等人的例子，说明上帝会在不同人生阶段召唤不同的人，人进入属灵生活的时间与方式并不完全由个人决定，这意味着 Ariprandus 不能仅凭自己具有学习能力，或者认为学习文法有助于传教，就认定自己应该沿着学术道路发展。
+
+接下来也就进入了 7-9 段反驳“我想学好文法，是为了更好地传教，帮助更多人认识上帝”的阶段：
+
+其次，他的老师承认了知识的效用，但并不认为其起决定性作用。即使不是必要条件，文法、修辞、辩证术能否在传教、释经和写作中发挥作用？当然可以，但它相比 Damian 认同的条件而言，往往不值一提、算是无法有真正品德时的掩饰与替代品，并且就像之前强调其危险性和求知欲的罪恶那样，经常会起反效果。我并不知道他的讲道用的不是这些又是什么，但是我可以在讲解 7-9 段前，先行解释 Damian 为何会在这里，将世俗学问与追求世俗学问的欲望赋予如此低贱但危险、罪恶的位置。除了本文写作目的就是劝 Ariprandus 不要走上这条生活道路外，Damian 对世俗学问的敌意并不完全来自他对知识本身的认识。这里还涉及他对隐修生活及其价值秩序的理解。
+
+Damian 本人曾接受自由七艺教育，并以修辞学教师的身份获得声望。进入 Fonte Avellana 后，他却将人生目标转向隐修生活，并不断要求修士重新安排自己的时间、能力与身份认同。对于他而言，问题不仅在于文法、修辞和辩证术能否帮助人认识真理，还在于追求这些知识可能使人重新以世俗教育、学术成就和社会声望衡量自身价值。求知欲因而不只是获得知识的动机，也可能成为骄傲、竞争和僭越权威的起点。这与他在 Letter 117 开篇将知识资源比作君主赐予的武器、又将求知欲比作罪恶军队统帅的修辞相互呼应。
+
+此外，Damian 对学术能力与社会地位之间关系的警惕，也与其对共同体生活和劳动的理解有关。学术成就不应成为衡量一个人属灵价值的唯一尺度，不同的人都可以通过各自承担的活动履行宗教责任。但这并不意味着他反对既定的社会与宗教等级；相反，他希望不同能力都在各自的位置上服务于共同的宗教秩序。这点我们会在后续再次提及。
+
+因此，他对自由七艺的攻击同时包含认识论、修道纪律和社会价值判断三个层次。知识可以被使用，却不应成为独立的价值来源，更不应使追求知识的人取得规定神圣真理及其权威的资格。
+
+接下来我们回到 Letter 117。Damian 先是直接回应“学好文法就能使更多人皈依”的可能想法，他的理由自己已经说得很明白了：
+
+> Tu quoque valentius provocas videntes te properare post Christum, quam promovere potueras audientes qualibet multiplicitate verborum.
+> 同样，你奔向基督的行动，对亲眼看见你的人所产生的激励，比你凭借任何繁复言辞对听众所能产生的推动更为有力。
+>
+> Nec enim Deus omnipotens nostra grammatica indiget, ut post se homines trahat, cum in ipso humanae redemptionis exordio [...] non miserit philosophos et oratores, sed simplices potius ac piscatores.
+> 因为全能的上帝并不需要我们的文法来吸引人追随祂。在人类救赎之初，祂所派遣的不是哲学家和雄辩家，而是质朴之人与渔夫。
+
+并使用“活羊只能发出难听的叫声，但死羊能做成乐器”的比喻，劝勉 Ariprandus，因为这一比喻对应到讲道者，就是仍然按照肉体欲望生活的人无法有效传道；克制肉体欲望的人，反而能成为传达神圣话语的工具。这一部分是“讲道者需要什么”，他仍然认为讲道者需要的是让自己的生活成为典范，而非利用言语工具。
+
+> Tu quoque, fili mi, ut praedicandi sortiaris officium, imitare vel asini, de quo dictum est, vel etiam ovis exemplum. Quae nimirum cum vivit, turpiter balat, mortua vero in instrumentis musicis suaviter cantat.
+> 我的儿子，你若想获得讲道的职分，就应当效法前面提到的驴，或者效法绵羊。羊活着的时候，只会难听地咩咩叫；死后却能在乐器中甜美地歌唱。
+>
+> …
+>
+> omnis a te vitae carnalis humor evaneat, mens tua ab omni fluxu luxuriae prurientis arescat.
+> 让你身上一切肉欲生活的湿气都消散，让你的心智从一切令人骚动的淫欲之流中干涸。
+>
+> Si vis ergo vocem habere vel in praedicationibus intonantem, vel in orationibus efficacem, satage semper ut te divinus fervor accendat, ne vocem tuam torpor frigoris intercipiat.
+> 因此，如果你希望自己的声音在讲道时洪亮、祈祷时有效，就应始终努力让神圣的热忱燃烧于心，免得寒冷的麻木阻断你的声音。
+
+之后在第 11 段将追求知识的 Ariprandus 也放在了攻击主人的仆人，或叛国的骑士的位置上。
+
+> Enimvero cum te cordis acumen permovet ad querelam, quid aliud agis quam adversus Deum per eadem quae Deus contulit arma confligis?
+> 然而，当你敏锐的心智驱使你发出怨言时，你所做的，不正是拿上帝赐予你的武器，反过来与上帝交战吗？
+>
+> et dum scientiam, quae inflat, immoderatius flagitas, charitatem, quae aedificat, insipienter offendas.
+> 当你过度索求那使人自高自大的知识时，却愚蠢地冒犯了那使人得以建立的爱德。
+
+熟悉 Damian 的读者应该能看出来，我在 C 部分例零的观点受了谁的影响。这里依然是她的影响，Ranft 的 [[The Theology of Work Peter Damian and the Medieval Religious Renewal Movement.pdf]]
+
+Ranft 的解释是：他反对的是学术能力成为衡量人之价值的唯一标准，尤其担心学术精英凭借知识优势形成不平等的社会关系。
+
+在这一解释下，他所反对是学术能力取得超出其实际用途的价值权威。一个人可以因学识渊博而胜任某种工作，却不因此在人的价值上高于那些缺乏相应训练的人。知识的优势一旦成为评判人的普遍尺度，掌握知识者便可能凭借这种优势，在社会关系中取得超出其职分的优越地位。
+
+因此，Damian 对 Ariprandus 的劝诫也不只是要求他放弃学习文法的愿望，还是试图改变他评价自身生活的标准。Ariprandus 不必把未曾接受完整学术教育理解为一种人生缺陷，更不必以那些博学者的成就作为衡量自身属灵生活的尺度。他已经选择了另一种生活，而这种生活的价值取决于他如何实践它，并非取决于他掌握了多少世俗学问。我们可以在后续看到他用一个倒霉蛋，一位 stulte peritum（愚蠢的博学者）和一位 sapienter indoctum（智慧的无学者）向 Ariprandus 证明此事。
+
+> 作者剧场：
+>
+> （这次作者是在立场魔方和法术无效结界内对话）
+>
+> 作者：相信您发现了，我有时会用过度夸张、戏剧性的修辞。
+>
+> Damian：怎么会呢？我并没有听到任何能够附着修辞的话语。
+>
+> 作者：就是这样，我不抛出更震撼的内容，您就会开始这么说话，搞得话题像陀螺一样转得很快但一直不往前去，除非您给它一鞭子让它飞向你想要的方向。所以我会再抛出一个。
+>
+> 作者：Ranft 认为，您反对的是学术能力成为衡量人之价值的唯一标准，尤其担心学术精英凭借知识优势形成不平等的社会关系。
+>
+> Damian：她说得很好，我——
+>
+> 作者：就后来的情况来看，您的后辈成功把社会关系抹平了。
+>
+> Damian：哦？那些玩弄辩证法的家伙也能算我的后辈了吗？不过尽管不是同一个修会，但我们确实共享基督的身体，确实可以算作后辈。
+>
+> 作者：因为 Thomas 兄弟成功地把社会关系当成无关变量了，有关的只有天职和属灵价值，不论社会关系如何——
+>
+> Damian：——反对某种地位成为价值的唯一尺度，与反对产生这种地位的社会秩序，并不是同一个问题，后来的教会怎么了，养了一群吃——
+>
+> （作者手动将脏话消音。Damian 的大致意思是吃干饭不干活，挪一下他们自以为尊贵的手去做工都不乐意。）
+>
+> 作者：您可别这么说，他们也很认同等级啊，也很遵从他们应该做的事啊。
+>
+> Damian：那他们怎么不劳动！渔夫的智慧可不包括只讲道不干活！
+>
+> 作者：您就说他们是不是服从了他们当下应当服从的天职吧。
+>
+> Damian：……
+>
+> 作者：您可别想说是他们某几个知识分子对劳动的理解出了问题，或者被世俗的分工、专精带坏了。
+>
+> 作者：我们可以参考下柏拉图为奴隶制辩护的哲学论证过程，这也可以用于你后辈的天职论——毕竟，如果每个人都应该按照自己的天性履行相应职责，那么我们就需要讨论，谁有权判断一个人的天性，以及这种判断如何与既定的社会位置相互印证。另外话说回来，你说“别学文法”的样子，很像柏拉图当年要把诗人赶出理想国。
+>
+> Damian：正如你躲在法术无效结界和立场魔方里那样，你这段修辞用两层恶意，封锁住了你进入这一问题的通路——第一层，是你将对职责的判断与对既有地位的辩护混为一谈，仿佛一个人只要承认职责有所区别，就必然承认现存的一切区别都是正当的；第二层，则是你以判断者可能出错为由，暗示判断本身无从成立。你要求别人证明他们何以能够判断他人的天性，却在提出这一要求时，早已判断了他们的职责、他们的错误，以及他们何以无权如此判断。
+>
+> Damian：你说人们可能以既有的地位证明天性，再以天性证明地位；可是你自己也在以他们所处的地位证明他们判断的不公，再以这种不公证明他们不应占据这样的地位。倘若你认为这足以驳倒他们，那么你首先应当解释，为何同一种论证的形式，到了你手中便成了正义，到了他们手中便成了诡辩。
+>
+> Damian： 你不是要我回答谁有权判断人的天性吗？那么请先告诉我：你凭什么判断谁没有这种权利？如果你的答案是他们的行为，那么你已经承认，判断的根据可以超出一个人宣称拥有的地位；如果你的答案是他们的地位，那么你恰恰犯了自己刚刚指责他们犯下的错误。
+>
+> Damian： 所以，你并非站在循环之外审判循环。你只是给自己的循环换了一身衣裳，便以为它已经走出了原来的地方。
+>
+> 作者：……
+>
+> 作者：您最后这句话倒是说得不错。
+>
+> Damian：我很高兴你终于愿意承认——
+>
+> 作者： 可惜您的句子和您的论证一样循环往复，活像礼服上的丝带，绕来绕去，最后还是系回自己身上。对某种权威提出正当化要求，与声称自己拥有这种权威，为什么必须使用相同的论证结构？
+>
+> Damian：……
+>
+> 作者：您就说我们二位刚刚像不像亚里士多德和柏拉图论证奴隶制吧
+>
+> Damian：……我就说这不应该是隐修者该当作基础的问题
+>
+> 作者：我也同意，刚刚你提出来的确实不该是基础论据。需要我展示一个——算了，德勒兹太新了，斯宾诺莎吧——斯宾诺莎的基础论证吗？算了，道德基础问题要不康德？不过还是太……哎呀总之您是为了捍卫“神权的绝对超越性”而反对自然主义；而本人是为了捍卫“个体的生成与差异”而反对自然主义，也就是说刚刚您的论证很精彩但是对我们的交流而言，属于基础范畴出了问题。
+
+刚刚这几个大坑先放到一边，回到他的 Letter 117。
+
+随后，他利用 Walter 的临终状态，质疑学术成就作为人生价值尺度的可靠性。
+
+> Gualterus plane, magistri mei, scilicet Ivonis, socius fuit, qui per triginta ferme annos ita per occiduos fines sapientiam persecutus est, ut de regnis ad regna contenderet: et non modo Teutonum, Gallorum, sed et Saracenorum quoque Hispaniensium urbes, oppida simul atque provincias penetraret; sed mox ut, studiis toto, ut ita loquar, orbe corrasis, exsilium habitatione mutavit, et jam velut inpace compositus docere pueros coepit, aemuli sui, cujusdam videlicet alterius sapientis necessarii vel fautores, eum simpliciter gradientem ex insidiis occiderunt: qui confossus gladiis, non sacerdotes, ut mihi relatum arbitror, petiit; non de transactis confessionem vel poenitudinem gessit; sed usque ad ultimum spiritum hoc solum inclamare non desiit: Heu quale damnum!
+> 沃尔特（Gualterus）是我的老师伊沃（Ivo）的同伴。他为了追求智慧，在西方各地奔走了将近三十年，辗转于一个又一个王国之间。他不仅走遍了日耳曼人和法兰克人的土地，还深入了西班牙萨拉森人的城市、城镇与乡间各地。然而，当他终于从几乎整个世界搜罗了学问——容我这样说吧——结束漂泊，定居下来，仿佛终于得享安宁，开始教授孩童时，却遭到了他的竞争对手，即另一位学者的亲信或支持者的伏击。他只是在路上走着，便被他们杀害了。他身中数剑，却没有请求神父前来——至少据我所听闻的是这样——也没有为过去的所作所为告解或忏悔，而是直到咽下最后一口气，都不曾停止反复呼喊：唉，多么惨重的损失！
+
+Damian 用这个故事其实是在说：你把学术当成了人生的全部，学术就成了你的死神。 学术的沉没成本太高，以至于让你忘了灵魂的归宿。如果沃尔特当年学的是神学或者天天抽鞭子，他临死前喊的大概就是“赚了！我要去见上帝了！”但他临死前就像一个士兵死前喊“我不想死”或者亲人、恋人的名字那样，喊的是对学术的爱或遗憾。这个故事有点惨，我们看看接下来没被谋杀的二位。
+
+他又使用 Leo 和一位博学修士的对比，进一步向 Ariprandus 论证无知的属灵生活并不丢脸，不应为此感到困扰，反而应该因此感到荣耀与激励，因为你更可能将更多的智力用在你已经选择的属灵生活上，并比那些被世俗学问先入为主过的人更好地过属灵生活：
+
+> Tot siquidem exteriorum bonorum floribus enitescit: nobilis ut imperator; pulcher aspectu quodammodo, sicut Tullius loquitur; ut Virgilius poetatur; tuba vehemens in Ecclesia; perspicax et acutus est in lege divina; scholastice disputans, quasi descripta libri verba percurrit; vulgariter loquens, Romanae urbanitatis regulam non offendit. Quid de monachico prosequar ordine? quid de regularis magisterio disciplinae? In quorum videlicet notitia ita convaluit ut nec docere naviter possit; sed ejus, proh dolor! talis est vita, ut eum alteri nullus invideat, ad se introducere nemo deposcat; et, ut rem non diutius protraham, stulto sapienti monasterialis ad habitandum janua clauditur: cujus passim rusticis et 701A imperitis ac dyscolis aditus non negatur. Unde recte vir sapiens ait: « Melior est homo cui deficit sapientia, et deficiens sensu in timore, quam qui abundat sensu, et transgreditur legem Altissimi. »
+>
+> Quod etiam in Domino meo Leone probatur incluso. Posuimus enim stulte peritum, apponamus etiam sapienter indoctum. Hic plane Leo (cum praeter psalmos, aut nescio quid tenuissimum et extremum) litteras non didicerit, grammaticos quoslibet ac mundi philosophos in Scripturarum notitia et consiliorum spiritualium profunditate praecellit: ut quicunque ad illum de quovis animae negotio consulentes accedimus, suscipientes ab eo verbum, ita confidimus ac si prophetici spiritus oraculum reportemus. Sed quoniam et tibi apprime notus est, et opusculis nostris frequenter insertus, sufficiat unum hic verbum proponere quod nuper ab ejus ore quasi negligenter cecidit, sed a me negligenter audiri non potuit. Nam cum inter caetera spiritualiter vivendi capitula solerter inquirerem: Utrum ille post solutum nocturnae synaxis officium posset dormire si vellet, hoc se funditus nescire perhibuit. Cumque idipsum ego saepius iterarem, et an ille circa diluculum dormiret perquirerem, respondit ille se hoc omnimodis ignorare, quia nunquam penitus expertus esset. Subjunxit etiam se suis assuetum cogitationibus respondere: Accidietur, inquit, cor, palpitent oculi, os per crebra balaustia gannire non cesset, caput etiam nutet et in ima devergat; sed quia haec omnia me perimere nequeunt, ad consentiendum hujus temporis somno nullatenus superabunt. Nam et nos super hac re distichum feceramus, quod hic inserere otiosum esse non ducimus: Non canonem solvit, qui psallens nocte redormit:Ne tamen hoc passim ponat caput ante synaxim. Sed heu me miserum! hoc inter me et domnum Leonem, quod inter fortissimum David et delirum evenit histrionem. Ille siquidem viribus fortia fecerat, iste sola voce triumphalia ejus gesta decantat. Ille nimirum se Deo novit per somni mactare conflictum; nos versiculos facimus ad similitudinem puerorum. Et quale, quaeso, est effetum viribus ac tenuissimi corporis hominem jam per septuaginta fere annos in monastico habitu degere, et adhuc utrum diurnae lucis erumpente crepusculo dormire valeat, ignorare? Hic itaque prudens, hic vere dicendus est sapiens, qui, dum mundum calcibus abjicit, ipsum mundi principem philosophando deludit.
+>
+> 他身上仿佛盛开着种种外在美德的花朵，光彩夺目：他高贵得如同皇帝；容貌俊美，正如图利乌斯所言；又如维吉尔笔下所描绘的那般；他是教会中一支响亮的号角，对神圣律法的理解敏锐而深刻。当他以学者的方式进行辩论时，仿佛只是在逐字诵读书中已经写好的内容；而当他使用日常语言交谈时，也丝毫不违背罗马人的文雅规范。至于修道生活的秩序，我又该如何述说？至于修会纪律的教导，我又该如何称赞？他对这些事情的知识如此精深，以至于不能娴熟地教授他人。（作者注：原文直译如此。）然而，可悲啊！他的实际生活却是如此不堪，以至于没有人愿意把他的生活境况当作值得羡慕的榜样，也没有人希望把他接纳到自己身边。简而言之，修道院的大门对这位「愚蠢的智者」紧紧关闭，却向那些乡野之人、没有学问的人，甚至粗野难驯的人敞开。因此，那位智者说得对：「一个缺乏智慧、见识不足，却怀有敬畏之心的人，胜过一个见识丰富，却违背至高者律法的人。」
+>
+> 这一点也可以从我的主、隐修士 Leo 身上得到证明。我们已经举出了一位博学而愚蠢的人，现在再举出一位无学而智慧的人。这位 Leo，除了《诗篇》以及其他一些微不足道、少得可怜的文字之外，几乎没有受过什么教育。然而，在理解《圣经》和深入领会属灵劝导方面，他却胜过一切文法学家与世俗哲学家。因此，我们之中无论是谁，只要为灵魂的任何事务前去向他请教，在听取他的教导之后，都会满怀信心，仿佛自己刚刚领受了先知之灵的神谕。不过，既然你也非常熟悉他，而且他已经屡次出现在我的著作中，那么这里只需要举出他最近随口说出的一句话就够了。那句话从他口中说出时，似乎漫不经心；但我听见之后，却无法漫不经心地将它置之不理。当时，我正仔细询问他有关属灵生活的种种问题，其中一个问题是：在完成夜间的公共祈祷之后，如果他愿意，是否能够入睡？他回答说，自己完全不知道。我又反复追问，询问他是否会在黎明前后睡觉。他回答说，对此他同样一无所知，因为他从来没有亲自尝试过。他还补充说，自己习惯于这样回应心中升起的念头：「就让我的心疲惫吧，让我的眼睛困倦吧；就让我的嘴巴因为接连不断的哈欠而不停发出声音，让我的脑袋摇摇晃晃、低垂下去吧。但既然这一切都不能杀死我，它们就绝不可能迫使我在这个时候向睡眠屈服。」
+>
+> 关于这件事，我们还曾经写过一副双行诗。我觉得把它插在这里，并不算多此一举：「夜间诵唱圣咏时重新睡去的人，并不因此违犯规条；然而，他也不可因此随意在礼拜之前倒头就睡。」唉，我真是个可怜人！我与 Leo 大人之间的差别，恰如最英勇的大卫与一个疯癫的表演者之间的差别。大卫凭借自己的力量完成了英勇的壮举，而表演者却只能凭借声音歌颂他的胜利。Leo 懂得如何通过与睡眠搏斗，将自己献祭给上帝；而我们呢，却像孩子一样，只会编写几行小诗。试想，一个身体如此瘦弱、精力如此衰竭的人，已经身披修士服生活了将近七十年，直到如今，竟然还不知道自己能否在晨光初现时入睡！这又是何等了不起的事呢？因此，他才是真正明智的人，才是真正配得上智慧之名的人。他将世界一脚踢开，又凭借自己的智慧，愚弄了这个世界的统治者。
+
+最后可以看到，他老师还是没忍住，以自己为例子让 Ariprandus 了解喜欢文法、闲没事写诗的人到底什么样。
+
+最后，他的老师成功将知识的地位从他心头的遗憾、只能观看不能理解的高级人才所掌握的高级能力，转化为了看起来、且只应和更日常的工作起一样效益的普通、但术业有专攻的技艺。只需要注意当这些技艺实际被使用时，它们是否凭借自身获得权威，还是始终服从更高的宗教目的。其中知识并非毫无效用，但知识的积累、技艺的掌握与属灵意义上的智慧并不等同，但因为求知欲的僭越语法被 Damian 认为是属灵生活的人更不必刻意追求或以自己没有为辱的。
+
+至于他赞扬的质朴，是传达真理的权威和方式；他自己实践的，却是极其讲究语言组织、比喻和说服效果的写作，这一点，也许是世俗学问留下的无法抹去的印记与“既来之则安之”的天赋吧。
 
 #### 圣徒传记
 
@@ -1400,6 +2110,17 @@ illius camerarium esse me profiteor，“我宣认自己是她的内侍（camera
 
 - 较激进的读法：上帝的能力不受时间秩序限制，可以“撤销”过去。
 - 较谨慎的读法（目前多数学者倾向）：过去事件在上帝永恒的 providentia 里是不变的，所以“改变过去”在字面意义上不可能，但上帝的全能仍然完整，因为他对过去、现在、未来的能力是同一的。
+
+
+> 作者剧场：
+>
+> 作者：你活着时的经院哲学，虽然还没发展起来，我就不多说了，我肯定不会比你更清楚。你死后不到一百年，阿伯拉尔出来了。他写了一本《是与否》，把教父们互相矛盾的话排成两列，让读者自己判断。你猜他用的是什么工具？逻辑。辩证法。你骂过的那种东西。然后一百年后，阿奎那——托马斯·阿奎那——他把亚里士多德的整个体系搬进了神学。上帝成了第一因，天使成了纯形式，圣事成了质料与形式的结合。你的婢女论，Philosophia ancilla theologiae，被他发扬光大。你反对哲学绑架神学，但你的思想，你的框架，被他用来论证哲学为什么必须服侍神学，就像女主人出门当然要有个婢女那样。然后呢？然后经院哲学成了大学里的标准教材。每一个神学院学生都要学阿奎那，学司各脱，学奥卡姆。对了，他们的学校曾经正是本笃会的修道院。他们用逻辑论证上帝存在，用范畴分析天使的等级，用三段论解决一根针尖上能站几个天使这种问题。你把上帝从逻辑里赶出去，他们用你的话把上帝锁在逻辑里。你的劳苦——
+
+#### 总结
+
+> 作者剧场：
+>
+> 作者：——Miserere Magni Negatoris, qui doctrinam suam fundamento falso nimiaque indulgentia aedificavit, viam tenebrarum fatalem aperuit – quae ex eius labore crevit, sed eo non indiguit.
 
 ## 参考资料来源
 
